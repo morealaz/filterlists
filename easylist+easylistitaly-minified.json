@@ -29906,7 +29906,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "img[width=\"300\"][height=\"250\"],img[width=\"300\"][height=\"200\"],.cei-skin-side"
+		"selector": "img[width=\"300\"][height=\"250\"],img[width=\"300\"][height=\"200\"],.cei-skin-side,img[width=\"300\"][height=\"171\"]"
 	}
 },
 {
@@ -31711,6 +31711,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ecoaltomolise\\.net[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".spu-bg,.metaslider,.spu-container"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?teleaesse\\.it[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -32927,6 +32937,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": "div[id^=\"Banner\"],#background"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?erbanotizie\\.com[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".a-single,#striprotator,.banner234x60-right,.leaderboard-bottom,.manchette-dx,.manchette-sx"
 	}
 },
 {
@@ -38261,16 +38281,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?erbanotizie\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#striprotator,.banner234x60-right,.leaderboard-bottom,.manchette-dx,.manchette-sx"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mondodelgusto\\.it[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -39267,16 +39277,6 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".medic-widget"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ecoaltomolise\\.net[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".metaslider"
 	}
 },
 {
@@ -41687,6 +41687,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": "img[width=\"150\"][height=\"150\"],img[width=\"630\"]"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?molisetabloid\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "img[width=\"200\"][height=\"116\"]"
 	}
 },
 {
@@ -136803,6 +136813,26 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ecoaltomolise\\.net[^-_.%a-z0-9].*/5xmille-home\\.jpg",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?ecoaltomolise\\.net[^-_.%a-z0-9].*/5xmille-home\\.jpg"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ecodisicilia\\.com[^-_.%a-z0-9].*/logo_euroinfortunistica\\.gif",
 		"resource-type": [
 			"image",
@@ -143943,6 +143973,26 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?molisetabloid\\.it[^-_.%a-z0-9].*/lamolisana\\.png",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?molisetabloid\\.it[^-_.%a-z0-9].*/lamolisana\\.png"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mondo3\\.com[^-_.%a-z0-9].*/offerte-amazon-offerte\\.jpg",
 		"resource-type": [
 			"image",
@@ -148487,6 +148537,26 @@
 		],
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?tuttotek\\.it[^-_.%a-z0-9].*/Catch\\.jpg"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tv2000\\.it[^-_.%a-z0-9].*/8permillebanner2\\.jpg",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?tv2000\\.it[^-_.%a-z0-9].*/8permillebanner2\\.jpg"
 		]
 	},
 	"action": {
