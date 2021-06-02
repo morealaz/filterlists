@@ -88198,17 +88198,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^https?://([^/]+\\.)?truyenvn\\.com[^-_.%a-z0-9].*gif",
-		"resource-type": [
-			"image"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^https?://.*\\.tv/ads",
 		"resource-type": [
 			"image"
