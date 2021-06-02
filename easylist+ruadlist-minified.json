@@ -36016,7 +36016,7 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?sosalkino\\.art[^\\.][/:]?",
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?sslkn\\.com[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
     "action": {
@@ -56732,6 +56732,16 @@
     "action": {
       "type": "css-display-none",
       "selector": "div[class$=\"_ushki\"],div[id^=\"centered\"],iframe[src*=\"banners.php\"],td[style=\"width:180px; padding-left: 15px;\"] > table:last-child"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?ip-games\\.ru[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "div[class^=\"aHANiSE\"]"
     }
   },
   {
@@ -147742,6 +147752,41 @@
         "^[^:]+:(//)?([^/]+\\.)?banners\\.russian\\.fi/"
       ],
       "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^https?://([^/]+\\.)?com/$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "raw"
+      ],
+      "load-type": [
+        "third-party"
+      ],
+      "if-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?anivisual\\.net[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?dynamo\\.kiev\\.ua[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?epravda\\.com\\.ua[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?erzsebet\\.org[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?football\\.ua[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?gameguru\\.ru[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?isport\\.ua[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?pravda\\.com\\.ua[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?prostoeporno\\.org[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?prostoporno\\.fun[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?prostoporno\\.help[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?prostoporno\\.org[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?prutor\\.site[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?ruburn\\.info[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?trupornolabs\\.org[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?uniondht\\.org[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?www\\.i\\.ua[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?xxxadulttorrent\\.org[^\\.][/:]?"
+      ]
     },
     "action": {
       "type": "block"
