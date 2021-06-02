@@ -19831,16 +19831,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?huphimz\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".ads,.catfishLoader"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?phim\\.xemchuatv\\.net[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -20261,16 +20251,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?nettruyen\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".text-center.mrt5.mrb5"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?nhattruyen\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -20377,16 +20357,6 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".float-ck,.SC_TBlock,.adpia_banner,.adv-300-right"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?phimmedia\\.tv[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".float-ck,.adv-300-right"
 	}
 },
 {
@@ -20621,12 +20591,12 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?lauxanh\\.org[^\\.][/:]?",
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?90phut\\.online[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": ".float-ck,.header-ad-mobile,.footer-ad-mobile"
+		"selector": ".float-ck"
 	}
 },
 {
@@ -20737,16 +20707,6 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".tpm-ads-unit"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?phimvip\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".banner1,#banner_macau"
 	}
 },
 {
@@ -21181,16 +21141,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?binhluanvidamme\\.online[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#modal-media-image"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?nhaccuatui\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -21237,16 +21187,6 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".adsMobile"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?keonhacai1\\.net[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".ctnz,div[style^=\"height: 105px;\"]"
 	}
 },
 {
@@ -21482,16 +21422,6 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?vuighe\\.net[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".player-midpoint-progress"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?phim1080\\.net[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
@@ -21841,16 +21771,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?bongdatructuyen\\.vip[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".btn_bet_live"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?voh\\.com\\.vn[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -21911,16 +21831,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?bongda365\\.pro[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".buttonDatCuoc,.buttonFabet,.buttonNCL,[class^=\"ballon-\"]"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?hoathinh247\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -21967,16 +21877,6 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": "#banner_preload,.doc-truyen-ads-d1,.doc-truyen-ads-d2"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ngoac\\.vip[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".left-banners"
 	}
 },
 {
@@ -22391,16 +22291,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?bongtron\\.tv[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#adsModal"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ghiban\\.tv[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -22567,16 +22457,6 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".baohaiquan_bottom_970x250"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?hoanluu\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#custom_html-2 > .custom-html-widget.textwidget"
 	}
 },
 {
@@ -23007,6 +22887,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": "#player .banner,.quangcaomobile"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?lauxanh\\.org[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".header-ad-mobile,.footer-ad-mobile"
 	}
 },
 {
@@ -85543,7 +85433,6 @@
 			"script"
 		],
 		"if-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?nettruyen\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?nhattruyen\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?anime47\\.com[^\\.][/:]?"
 		]
@@ -85875,7 +85764,6 @@
 			"^[^:]+:(//)?([^/]+\\.)?phimgiz\\.net[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?vuviphimzz\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?hoitruyentranh\\.com[^\\.][/:]?",
-			"^[^:]+:(//)?([^/]+\\.)?90p\\.live[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?mythethao\\.net[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?baprangtv\\.net[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?fptplay\\.org[^\\.][/:]?",
@@ -87245,27 +87133,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?i-imgur-com\\.cdn\\.ampproject\\.org[^-_.%a-z0-9].*\\.gif",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"if-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?mitomtv\\.com[^\\.][/:]?",
-			"^[^:]+:(//)?([^/]+\\.)?keonhacai1\\.net[^\\.][/:]?"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?minhngoc\\.net[^-_.%a-z0-9].*\\.gif",
 		"resource-type": [
 			"image",
@@ -87318,9 +87185,7 @@
 			"^[^:]+:(//)?([^/]+\\.)?kingphimz\\.net[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?vphimz\\.net[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?phimmedia\\.me[^\\.][/:]?",
-			"^[^:]+:(//)?([^/]+\\.)?phimmedia\\.tv[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?vkool\\.net[^\\.][/:]?",
-			"^[^:]+:(//)?([^/]+\\.)?huphimz\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?topphimhdz\\.net[^\\.][/:]?"
 		]
 	},
@@ -87862,7 +87727,6 @@
 			"^[^:]+:(//)?([^/]+\\.)?chophanthiet\\.us[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?nhacdj\\.vn[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?phimmedia\\.me[^\\.][/:]?",
-			"^[^:]+:(//)?([^/]+\\.)?phimmedia\\.tv[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?phim\\.media[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?truyenfull\\.vn[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?animet\\.net[^\\.][/:]?",
@@ -90251,17 +90115,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^https?://([^/]+\\.)?sexmoi\\.club[^-_.%a-z0-9].*\\.gif",
-		"resource-type": [
-			"image"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?5giay\\.vn/igo/",
 		"resource-type": [
 			"image",
@@ -90911,26 +90764,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?bongdatube\\.live/files/q-c/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?bongdatube\\.live/files/q-c/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?catscdn\\.vn/.*banner",
 		"resource-type": [
 			"image",
@@ -91449,17 +91282,6 @@
 {
 	"trigger": {
 		"url-filter": "^https?://([^/]+\\.)?nghenhinvietnam\\.vn/.*banner",
-		"resource-type": [
-			"script"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^https?://([^/]+\\.)?nguoi-viet\\.com/.*advertising",
 		"resource-type": [
 			"script"
 		]
@@ -95741,7 +95563,6 @@
 			"^[^:]+:(//)?([^/]+\\.)?khogamepc\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?win10\\.vn[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?loinhacsong\\.com[^\\.][/:]?",
-			"^[^:]+:(//)?([^/]+\\.)?tailieupro\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?downmienphi\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?kites\\.vn[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?mshares\\.co[^\\.][/:]?",
