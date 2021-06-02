@@ -25211,6 +25211,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?siciliaogginotizie\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".g"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?sport-press\\.it[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -30421,6 +30431,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?palermo24\\.net[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "#slimbanner,div[style=\"overflow: hidden; height: 90px; width: 728px; margin: auto;\"],div[style=\"text-align: center; width: 468px; height: 60px; padding: 3px 0px 3px 0px;\"],div[style=\"text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;\"],div[style=\"overflow: hidden; height: 280px; width: 336px; margin: auto;\"],div[style=\"overflow: hidden; height: 60px; width: 160px; margin: auto;\"]"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?pallamanonews\\.it[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -33002,6 +33022,16 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?lombardinelmondo\\.org[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".a-single"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?monrealepress\\.it[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
@@ -35777,6 +35807,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": "#media_image-3,#media_image-23"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tribunapoliticaweb\\.sm[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "#media_image-3,div[id^=\"tribu-\"]"
 	}
 },
 {
@@ -38561,6 +38601,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?filodirettomonreale\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".ai-rotate"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?pagare\\.online[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -40841,6 +40891,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?palermopost\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".bjsromgazn-container"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ilquotidianoditalia\\.it[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -41677,6 +41737,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": "div[style=\"min-height:90px;min-width:940px\"]"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?esportsweb\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "div[style=\"min-width:300px; width: auto; min-height: 250px;\"],div[style=\"min-width:970px; width: auto; min-height: 250px;\"]"
 	}
 },
 {
@@ -133091,6 +133161,26 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?insicilia\\.com/modules/psaffiliate/",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?insicilia\\.com/modules/psaffiliate/"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?nencinisport\\.it/scambio/banner_",
 		"resource-type": [
 			"image",
@@ -144203,6 +144293,46 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?monrealepress\\.it[^-_.%a-z0-9].*/banner-",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?monrealepress\\.it[^-_.%a-z0-9].*/banner-"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?monrealepress\\.it[^-_.%a-z0-9].*/conad-",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?monrealepress\\.it[^-_.%a-z0-9].*/conad-"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?msmotor\\.tv[^-_.%a-z0-9].*/LOGO_Partner_",
 		"resource-type": [
 			"image",
@@ -145506,6 +145636,26 @@
 		],
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?paesesera\\.toscana\\.it[^-_.%a-z0-9].*/banner-"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?palermopost\\.it[^-_.%a-z0-9].*/1622491142927\\.jpg",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?palermopost\\.it[^-_.%a-z0-9].*/1622491142927\\.jpg"
 		]
 	},
 	"action": {
@@ -147674,6 +147824,26 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?socialtp\\.it[^-_.%a-z0-9].*/avviso-concorso-trapani-servizi\\.jpg",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?socialtp\\.it[^-_.%a-z0-9].*/avviso-concorso-trapani-servizi\\.jpg"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?socialtp\\.it[^-_.%a-z0-9].*/Baffo-Blu-",
 		"resource-type": [
 			"image",
@@ -148687,6 +148857,26 @@
 		],
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?trentinotv\\.it/images/banner/"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tribunapoliticaweb\\.sm[^-_.%a-z0-9].*/sumsquadrato1-",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?tribunapoliticaweb\\.sm[^-_.%a-z0-9].*/sumsquadrato1-"
 		]
 	},
 	"action": {

@@ -145589,31 +145589,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?rbp2\\.site([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ],
-      "load-type": [
-        "third-party"
-      ],
-      "unless-top-url": [
-        "^[^:]+:(//)?([^/]+\\.)?rbp2\\.site([^-_.%a-z0-9].*)?$"
-      ],
-      "top-url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?rexpush\\.org([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -146159,31 +146134,6 @@
       "unless-top-url": [
         "^[^:]+:(//)?([^/]+\\.)?uralweb\\.ru/js/mft/capcode/"
       ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?prkpshpr\\.site([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ],
-      "load-type": [
-        "third-party"
-      ],
-      "unless-top-url": [
-        "^[^:]+:(//)?([^/]+\\.)?prkpshpr\\.site([^-_.%a-z0-9].*)?$"
-      ],
-      "top-url-filter-is-case-sensitive": true
     },
     "action": {
       "type": "block"
@@ -147565,31 +147515,6 @@
       ],
       "unless-top-url": [
         "^[^:]+:(//)?([^/]+\\.)?bro2\\.biz([^-_.%a-z0-9].*)?$"
-      ],
-      "top-url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?cufitf\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ],
-      "load-type": [
-        "third-party"
-      ],
-      "unless-top-url": [
-        "^[^:]+:(//)?([^/]+\\.)?cufitf\\.com([^-_.%a-z0-9].*)?$"
       ],
       "top-url-filter-is-case-sensitive": true
     },
