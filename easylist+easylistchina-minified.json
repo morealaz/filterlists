@@ -25226,7 +25226,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": "div[class*=\"act-navspec\"],.tip_stopXP,#mzBrowserWrap,#rightXieCheng,#right > div:first-child,#J_search_bd > div:last-child,.mod-serchright,.chc-dzoem,.mzdh_bottom,#corner_a,div[id^=\"J_Topic\"],#topHf,#leftPacketMini,#leftPacketMain"
+      "selector": "div[class*=\"act-navspec\"],.tip_stopXP,#mzBrowserWrap,#rightXieCheng,#right > div:first-child,#J_search_bd > div:last-child,.mod-serchright,.chc-dzoem,.mzdh_bottom,#corner_a,div[id^=\"J_Topic\"],#topHf,#leftPacketMini,#J_hot_event,#leftPacketMain"
     }
   },
   {
@@ -134393,28 +134393,6 @@
       ],
       "unless-top-url": [
         "^[^:]+:(//)?([^/]+\\.)?01tn\\.cn([^-_.%a-z0-9].*)?$"
-      ],
-      "top-url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?0577renliu\\.net\\.cn([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ],
-      "unless-top-url": [
-        "^[^:]+:(//)?([^/]+\\.)?0577renliu\\.net\\.cn([^-_.%a-z0-9].*)?$"
       ],
       "top-url-filter-is-case-sensitive": true
     },

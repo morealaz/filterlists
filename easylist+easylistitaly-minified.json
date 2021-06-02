@@ -24331,6 +24331,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tecnoandroid\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "a[href*=\"//bit.ly/\"],.td-container-header"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?telegramdirectory\\.it[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -31392,16 +31402,6 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?romagiallorossa\\.it[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".td-container-header"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tecnoandroid\\.it[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
@@ -38836,7 +38836,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": ".bnn-fullwidth"
+		"selector": ".bnn-fullwidth,.cta_img"
 	}
 },
 {
@@ -147887,6 +147887,46 @@
 		],
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?stadiosport\\.it[^-_.%a-z0-9].*/eurobet-scommesse\\.jpg"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?stateofmind\\.it[^-_.%a-z0-9].*/banner_",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?stateofmind\\.it[^-_.%a-z0-9].*/banner_"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?stateofmind\\.it[^-_.%a-z0-9].*_skin\\.",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?stateofmind\\.it[^-_.%a-z0-9].*_skin\\."
 		]
 	},
 	"action": {
