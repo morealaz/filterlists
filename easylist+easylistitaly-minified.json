@@ -22856,7 +22856,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": ".leaderboard_wrapper,.banner_associazioni_wrapper"
+		"selector": ".leaderboard_wrapper,.cskin,.banner_associazioni_wrapper"
 	}
 },
 {
@@ -23737,6 +23737,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".e3lan"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?specchiosesto\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".e3lan,#text-html-widget-2"
 	}
 },
 {
@@ -26166,7 +26176,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "div[style=\"text-align: center; width: 300px; height: 250px;\"],div[style=\"overflow: hidden; height: 60px; width: 468px; margin: auto;\"],#main-slim,#masthead,div[style=\"min-height: 250px; max-height: 600px; overflow: hidden; width: 300px; margin: auto;\"],div[style=\"text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;\"],div[style=\"overflow: hidden; height: 60px; width: 160px; margin: auto;\"],div[style=\"padding: 0px 0px 3px 0px; min-height: 600px;\"]"
+		"selector": "div[style=\"text-align: center; width: 300px; height: 250px;\"],div[style=\"overflow: hidden; height: 60px; width: 468px; margin: auto;\"],#main-slim,#masthead,div[style=\"min-height: 250px; max-height: 600px; overflow: hidden; width: 300px; margin: auto;\"],div[style=\"text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;\"],div[style=\"overflow: hidden; height: 60px; width: 160px; margin: auto;\"]"
 	}
 },
 {
@@ -26376,7 +26386,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": ".masthead,#slimbanner,div[style=\"overflow: hidden; height: 90px; width: 728px; margin: auto;\"],div[style=\"overflow: hidden; height: 60px; width: 160px; margin: auto;\"],div[style=\"padding: 0px 0px 3px 0px; min-height: 600px;\"],div[style=\"padding: 3px 0; width: 336px; height: 280px; overflow: hidden;\"],div[style=\"padding: 3px 0px 3px 0px; min-height: 250px;\"]"
+		"selector": ".masthead,#slimbanner,div[style=\"overflow: hidden; height: 90px; width: 728px; margin: auto;\"],div[style=\"overflow: hidden; height: 60px; width: 160px; margin: auto;\"]"
 	}
 },
 {
@@ -30011,6 +30021,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ilpuntonotizie\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".SC_TBlock,.td-header-rec-wrap,.vc_custom_1508767821833"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?universodelgioco\\.it[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -30536,7 +30556,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "#slimbanner,div[style=\"overflow: hidden; height: 240px; width: 160px; margin: auto;\"],div[style=\"padding: 0px 0px 3px 0px; min-height: 90px;\"],div[style=\"padding: 3px 0px 3px 0px; min-height: 250px;\"]"
+		"selector": "#slimbanner"
 	}
 },
 {
@@ -30586,7 +30606,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "#slimbanner,div[style=\"overflow: hidden; height: 250px; width: 300px; margin: auto;\"],div[style=\"overflow: hidden; height: 600px; width: 160px; margin: auto;\"],div[style=\"overflow: hidden; height: 60px; width: 468px; margin: auto;\"],div[style=\"overflow: hidden; height: 90px; width: 728px; margin: auto;\"],div[style=\"text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;\"],div[style=\"overflow: hidden; height: 280px; width: 336px; margin: auto;\"],div[style=\"overflow: hidden; height: 60px; width: 160px; margin: auto;\"],div[style=\"overflow: hidden; height: 90px; width: 336px; margin: auto;\"]"
+		"selector": "#slimbanner,div[style=\"overflow: hidden; height: 250px; width: 300px; margin: auto;\"],div[style=\"overflow: hidden; height: 600px; width: 160px; margin: auto;\"],div[style=\"overflow: hidden; height: 60px; width: 468px; margin: auto;\"],div[style=\"overflow: hidden; height: 90px; width: 728px; margin: auto;\"],div[style=\"text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;\"],div[style=\"overflow: hidden; height: 280px; width: 336px; margin: auto;\"],div[style=\"overflow: hidden; height: 60px; width: 160px; margin: auto;\"]"
 	}
 },
 {
@@ -30646,7 +30666,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "#slimbanner,div[style=\"overflow: hidden; height: 250px; width: 300px; margin: auto;\"],div[style=\"overflow: hidden; height: 600px; width: 160px; margin: auto;\"],div[style=\"overflow: hidden; height: 60px; width: 468px; margin: auto;\"],div[style=\"overflow: hidden; height: 90px; width: 728px; margin: auto;\"],div[style=\"text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;\"],div[style=\"overflow: hidden; height: 280px; width: 336px; margin: auto;\"],div[style=\"overflow: hidden; height: 60px; width: 160px; margin: auto;\"],div[style=\"overflow: hidden; height: 90px; width: 336px; margin: auto;\"]"
+		"selector": "#slimbanner,div[style=\"overflow: hidden; height: 250px; width: 300px; margin: auto;\"],div[style=\"overflow: hidden; height: 600px; width: 160px; margin: auto;\"],div[style=\"overflow: hidden; height: 60px; width: 468px; margin: auto;\"],div[style=\"overflow: hidden; height: 90px; width: 728px; margin: auto;\"],div[style=\"text-align: center; width: 336px; height: 280px; padding: 3px 0px 3px 0px;\"],div[style=\"overflow: hidden; height: 280px; width: 336px; margin: auto;\"],div[style=\"overflow: hidden; height: 60px; width: 160px; margin: auto;\"]"
 	}
 },
 {
@@ -32417,6 +32437,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".nascondiads"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?sestonotizie\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".mh-banner"
 	}
 },
 {
@@ -35491,16 +35521,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ilpuntonotizie\\.it[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".td-header-rec-wrap,.vc_custom_1508767821833"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?legavolley\\.it[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -37552,6 +37572,16 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?fermanafc\\.com[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".slick-track"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?magentanostra\\.it[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
@@ -41297,6 +41327,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".mod"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?nordmilano24\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".musthead"
 	}
 },
 {
@@ -141053,6 +141093,26 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?insanitas\\.it/wp-content/banners/",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?insanitas\\.it/wp-content/banners/"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?insic\\.it/images/layout/banner-",
 		"resource-type": [
 			"image",
@@ -144773,6 +144833,26 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?nordmilano24\\.it[^-_.%a-z0-9].*/banner-",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?nordmilano24\\.it[^-_.%a-z0-9].*/banner-"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^https?://([^/]+\\.)?notebookcheck\\.it/fileadmin/sonstiges/ama_abn2_",
 		"resource-type": [
 			"raw"
@@ -147624,6 +147704,66 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?sestonotizie\\.it[^-_.%a-z0-9].*/BANNER_",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?sestonotizie\\.it[^-_.%a-z0-9].*/BANNER_"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?sestonotizie\\.it[^-_.%a-z0-9].*/pentola-d-oro-sesto-san-giovanni\\.jpg",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?sestonotizie\\.it[^-_.%a-z0-9].*/pentola-d-oro-sesto-san-giovanni\\.jpg"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?sestonotizie\\.it[^-_.%a-z0-9].*/SESTO_360x210\\.jpg",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?sestonotizie\\.it[^-_.%a-z0-9].*/SESTO_360x210\\.jpg"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?shortpixel\\.ai[^-_.%a-z0-9].*-banner-",
 		"resource-type": [
 			"image",
@@ -148136,6 +148276,46 @@
 		],
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?spaziotennis\\.com[^-_.%a-z0-9].*/RTA-quadrato\\.jpg"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?specchiosesto\\.it[^-_.%a-z0-9].*-banner-",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?specchiosesto\\.it[^-_.%a-z0-9].*-banner-"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?specchiosesto\\.it[^-_.%a-z0-9].*/banner-",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?specchiosesto\\.it[^-_.%a-z0-9].*/banner-"
 		]
 	},
 	"action": {

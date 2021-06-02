@@ -20741,6 +20741,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?truyenqq\\.net[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "div[id^=\"image_popup_\"],#ads_mobile"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?cafef\\.vn[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -21646,7 +21656,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": ".Content-QC,.items-qc,.QC-CM,.QC-R,.tab-qc"
+		"selector": ".Content-QC,.QC-CM,.QC-R,.items-qc,.tab-qc"
 	}
 },
 {
@@ -91912,28 +91922,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?cdn\\.bgn\\.gg([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?cdn\\.bgn\\.gg([^-_.%a-z0-9].*)?$"
-		],
-		"top-url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?cdn-ads\\.thesaigontimes\\.vn([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -91969,6 +91957,28 @@
 		],
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?cdn-qc\\.coccoc\\.com([^-_.%a-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?cdn\\.bgn\\.gg([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?cdn\\.bgn\\.gg([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
 	},
