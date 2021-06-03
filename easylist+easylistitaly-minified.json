@@ -21501,6 +21501,36 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?dolciveloci\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".adv,#masthead,#delta-mobile-bottom"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?donnaglamour\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".adv,#masthead,#delta-mobile-bottom"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?economiafinanzaonline\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".adv,#masthead,#delta-mobile-bottom"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?fcinter1908\\.it[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -21711,12 +21741,42 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?newsmondo\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".adv,#masthead,#delta-mobile-bottom"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?notiziebenessere\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".adv,#masthead,#delta-mobile-bottom"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?notiziemilan\\.it[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
 		"type": "css-display-none",
 		"selector": ".adv,#delta-mobile-bottom"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?notiziemusica\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".adv,#masthead,#delta-mobile-bottom"
 	}
 },
 {
@@ -21767,6 +21827,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".adv,.leaderboard"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?primochef\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".adv,#masthead,#delta-mobile-bottom"
 	}
 },
 {
@@ -22887,6 +22957,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".promo,a[href*=\"//www.amazon.\"][href*=\"tag=\"],.boxAdv,a[href^=\"https://www.primevideo.com/\"][href*=\"tag=\"],.primeTrack,.sponPro"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?popcorntv\\.it[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "#top"
 	}
 },
 {
@@ -36327,76 +36407,6 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": "#cdt-ads-medium-rectangle"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?dolciveloci\\.it[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#delta-mobile-bottom"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?donnaglamour\\.it[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#delta-mobile-bottom"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?economiafinanzaonline\\.it[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#delta-mobile-bottom"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?newsmondo\\.it[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#delta-mobile-bottom"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?notiziebenessere\\.it[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#delta-mobile-bottom"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?notiziemusica\\.it[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#delta-mobile-bottom"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?primochef\\.it[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#delta-mobile-bottom"
 	}
 },
 {
@@ -134212,46 +134222,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncialessandria\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncialessandria\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annunciaosta\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annunciaosta\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annunciasti\\.it/banner/",
 		"resource-type": [
 			"image",
@@ -134264,106 +134234,6 @@
 		],
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?annunciasti\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncibergamo\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncibergamo\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncibiella\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncibiella\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncibrescia\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncibrescia\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncicomo\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncicomo\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncicremona\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncicremona\\.it/banner/"
 		]
 	},
 	"action": {
@@ -134392,126 +134262,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncilecco\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncilecco\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncilodi\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncilodi\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncilombardia\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncilombardia\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncimantova\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncimantova\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncimilano\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncimilano\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncimonzabrianza\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncimonzabrianza\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncinovara\\.it/banner/",
 		"resource-type": [
 			"image",
@@ -134524,26 +134274,6 @@
 		],
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?annuncinovara\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncipavia\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncipavia\\.it/banner/"
 		]
 	},
 	"action": {
@@ -134572,26 +134302,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncisondrio\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncisondrio\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncitorino\\.it/banner/",
 		"resource-type": [
 			"image",
@@ -134604,46 +134314,6 @@
 		],
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?annuncitorino\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncivalledaosta\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncivalledaosta\\.it/banner/"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?annuncivarese\\.it/banner/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?annuncivarese\\.it/banner/"
 		]
 	},
 	"action": {

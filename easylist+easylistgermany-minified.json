@@ -22691,6 +22691,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mygermantimes\\.com[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "img[width=\"300\"][height=\"250\"]"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?wirsiegen\\.de[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -26397,6 +26407,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": "#media_image-4,.ad_list"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?pressecop24\\.com[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "#media_image-4"
 	}
 },
 {
