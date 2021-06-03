@@ -15671,6 +15671,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?wsj\\.com[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "#saving-united-coupon-list"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?probuilds\\.net[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -20291,16 +20301,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?nhattruyen\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".text-center.mrt5.mrb5"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?animetvn\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -20321,7 +20321,7 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?nhattruyentranh\\.com[^\\.][/:]?",
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?nhattruyen(tranh)?\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
@@ -21221,16 +21221,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?thevangtv\\.vip[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".adsMobile"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ybox\\.vn[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -21427,16 +21417,6 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".menu_banner"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?thoibao\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".vc_align_left"
 	}
 },
 {
@@ -21721,7 +21701,7 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?topphimmoiz\\.net[^\\.][/:]?",
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?motphimmoi\\.net[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
@@ -85349,21 +85329,6 @@
 			"^[^:]+:(//)?([^/]+\\.)?js-agent\\.newrelic\\.com"
 		],
 		"top-url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^https?://.*\\.me/.*\\.js",
-		"resource-type": [
-			"script"
-		],
-		"if-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?nhattruyen\\.com[^\\.][/:]?",
-			"^[^:]+:(//)?([^/]+\\.)?anime47\\.com[^\\.][/:]?"
-		]
 	},
 	"action": {
 		"type": "block"
