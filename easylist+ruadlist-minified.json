@@ -54956,16 +54956,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?professionali\\.ru[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": ".pr-banner-wrap"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?boxrec\\.com[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
@@ -56432,16 +56422,6 @@
     "action": {
       "type": "css-display-none",
       "selector": "body > div[style^=\"width:\"][style*=\"1265px\"],.lista > center > a[rel=\"nofollow\"][href][target=\"_blank\"],a[href*=\"/api/redirect?\"]"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?trserial\\.net\\.ua[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": "center > ins ~ *"
     }
   },
   {
