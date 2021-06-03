@@ -21296,7 +21296,7 @@
 	},
 	"action": {
 		"type": "ignore-previous-rules",
-		"selector": ".adlink,#advertentie,#ad_right"
+		"selector": ".adlink"
 	}
 },
 {
@@ -21307,26 +21307,6 @@
 	"action": {
 		"type": "ignore-previous-rules",
 		"selector": ".adsbox"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?autodealers\\.nl[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "ignore-previous-rules",
-		"selector": "#advertentie,#ad_wrap,.ad_background"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?speurders\\.nl[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "ignore-previous-rules",
-		"selector": "#advertentie"
 	}
 },
 {
@@ -21477,36 +21457,6 @@
 	"action": {
 		"type": "ignore-previous-rules",
 		"selector": ".advertentie"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?autobedrijfscheele\\.nl[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "ignore-previous-rules",
-		"selector": "#ad_wrap,.ad_background"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?autoroden\\.nl[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "ignore-previous-rules",
-		"selector": "#ad_wrap,.ad_background"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?henkheikamp\\.nl[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "ignore-previous-rules",
-		"selector": "#ad_wrap,.ad_background"
 	}
 },
 {
@@ -83602,27 +83552,6 @@
 		],
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?weertdegekste\\.nl[^-_.%a-z0-9].*banner"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?bva-auctions\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"if-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?telegraaf\\.nl[^\\.][/:]?"
 		]
 	},
 	"action": {

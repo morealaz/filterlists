@@ -37076,16 +37076,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?www\\.rambler\\.ru[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": "svg > defs + g,svg ~ img[src],a[href*=\"clck.ru\"]"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?mail\\.rambler\\.ru[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
@@ -37492,6 +37482,16 @@
     "action": {
       "type": "css-display-none",
       "selector": "[class*=\"adv-\"][class*=\"new\"],#header_advt-wrapper,div[id^=\"slot300x\"],.news-list-col > .news-list"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?www\\.rambler\\.ru[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "svg ~ img[src],a[href*=\"clck.ru\"],:not([data-cerber]) > svg > defs + g"
     }
   },
   {
@@ -147533,6 +147533,31 @@
       ],
       "unless-top-url": [
         "^[^:]+:(//)?([^/]+\\.)?smiru\\.site([^-_.%a-z0-9].*)?$"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?zxeubv\\.com([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "load-type": [
+        "third-party"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?zxeubv\\.com([^-_.%a-z0-9].*)?$"
       ],
       "top-url-filter-is-case-sensitive": true
     },

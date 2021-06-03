@@ -31486,7 +31486,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": "style + div[id],.vdtp + a,a > video"
+      "selector": ".vddb+a,.vddb,.vddb_qq,style+div[id],a>video"
     }
   },
   {
