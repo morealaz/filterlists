@@ -88993,17 +88993,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^https?://([^/]+\\.)?sieukhungz\\.net[^-_.%a-z0-9].*\\.gif",
-		"resource-type": [
-			"image"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?phimchonz\\.com/ads/",
 		"resource-type": [
 			"image",
