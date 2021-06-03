@@ -21861,6 +21861,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?stuttgarter-zeitung\\.de[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "#billboard"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?home\\.1und1\\.de[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -23647,6 +23657,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": "#tMRM_amazon,#tMRM_billiger"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?presse-nachrichten\\.de[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "#custom_html-4"
 	}
 },
 {
