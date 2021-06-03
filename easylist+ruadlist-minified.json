@@ -25351,7 +25351,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": "div[class*=\"banner\"],[class*=\"googleBanner\"],.branding,iframe[id^=\"google\"]"
+      "selector": "div[class*=\"banner\"],[class*=\"googleBanner\"],.branding,iframe[id^=\"google\"],.--readToo:empty"
     }
   },
   {
@@ -49916,6 +49916,16 @@
   },
   {
     "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?prostotds\\.ru[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "*"
+    }
+  },
+  {
+    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?pusja\\.ga[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
@@ -56576,6 +56586,16 @@
   },
   {
     "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?ip-games\\.ru[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".container > div > div[style^=\"background:\"],a[href*=\"/advertising.\"]"
+    }
+  },
+  {
+    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?southpark-online\\.ru[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
@@ -56746,6 +56766,16 @@
   },
   {
     "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?freetp\\.org[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "a[href=\"/dlink.php\"]"
+    }
+  },
+  {
+    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?barneos22\\.ru[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
@@ -56762,16 +56792,6 @@
     "action": {
       "type": "css-display-none",
       "selector": "div[class$=\"_ushki\"],div[id^=\"centered\"],iframe[src*=\"banners.php\"],td[style=\"width:180px; padding-left: 15px;\"] > table:last-child"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?ip-games\\.ru[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": "div[class^=\"aHANiSE\"]"
     }
   },
   {
