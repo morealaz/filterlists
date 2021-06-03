@@ -21666,7 +21666,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".under-tips,div[data-ad],.yitiao-box,#cms-scroll,#wgt-ad-right-fixed,.adTopImg,.wgt-bottom-union,.wgt-ads,.ec_im_container,div[class$=\"-ecom-ads\"],#wgt-left-promo,.ad-platform-tips,.fengchao-wrap-feed,.fengchao-wrap,.spread-wrap,div[id^=\"toast\"],#sning1,.text-link-ads,#adCard,#knowledge-answer,#content_right > div > div[id^=\"m\"],.topBanner,.ec_pc_ad,.ecom_pingzhuan,.opr-zhaopin-ad-ctn,#search_bottomad,.ec-oad,.search-aside-adWrap,#fengchaoad,.ec-ads-container,.ad-vip-close-bottom,.gg-content,.bannerdown,#index_right_float,.ec-fc-ad-results,.content-adv,.ec-ad,.ec_wise_ad,.qb-other-answer-wmad,.swan-ad-fc-feed,#fc-left,.ad-taishan,#ggbtm,.ec_ad,.s-nativead-item,.nav_ads,.ad-list"
+      "selector": ".under-tips,div[data-ad],.yitiao-box,#cms-scroll,#wgt-ad-right-fixed,.adTopImg,.wgt-bottom-union,.wgt-ads,.ec_im_container,div[class$=\"-ecom-ads\"],#wgt-left-promo,.ad-platform-tips,.fengchao-wrap-feed,.fengchao-wrap,.spread-wrap,div[id^=\"toast\"],#sning1,.text-link-ads,#adCard,#knowledge-answer,#content_right > div > div[id^=\"m\"],.topBanner,.ec_pc_ad,.ecom_pingzhuan,.opr-zhaopin-ad-ctn,#search_bottomad,.ec-oad,.search-aside-adWrap,#fengchaoad,.ec-ads-container,.ad-vip-close-bottom,.gg-content,.bannerdown,#index_right_float,.ec-fc-ad-results,.content-adv,.ec-ad,.ec_wise_ad,.qb-other-answer-wmad,.swan-ad-fc-feed,#fc-left,.ad-taishan,#ggbtm,.ec_ad,.s-nativead-item,.nav_ads,.ad-list,div[class*=\"fc-\"][data-placeid]"
     }
   },
   {
@@ -132092,6 +132092,28 @@
         "media",
         "raw"
       ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?onenews\\.vip([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?onenews\\.vip([^-_.%a-z0-9].*)?$"
+      ],
+      "top-url-filter-is-case-sensitive": true
     },
     "action": {
       "type": "block"

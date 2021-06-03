@@ -21656,7 +21656,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": ".Content-QC,.items-qc,.QC-CM,.QC-R,.tab-qc"
+		"selector": ".Content-QC,.QC-CM,.QC-R,.items-qc,.tab-qc"
 	}
 },
 {
@@ -21842,6 +21842,16 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?sieukhungz\\.net[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".adspopuprightMB"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tuoi69z\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
