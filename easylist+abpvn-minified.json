@@ -21676,7 +21676,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": ".Content-QC,.QC-CM,.QC-R,.items-qc,.tab-qc"
+		"selector": ".Content-QC,.items-qc,.QC-CM,.QC-R,.tab-qc"
 	}
 },
 {
