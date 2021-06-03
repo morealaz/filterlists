@@ -31231,16 +31231,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?m\\.baidu\\.com[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": "div[class*=\"fc-\"][data-placeid]"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?vpsmm\\.com[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
