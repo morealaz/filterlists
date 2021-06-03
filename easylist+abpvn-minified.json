@@ -19951,6 +19951,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?huphimzz\\.com[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".ads"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?banthang\\.live[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -20306,7 +20316,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "#footer,#cboxOverlay,#colorbox,#menubentrai"
+		"selector": "#footer,#cboxOverlay,#colorbox,#fbox-background,#menubentrai"
 	}
 },
 {
@@ -22207,6 +22217,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".ads100"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tuoinung\\.com[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "#hide_float_right"
 	}
 },
 {
@@ -88422,6 +88442,28 @@
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?vietnamplus\\.vn/.*raovat\\.aspx"
 		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?bahmemohod\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?bahmemohod\\.com([^-_.%a-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
 	},
 	"action": {
 		"type": "block"
