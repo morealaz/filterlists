@@ -21711,7 +21711,7 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?phimsexsub\\.biz[^\\.][/:]?",
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?m\\.phimsexsub\\.info[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
@@ -21726,7 +21726,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": ".Content-QC,.items-qc,.QC-CM,.QC-R,.tab-qc"
+		"selector": ".Content-QC,.QC-CM,.QC-R,.items-qc,.tab-qc"
 	}
 },
 {
@@ -87989,27 +87989,6 @@
 		],
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?cdn\\.bongdadem\\.net[^-_.%a-z0-9].*\\.gif"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?img\\.steamaz\\.co[^-_.%a-z0-9].*\\.gif",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"if-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?xemphimvui\\.net[^\\.][/:]?",
-			"^[^:]+:(//)?([^/]+\\.)?phim18z\\.net[^\\.][/:]?"
 		]
 	},
 	"action": {
