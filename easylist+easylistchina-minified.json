@@ -31128,6 +31128,16 @@
   },
   {
     "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?cjw123\\.com[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "A[href=\"http://tb.cjw123.com\"]"
+    }
+  },
+  {
+    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?asmag\\.com\\.cn[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
@@ -133599,6 +133609,26 @@
       ],
       "unless-top-url": [
         "^[^:]+:(//)?([^/]+\\.)?zjst\\.net/3\\.gif"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?cjw123\\.com/jx/static/picture/tm\\.png",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?cjw123\\.com/jx/static/picture/tm\\.png"
       ]
     },
     "action": {
