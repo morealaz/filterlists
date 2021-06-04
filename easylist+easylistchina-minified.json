@@ -131847,6 +131847,116 @@
   },
   {
     "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?ojbknb\\.com([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?ojbknb\\.com([^-_.%a-z0-9].*)?$"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?michael31lin\\.com([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?michael31lin\\.com([^-_.%a-z0-9].*)?$"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?liuchengming\\.com([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?liuchengming\\.com([^-_.%a-z0-9].*)?$"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?aifu-pay\\.com([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?aifu-pay\\.com([^-_.%a-z0-9].*)?$"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?zhimengweike\\.com([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?zhimengweike\\.com([^-_.%a-z0-9].*)?$"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
       "url-filter": "^[^:]+:(//)?.*\\.cn/sc/3694\\?",
       "resource-type": [
         "image",
@@ -133970,6 +134080,50 @@
         "media",
         "raw"
       ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?lscckgm\\.cn([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?lscckgm\\.cn([^-_.%a-z0-9].*)?$"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?355262\\.com([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?355262\\.com([^-_.%a-z0-9].*)?$"
+      ],
+      "top-url-filter-is-case-sensitive": true
     },
     "action": {
       "type": "block"
