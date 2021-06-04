@@ -23153,7 +23153,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": "a[href*=\".taobao.com\"],#dangbei_down,.zcdf ~ div[style],div[style*=\"width:1\"][style*=\"height:90px;\"],.news_n + div[style*=\"height\"],div[id$=\"_tab\"] > ul > li[style],a[style][href*=\".jd.com/\"],div[style=\"width:728px;height:90px; margin: auto; padding-top: 5px;\"],.news_info > div[style*=\"height:\"],.news_left > div[style*=\"height:\"],div[style^=\"width:728px; height:90px;\"]"
+      "selector": "a[href*=\".taobao.com\"],#dangbei_down,.zcdf ~ div[style],div[style*=\"width:1\"][style*=\"height:90px;\"],.news_n + div[style*=\"height\"],a[style][href*=\".jd.com/\"],div[style=\"width:728px;height:90px; margin: auto; padding-top: 5px;\"],.news_info > div[style*=\"height:\"],.news_left > div[style*=\"height:\"],div[style^=\"width:728px; height:90px;\"],IMG[width=\"300\"][height=\"250\"],DIV[id$=\"_tab\"] > UL > LI:first-child"
     }
   },
   {
