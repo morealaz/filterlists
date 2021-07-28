@@ -152314,5 +152314,21 @@
     "action": {
       "type": "ignore-previous-rules"
     }
+  },
+  {
+    "trigger": {
+      "url-filter": "^https?://([^/]+\\.)?googletagmanager\\.com/gtm\\.js",
+      "resource-type": [
+        "script"
+      ],
+      "if-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?finanzen\\.ch[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?finanzen\\.net[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?finanzen\\.at[^\\.][/:]?"
+      ]
+    },
+    "action": {
+      "type": "ignore-previous-rules"
+    }
   }
 ]
