@@ -25443,7 +25443,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".ads,#rubrikk,.zone--ad,.newsAdText"
+      "selector": ".ads,#rubrikk,.zone--ad,.newsAdText,.ins-content-wrapper.ins-content-wrapper-10"
     }
   },
   {
@@ -27173,7 +27173,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": "#bar_float_r,.quangcaomb,.adspopuprightMB,.adsCenterHome,.adsTopHome,.banner-detail,.banner-topR"
+      "selector": "#bar_float_r,.quangcaomb,.adspopuprightMB,.adsCenterHome,.adsTopHome,.banner-detail,.banner-topR,#coh963846,#co453569,.logo2,.adspopupright,.adspopuprightMB,.adspopuprightMB,.adspopupleft"
     }
   },
   {
@@ -30774,6 +30774,76 @@
     "action": {
       "type": "css-display-none",
       "selector": ".mgid-sidebar.mgid-container,div[id^=\"ads-container\"],div[id^=\"gl-\"],div[class^=\"aairtime\"],div[class^=\"asidebar\"],iframe[data-glx=\"yeap\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?nettruyenvip\\.com[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".mrt5.mrb5.text-center,.container.text-center.mrb5"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?dtruyen\\.com[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".wt-ads2"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?m\\.blogtruyen\\.vn[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".qc-inner,#iframe_popup_banner_beta,.mask_popup_banner_beta,#popup_banner_beta"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?xvideovn\\.pro[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "#hide_float_left"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?xnxxvn\\.net[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".happy-under-player-mobile"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?xemsex\\.biz[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".h3x-ads.ads-mobile,#_3i8p2,.aid-158724.zid-74493,#_pwj84,.aid-160310.zid-74493"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?sex-hay\\.pro[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "#hide_float_left"
     }
   },
   {
@@ -147534,6 +147604,266 @@
         "^[^:]+:(//)?([^/]+\\.)?prismgadnarc\\.icu"
       ],
       "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?s\\.nettruyenvip\\.com/data/sites/1/banner/789club\\.jpg",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?s\\.nettruyenvip\\.com/data/sites/1/banner/789club\\.jpg"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?xskt\\.com\\.vn/abn/afl-336x280\\.jsp",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?xskt\\.com\\.vn/abn/afl-336x280\\.jsp"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?xskt\\.com\\.vn/abn/datk2\\.jsp",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?xskt\\.com\\.vn/abn/datk2\\.jsp"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?xskt\\.com\\.vn/abn/da\\.jsp",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?xskt\\.com\\.vn/abn/da\\.jsp"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?xskt\\.com\\.vn/abn/da\\.jsp\\?bgr=1",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?xskt\\.com\\.vn/abn/da\\.jsp\\?bgr=1"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?xskt\\.com\\.vn/abn/datk2\\.jsp\\?bgr=1",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?xskt\\.com\\.vn/abn/datk2\\.jsp\\?bgr=1"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?tuoi69z\\.com/wp-content/uploads/2021/07/320x100-girl\\.gif",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?tuoi69z\\.com/wp-content/uploads/2021/07/320x100-girl\\.gif"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?tuoi69z\\.com/wp-content/uploads/2021/07/320x100-789\\.gif",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?tuoi69z\\.com/wp-content/uploads/2021/07/320x100-789\\.gif"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?tuoi69z\\.com/wp-content/uploads/2021/07/320x100-winclub\\.jpg",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?tuoi69z\\.com/wp-content/uploads/2021/07/320x100-winclub\\.jpg"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?xnxxvn\\.net/wp-content/uploads/2020/10/3x\\.jpg",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?xnxxvn\\.net/wp-content/uploads/2020/10/3x\\.jpg"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?i\\.pinimg\\.com/564x/a6/12/3a/a6123afa53b0d89863a5b7436bd5f762\\.jpg",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?i\\.pinimg\\.com/564x/a6/12/3a/a6123afa53b0d89863a5b7436bd5f762\\.jpg"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?imgcdnbet\\.com/livestream/2\\.gif",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?imgcdnbet\\.com/livestream/2\\.gif"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?sexgai\\.tv/static/lol\\.gif",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?sexgai\\.tv/static/lol\\.gif"
+      ]
     },
     "action": {
       "type": "block"
