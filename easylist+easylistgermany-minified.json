@@ -152331,5 +152331,21 @@
     "action": {
       "type": "ignore-previous-rules"
     }
+  },
+  {
+    "trigger": {
+      "url-filter": "^https?://([^/]+\\.)?cdn\\.optimizely\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "script"
+      ],
+      "if-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?sat1\\.de[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?prosieben\\.de[^\\.][/:]?"
+      ]
+    },
+    "action": {
+      "type": "ignore-previous-rules"
+    }
   }
 ]
