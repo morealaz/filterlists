@@ -24527,6 +24527,26 @@
   },
   {
     "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?mobygames\\.com[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".lifesupport-header,.well"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?taskcoach\\.org[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".well"
+    }
+  },
+  {
+    "trigger": {
       "url-filter": "^[^:]+:(//)?.*/googleads\\.",
       "resource-type": [
         "image",
