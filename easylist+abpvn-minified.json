@@ -25893,7 +25893,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".container > div.mrb5.mrt5.text-center"
+      "selector": ".container > div.mrb5.mrt5.text-center,.container > div.mrb5.mrt5.text-center > a,.reading > div.container.text-center.mrb5 > a"
     }
   },
   {
@@ -25903,7 +25903,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".container > div.mrb5.mrt5.text-center"
+      "selector": ".container > div.mrb5.mrt5.text-center,.container > div.mrb5.mrt5.text-center > a,.reading > div.container.text-center.mrb5 > a"
     }
   },
   {
@@ -25913,7 +25913,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".container > div.mrb5.mrt5.text-center,#ctl00_divCenter .container.text-center.mrb5"
+      "selector": ".container > div.mrb5.mrt5.text-center,#ctl00_divCenter .container.text-center.mrb5,.container > div.mrb5.mrt5.text-center > a,.reading > div.container.text-center.mrb5 > a"
     }
   },
   {
@@ -27863,7 +27863,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".popmake-overlay,.happy-footer-mobile"
+      "selector": ".popmake-overlay,.happy-footer-mobile,.happy-footer-mobile>a,.happy-related-videos-mobile>a,.under-player-mobile>a"
     }
   },
   {
@@ -30488,6 +30488,16 @@
   },
   {
     "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?phim-jav\\.net[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".header-ad-mobile,div.under-video-block>center>a"
+    }
+  },
+  {
+    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?lauxanh\\.org[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
@@ -30793,7 +30803,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".mrt5.mrb5.text-center,.container.text-center.mrb5,div[class=\"text-center mrt5 mrb5\"],div[class=\"mrt5 mrb5 text-center\"]"
+      "selector": ".mrt5.mrb5.text-center,.container.text-center.mrb5,div[class=\"text-center mrt5 mrb5\"],div[class=\"mrt5 mrb5 text-center\"],.container > div.mrb5.mrt5.text-center > a,.reading > div.container.text-center.mrb5 > a"
     }
   },
   {
@@ -30843,7 +30853,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": "#hide_float_left,.float-ck"
+      "selector": "#hide_float_left,.float-ck,div.under-video-block>center>a"
     }
   },
   {
@@ -31004,6 +31014,26 @@
     "action": {
       "type": "css-display-none",
       "selector": "body>div[style^=\"position:fixed;inset:0px;z-index\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?phimhay\\.co[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "div[class=\" visible-xs hidden-md hidden-lg\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?javgiga\\.com[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "iframe[src^=\"//a.realsrv.com\"]"
     }
   },
   {
@@ -125313,22 +125343,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?.*/banner/.*\\.gif",
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?adtimaserver\\.vn([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -148183,12 +148197,17 @@
   },
   {
     "trigger": {
-      "url-filter": "^https?://([^/]+\\.)?.*\\.me/",
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?.*\\.me/.*\\$script,third-party",
       "resource-type": [
-        "script"
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw"
       ],
-      "load-type": [
-        "third-party"
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?ditme\\.com[^\\.][/:]?"
       ]
     },
     "action": {
@@ -148730,7 +148749,7 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?ducdvver1\\.com",
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?ttgmjfgldgv9ed10\\.com",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -148742,7 +148761,153 @@
         "document"
       ],
       "unless-top-url": [
-        "^[^:]+:(//)?([^/]+\\.)?ducdvver1\\.com"
+        "^[^:]+:(//)?([^/]+\\.)?ttgmjfgldgv9ed10\\.com"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?artpever\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?artpever\\.com"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?fieldofbachus\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?fieldofbachus\\.com"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?poesonk\\.com([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?poesonk\\.com([^-_.%a-z0-9].*)?$"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?b91vip\\.com([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?b91vip\\.com([^-_.%a-z0-9].*)?$"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?phaurtuh\\.net/tag\\.min\\.js",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?phaurtuh\\.net/tag\\.min\\.js"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?.*/banner/.*\\.gif",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?ducdvver2\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?ducdvver2\\.com"
       ],
       "top-url-filter-is-case-sensitive": true
     },
