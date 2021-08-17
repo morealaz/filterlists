@@ -30853,7 +30853,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": "#hide_float_left,.float-ck,div.under-video-block>center>a"
+      "selector": "#hide_float_left,.float-ck,div.under-video-block>center>a,div.under-video-block.videos-list>center>a"
     }
   },
   {
@@ -30963,7 +30963,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".float-ck"
+      "selector": ".float-ck,div.under-video-block.videos-list>center>a"
     }
   },
   {
@@ -31008,16 +31008,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?javlove\\.club[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": "body>div[style^=\"position:fixed;inset:0px;z-index\"]"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?phimhay\\.co[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
@@ -31034,6 +31024,96 @@
     "action": {
       "type": "css-display-none",
       "selector": "iframe[src^=\"//a.realsrv.com\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?vlxx\\.city[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "div.loading-ad"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?javstream\\.top[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "body>div[style^=\"position:fixed;inset:0px;z-index\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?mm9842\\.com[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "body>div[style^=\"position:fixed;inset:0px;z-index\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?websextop\\.com[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "body>div[style^=\"position:fixed;inset:0px;z-index\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?javlove\\.club[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "body>div[style^=\"position:fixed;inset:0px;z-index\"]"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?phimxx\\.me[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "div.gx-banner.full-page-ads"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?buoito\\.vip[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "div.asg-overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?sexdiary\\.xyz[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".adde_modal_detector,.adde_modal-overlay"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?sexvcc\\.xyz[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "#lightbox-player-mb"
     }
   },
   {
@@ -46938,7 +47018,7 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?.*(/arc)?ads\\.js",
+      "url-filter": "^[^:]+:(//)?.*/arcads\\.js",
       "resource-type": [
         "image",
         "style-sheet",
@@ -148197,14 +148277,12 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?.*\\.me/.*\\$script,third-party",
+      "url-filter": "^https?://([^/]+\\.)?.*\\.me/",
       "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw"
+        "script"
+      ],
+      "load-type": [
+        "third-party"
       ],
       "unless-top-url": [
         "^[^:]+:(//)?([^/]+\\.)?ditme\\.com[^\\.][/:]?"
@@ -148474,6 +148552,26 @@
       ],
       "unless-top-url": [
         "^[^:]+:(//)?([^/]+\\.)?xem\\.vnfilm\\.net/www/js/story/func\\.php"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?.*ads\\.js",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?vnecdn\\.net[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?vnexpress\\.net[^\\.][/:]?"
       ]
     },
     "action": {
@@ -148895,7 +148993,47 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?ducdvver2\\.com",
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?static-lvlt\\.xhcdn\\.com/xh-mobile/js/vbb94545774\\.page\\.js",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "if-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?megaxh\\.com[^\\.][/:]?"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?static-lvlt\\.xhcdn\\.com/xh-mobile/js/async",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "if-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?megaxh\\.com[^\\.][/:]?"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?quenchskirmishcohere\\.com",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -148907,7 +149045,471 @@
         "document"
       ],
       "unless-top-url": [
-        "^[^:]+:(//)?([^/]+\\.)?ducdvver2\\.com"
+        "^[^:]+:(//)?([^/]+\\.)?quenchskirmishcohere\\.com"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?cdn\\.tapioni\\.com/asg_embed\\.js",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?cdn\\.tapioni\\.com/asg_embed\\.js"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?vl3x\\.cc/ads/cf\\.js",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?vl3x\\.cc/ads/cf\\.js"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?sexfull\\.top/pop\\.js",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?sexfull\\.top/pop\\.js"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?jk\\.akhoondoutsert\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?jk\\.akhoondoutsert\\.com"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?dkre4lyk6a9bt\\.cloudfront\\.net",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?dkre4lyk6a9bt\\.cloudfront\\.net"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?embogsoarers\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?embogsoarers\\.com"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?parringepigene\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?parringepigene\\.com"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?futilereposerefreshments\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?futilereposerefreshments\\.com"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?hadsans\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?hadsans\\.com"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?2997\\.insumber\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?2997\\.insumber\\.com"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?histats\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?histats\\.com"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?asgdfasad\\.mm-cgnews\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?asgdfasad\\.mm-cgnews\\.com"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?javtvnow\\.xyz",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?javtvnow\\.xyz"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?iceppsn\\.com/templates/base_master/libs/blazy/blazy\\.min\\.js",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "if-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?iceporn\\.com[^\\.][/:]?"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?sexvid\\.xxx/mia/xd\\.js",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?sexvid\\.xxx/mia/xd\\.js"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?sexhay3x\\.net/pop\\.js",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?sexhay3x\\.net/pop\\.js"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?adprosrv\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?adprosrv\\.com"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?zbporn\\.com/tri/zp\\.js",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?zbporn\\.com/tri/zp\\.js"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?zbporn\\.com/ops/f4cf7e\\.js",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?zbporn\\.com/ops/f4cf7e\\.js"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?doodcdn\\.com/ads/ad\\.js",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?doodcdn\\.com/ads/ad\\.js"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?hruk\\.afguk\\.top/v3/a/pop/js/",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?hruk\\.afguk\\.top/v3/a/pop/js/"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?ducdv17082021\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?ducdv17082021\\.com"
       ],
       "top-url-filter-is-case-sensitive": true
     },
