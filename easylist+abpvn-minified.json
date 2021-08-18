@@ -26473,7 +26473,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": "#catfish,#mp-adx-b32,#mp-mb-preload,#mp-preload-popup-overlay,div[class^=\"div-control\"]"
+      "selector": "#catfish,#mp-adx-b32,#mp-mb-preload,#mp-preload-popup-overlay,div[class^=\"div-control\"],div[id=\"content\"]>div.mp-adz,.iframe.mp-adz"
     }
   },
   {
@@ -149497,7 +149497,7 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?ducdv17082021\\.com",
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?keydawnawe\\.com",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -149509,7 +149509,70 @@
         "document"
       ],
       "unless-top-url": [
-        "^[^:]+:(//)?([^/]+\\.)?ducdv17082021\\.com"
+        "^[^:]+:(//)?([^/]+\\.)?keydawnawe\\.com"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?motphjm\\.net/api\\?countviews",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?motphjm\\.net/api\\?countviews"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?odan\\.info",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "if-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?motphjm\\.net[^\\.][/:]?"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?ducdv170018082021\\.com",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?ducdv170018082021\\.com"
       ],
       "top-url-filter-is-case-sensitive": true
     },
