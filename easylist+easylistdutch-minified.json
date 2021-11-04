@@ -16986,6 +16986,16 @@
   },
   {
     "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?videogameschronicle\\.com[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": ".adcontainer"
+    }
+  },
+  {
+    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?worldhistory\\.org[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
@@ -24902,6 +24912,16 @@
     "action": {
       "type": "css-display-none",
       "selector": "#reclama_mijloc"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?playstationtrophies\\.org[^\\.][/:]?",
+      "url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "css-display-none",
+      "selector": "#vnt-lb-a"
     }
   },
   {
@@ -143206,6 +143226,24 @@
   },
   {
     "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?poenem\\.com([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?poketraff\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -151292,6 +151330,31 @@
       ],
       "unless-top-url": [
         "^[^:]+:(//)?([^/]+\\.)?headerbiddr\\.net([^-_.%a-z0-9].*)?$"
+      ],
+      "top-url-filter-is-case-sensitive": true
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?poneridcreels\\.com([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ],
+      "load-type": [
+        "third-party"
+      ],
+      "unless-top-url": [
+        "^[^:]+:(//)?([^/]+\\.)?poneridcreels\\.com([^-_.%a-z0-9].*)?$"
       ],
       "top-url-filter-is-case-sensitive": true
     },
