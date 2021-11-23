@@ -49,7 +49,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": "#player-ads,a[href^=\"https://www.googleadservices.com/pagead/aclk?\"],.badge-style-type-ad,.AdBox,.post-ads,[id*=\"ScriptRoot\"],#show-ad,.adsbyexoclick,div[aria-label=\"Ads\"],.ad-placement,div[id^=\"adfox_\"],.ad-banner,#taboola-below-article-thumbnails,.remove-ads,#ad-footer,.ad-slot,.trc_related_container div[data-item-syndicated=\"true\"],#video-ad,.trc_rbox .syndicatedItem,.trc_rbox_border_elm .syndicatedItem,.trc_rbox_div .syndicatedItem,#ad-header-mobile-contener,.ad-unit,.trc-content-sponsored,.slide-ad,#slide_ad,a[onmousedown^=\"this.href='https://paid.outbrain.com/network/redir?\"][target=\"_blank\"],.adBlock,.adContent,.adsbyvli,.adSense,.ad-link,.ad-content,div[jsdata*=\"CarouselPLA-\"][data-id^=\"CarouselPLA-\"],.js-results-ads,.gpt-ad,.top-ads-container,#dfp-tlb,.ad-slot-placeholder,#bottomads,#bannerAd,.reviews-display-ad,#ad-north-base,#ad-north,.AdSense,.ad-center,#video-sponsor-links,#ads_left,.ad-300-250,.outeradcontainer,[name^=\"google_ads_iframe\"],.GoogleAd,.ads-area,.box_ad,.adsense-ad,.adbox1,.LeftAd,.googad,.HomeAds,.SidebarAd,.InArticleAd,div[id^=\"crt-\"][style],span[id^=\"ezoic-pub-ad-placeholder-\"],.ezoic-ad,#my-adsMAST,.adtester-container,.adBox,AMP-AD,.ad-label,.ad-tag,.body-top-ads,#my-adsMAST-iframe,.adsBox,.ad_unit,.footer-ads,#my-adsFPAD,.AdHolder,span[data-component-type=\"s-ads-metrics\"],[class*=\"auto-bottom-advertising-\"],#my-adsHPSPON-base,.ads-wrapper,.ezo_ad,.ezoic-floating-bottom,.ezmob-footer,.ezmob-footer-desktop,div[id^=\"amzn-assoc-ad\"],.ob-strip-layout,div[id^=\"rc-widget-\"],#gf-mrecs-ads,#adBanner,.vjs-ima3-ad-container,.header-ads,div[data-adunit],.adchoices,.dfp-ad,iframe[src^=\"https://tpc.googlesyndication.com/\"],.ad-panel,.ad-block,#my-adsLDRB,.leaderboard_ad,.top-ad,.b_ad,.ad-leaderboard,#my-adsLDRB-iframe,.widead,a[href^=\"https://landing.brazzersnetwork.com/\"],.ad-desktop,.i-amphtml-unresolved,.amp-unresolved,.native-ad-item,.inline-ad,.sticky-ad,.js-ad,.sponsor-text,.AD_area,#desktop-ad-btf,.adWrapper,.bottom-ad,.ezoic-ad-adaptive,.kakao_ad_area,.adunitContainer,.google-ad,.adsenvelope,.adstextpad,div[id^=\"zergnet-widget\"],.bottom-adv,.ad-300,#my-adsLREC4-base,.right-ad,.mobile-ad,.ad-mobile,.footer-ad,._ap_apex_ad,#taboola_responsive_wrapper,.adunit,#adContainer,.ad-card,.ad-wrap,.quads-location,.ad-sticky,.RectangleAd,.ad-rectangle,.ob-hover,.ad-top,.ad--mobile,.adslot_1,.ad-item,.footer__advert,a[href*=\".adform.net/\"],.myTestAd,#top_ad,.ad_box,.banner-300x250,#my-adsLREC,#lsadvert-left_menu_1,#ad-container,#bottom_ad,.ad_area,.dianomi_context,.dcmads,.advt,[class*=\"-slot_ad-placements-\"],.js-ad-slot,.sponsored_ad,.content-ad,.bannerAd,#recommendAdBox,#topAd,.banner-ad,#quads-admin-ads-js,.wall-ads-control,.block-ad,.ad-header,.ad-left,.top-ad-container,div[class^=\"native-ad-\"],.sponsorPost,.wall-ads-right,.contentAds,.ad-banner-container,.fa-ad,.sidebar-ad,#ad-skin,.td-adspot-title,.ad_table,.ad-banner-wrapper,.dfp_unit,.blogroll-ad-img,.module_single_ads,a[href^=\"http://pubads.g.doubleclick.net/\"],.ad-title,.ad-placeholder,a[href^=\"https://adclick.g.doubleclick.net/\"],.textad,#lsadvert-top,div[id^=\"ezoic-pub-ad-\"],.jeg_ad,.advertise-here,.ad-slot-banner,[data-freestar-ad],[class^=\"div-gpt-ad\"],.c-ad,#top_ad_wrapper,#bottomAd,.ad-marker,#bottom_ad_wrapper,.jeg_ad_top,.jnews_header_top_ads,.video-ad,div[id^=\"yandex_ad\"],.dfpAd,.mntl-gpt-adunit,a[href^=\"https://pubads.g.doubleclick.net/\"],.ad-300x250,.scaffold-layout__ad,.desktop-ad,.leaderboard-ad,.headerAd,a[href^=\"https://deliver.ptgncdn.com/\"],.widgetSponsors,.adLeaderboard,.ddb,.adthrive,.publicidade,.proper-ad-unit,.advertising_widget,#ultimedia_wrapper,.download_link_sponsored,.ad-native,#ad-banner,.zergnet-widget,.pb-ad,.empty-ad,#lsadvert-left_menu_2,.extnativeaditem,.ad-google,.van_taboola,a[href^=\"https://paid.outbrain.com/network/redir?\"],#sky-right,a[href^=\"https://chaturbate.com/in/?track=\"],#taboola-mid-article-thumbnails,.ad-zone,.dfp-tag-wrapper,div[id^=\"ad_rect_\"],.banner-ads,a[href^=\"https://a.adtng.com/\"],.adWrap,.adslot_2,#ad-leaderboard,.ad-widget,#ad_unit,.advertisementBanner,.ad--desktop,.ADBox,#ad-bottom,#adsbox,#AdSense1,.adSlot,.top_ad,.mal-ad-unit,a[href^=\"https://clickadilla.com/\"],.nativeadasideplaceholder,.rg-ad,a[href^=\"https://tm-offers.gamingadult.com/\"],#ad-rectangle,.ads_ad_box2,.ads_ad_box,.ad-footer,.hl-ad-row__mrec,.adLabel,.dotcom-ad,#quads-ad1,.quads-ad1,.hl-ad-row__1p-link,.ad-slot--mostpop,.scads-ad-placed,.stream-ad,.ad-slot--mpu-banner-ad,.AdTop,.sponsor-logo,.list-ads,.ad-slot--rendered,.goAdverticum,a[href^=\"https://bs.serving-sys.com\"],.ad_banner,#div-insticator-ad-1,#ads-container,#reklama,.nativeAd,.js-advert,.ads-box,.leaderboard.advert,#sticky-ad,.AdsRec,.Ads_4,#banner-300x250,.todayshowcasead,.ad-top-banner,.BeOpWidget,.ads_place,#insticator-container,.ad-h-250,[src*=\"//www.dianomi.com/smartads.epl\"],.ads_place_160,.ad-transition,#header-ad,div[data-ad-placeholder],.ab_taboola,.ad-bottom,div[data-content=\"Advertisement\"],.ads_banner,.ad-w-300,.sponsored-content,#quads-ad2,#div-insticator-ad-2,.ads-right,.bottomad,.ad-area,#ad-1,.overlay-ad,.ic-ads,a[href^=\"https://ttf.trmobc.com/\"],.ad-w-728,a[onmousedown^=\"this.href='http://paid.outbrain.com/network/redir?\"][target=\"_blank\"],#top-right-ad-slot,.quads-ad2,#videoad,.adthrive-ad,.ad-zone-container,.ad-choices,.content-ads,.navbar-ad-container,.bottom-ads,[href*=\".zlinkm.com/\"],.ad-space,.collapsed-ad,.dfp-slot,.ad-section,.ads-block,.dfp_ad,#bottomad,.ad-728x90,.van_vid_carousel,.ad_text,.ad_right,.widget-ad,.ad728,#banner-300x250-area,.b_adLastChild,.ad-right,.vid-present > .van_vid_carousel__padding,.advert-txt,#bgad,.vertical-ad,.ad_module,.banner_ad,.pbs__player,.box-ads,#dfp-ad-top,.td-header-ad-wrap,.nav-ad,.content-kuss-ads,.native-ad,.ads-left,.lite-page-ad,.adsbytrafficjunky,.ad_column,.reklam,.adunit-wrapper,.advertismentContainer,.main-ad,#banner-300x600-area,.ad-mrec,div[class^=\"StickyHeroAdWrapper-\"],.ad-left-top,#ad-label,.video_ad,.gpt.top-slot,.rmp-ad-container,.adace-slot-wrapper,.adace-slot,.adzone,.topAd,.m-ad,#dfp-masthead,#quads-ad3,.quads-ad3,.dfp-leaderboard-container,#ad-2,[data-ad-module],.ads-content,#header-ads,.block-dfp,div[class^=\"kiwi-ad-wrapper\"],.td-a-rec-id-custom_ad_1,#intro_ad_1,.adlinks,.item-ad,.searchCenterTopAds,.ads-item,.pm-ads-banner,.ad_slot,a[href^=\"https://juicyads.in/\"],#story-ad-1-wrapper,.footerAds,.ads-top,.tablet-ad,.sp_ad,.thirdPartySponsorLink--fourAds,.ad01,.ad-spacer,.TextAd,#AdSense2,.adslot_3,#story-ad-2-wrapper,.ad-billboard,.breaker-ad,.ad__wrapper,.ad--footer,.searchCenterBottomAds,.adver,.native-ad-container,#scrollover-ad-wrap,div[itemtype=\"http://schema.org/WPAdBlock\"],.native-sidebar-ad,.adFull,.top-banner-ad-container,.ad-responsive,.advert-wrapper,.g1-advertisement,#after-dfp-ad-mid1,a[href^=\"https://go.xxxjmp.com/\"],a[href^=\"http://www.cdjapan.co.jp/aff/click.cgi/\"],.google-adsense,.adg-rects,#after-dfp-ad-mid2,#connatix,.ad-stickyhero,.ad-stickyhero--standard,.ad-halfpage,.ad--rail,.ad_wrap,#after-dfp-ad-mid3,#dfp-interstitial,.ad-intromercial,.ads_container,.adTitle,.taboola-general,.ad-body,#bottom-ads-container,.ad_content,#ad-box,.ad-skyscraper,.advertisement-label,#after-dfp-ad-top,.c-ads,#sidebar-ad,.ad-tl1,iframe[src^=\"https://pagead2.googlesyndication.com/\"],.media_ad,.hidden-ad,#ad-text,#ad_btmslot,.ad-slot--inline,#ad_houseslot_a,.me-rtm,.advert-label,a[href^=\"https://secure.adnxs.com/clktrb?\"],.ad_hover_href,#topad,.banner-300x600,.ad_300x250,.sticky-ad-container,.ppr_priv_horizon_ad,.discourse-adplugin,#adwrapper,#skin-ad-left-rail-container,#skin-ad-right-rail-container,.leaderboardAd,#ad_houseslot_b,.ad_top,.video_ads_overdiv,#video_ads_overdiv,#ad_top,.ads_code,.puff-ad,#ad-3,DFP-AD,.adv-text,.top-ads,.jsAdSlot,.bbccom_advert,#Adbanner,#ad_text:not(textarea),.question_page_ad,.ad_wrapper,#story-ad-3-wrapper,div[data-contentexchange-widget],#ad_topslot,.sponsor-ad,a[href^=\"http://popup.taboola.com/\"],.ads-row,#banner-728x90-area,.standalonead,.advert.mpu,.lower-ad,#AdvContainer,#mpu2,.footer_ads,.module_home_ads,.ad300x250,#gStickyAd,.banner728x90,#dfp-atf,.td-a-rec-id-custom_ad_2,.td-a-ad,.adv-container,.display-ad,#SponsoredAd,.bottom_ad,.ad--leaderboard,.third-party-ad,#AdArea,#ad_leftslot,.tnt-ads-container,#content-ad,.ads-header,#GoogleAd,.ad_300_250,.container-lower-ad,.adtitle,.ad-box-wrapper,#AdsContent,.literatumAd,a[href^=\"https://go.nordvpn.net/aff\"] > img,.article-ad,.adrotate_widgets,#sponsored-products,.top.ad,.ad-mpu,.ads-text,#AdContainerTop,#taboola-right-rail,#adSkyscraper,a[href^=\"https://www.iyalc.com/\"],.ad-holder,.ad-atf,.center_ad,.zergnet,.adframe,.click-track.partner,#dfp-mtf,.bing-native-ad,.connatix-container,.dfp-ad-container,.ad.module,.ad-interstitial,.ad-leader,.full-adv,#ad_rightslot,#ad_1,a[href^=\"https://fonts.fontplace9.com/\"],#dfp-btf,div[id^=\"adspot-\"],#adbox,.gnt_tb.gnt_tbb,#ad-overlay,.ppr_priv_footer_banner_ad_billboard,div[id^=\"acm-ad-tag-\"],.add-box-side,.add-box-top,#top-banner-ad-browser,a[href^=\"https://vo2.qrlsx.com/\"],.google-user-ad,.gnt_tbr.gnt_tb,#adLeaderboard,.head_ad,.ad__label,.ad-mpu-plus-top,#headerAd,a[href^=\"https://www.bet365.com/\"][href*=\"affiliate=\"],.advert-leaderboard,.ad-layer,.adv-box,.dfp-banner,.quads-ad4,.adtable,.j-ad,.ad--mid-content,.california-ad,.videoad,.ad-masthead,.california-sidebar-ad,.verticalAdText,.mvp-ad-label,div[id^=\"vuukle-ad-\"],div[id^=\"traffective-ad-\"],.element--ad,#quads-ad4,.gnt_x,#ad_right,.premium-ad,#AdTop,.sponsored-headlines,.ads-bottom,.ad_panel_1,#nav-ad-container,#ad-display-ad,.ad-bot,.m-sidebar-ad--slot,.ads-leaderboard,.mod_ad,.amp-ads,.ads-core-placer,#adhesion,.adFrame,.ad-sky,.tnt-ads,LEADERBOARD-AD,.ads-mobile,.leaderboard_ad_container,.m-in-content-ad--slot,#adv-Top,#adbanner,.google-ads,.m-header-ad--slot,.m-header-ad,.gujAd,#mpu_top,.nav-ad-gpt-container,.google-2ad,#story-ad-4-wrapper,.m-in-content-ad-row,#adPlacement_1,.td-ad-m,.ads-desktop,.leaderboard.ad,#ad-holder,.ad__placeholder,.adright,.m-in-content-ad,.ad_title,.ad__container,#adPlacement_3,#premiumAdTop,AD-TRIPLE-BOX,.banner728,#adPlacement_4,#banner-advert-container,#ad_bottom,.lazy-ad,#ad-skyscraper,.td-ad-tp,#adDiv,.ad-inline,.ads-holder,.amp-ad-container,.ad-inner,#leftrail_dynamic_ad_wrapper,#sponsoredProducts_feature_div,.l-ad,.ads-zone,.sponsor-ads,.td-a-rec-id-custom_ad_3,.BottomAdsPartial,.TopAdsPartial,.ad-300x600,.ad-mpu-bottom,.td-a-rec-id-custom_ad_4,div[id^=\"advads-\"],.sticky-footer-ad,#ad-top,#pre-adv,.m-header-ad--balloon,.rectangleAd,.adstext,#admobilefoot,#admobilefootinside,#adLeft,#footer-ads,div[id^=\"ad_position_\"],.ads-footer,.banner-728x90,.banner300,#admobiletop,#admobiletopinside,.ad_watermark,.advert--mpu,.ads1,.ad-div,.ad-right2,#article-ad,.ad-101,#rightads,.page-ad,.ad--sticky,#advert-leaderboard,.widget_adace_ads_widget,.ad300,.outbrain-widget,.googleAdsense,.google_ads,.BottomAd-container,.ad-121,.googlead,.ad_panel_2,.ad-loader,.advtop,#ad_2,.ad-sponsor,.right-side-ad,.advertisement_above_footer,.ad_link,#adMain,#bbccom_leaderboard,.adinfo,.ad-inserter,.adfeedback,.right-video-dvertisement,.adv-list,.ad-sticky-container,.td-ad-p,.adv-overlay,#banner-skyscraper,.advertisement-text,.adslug,[data-dynamic-ads],.ad_200,div[data-role=\"sidebarAd\"],.aside_ad,.banner-adverts,#adm-inline-article-ad-1,.side_ad,.vuukle-ads,a[href^=\"https://syndication.optimizesrv.com/splash.php?\"],.ad-1,.box-ad,.ads-728x90,#AdSense3,.full-bleed-ad,#adv-Middle1,.ad_background,#ad-block,.advertisement-block,.ad_300,.adUnit,.ad-unit--leaderboard,.widget_thesun_dfp_ad_widget,.ad_r,.subnav-ad-layout,.billboard-ad,.avap-ads-container,.wsj-responsive-ad-wrap,#ad-standard-wrap,.dfp_unit-ad_container,.ad-col,.ad-bigbox,#ad_global_above_footer,div[class^=\"ads-partner-\"],.googleLeftSkyScrapper,.ad-risingstar-container,#footer-ad,a[href^=\"https://s.zlink2.com/\"],.ads_box,.sticky-rail-ad-container,#floating_ads_bottom_textcss_container,.wide-ad,.ad-element,.ad_leader_bottom,.ads-large,#adv-Middle2,#ad_leaderboard_flex,.strawberry-ads,a[href*=\".adsrv.eacdn.com/\"] > img,#ad_4,#adBrandingStation,.ads-sidebar,.inner-ad,.ad_1150_290,.ads.widget,.ads-placment,.vlog-ad,.ad468,.ad-responsive-slot,.body_ad,.advertisement__label,[href*=\".revrtb.com/\"],.admz,#AD_L,#adPlacement_2,.adtop,#google_ads,.middle-ad,.ad-flex,.mgline,.ad-caption,.ads-label,a[href^=\"https://wittered-mainging.com/\"],.advertising-banner,.square_ad,.adszone,.adclass,.ads-banner,.AD-POST,.adSpace,.adSlotCnt,a[href^=\"https://chaturbate.com/in/?tour=\"],#ads3,#adv-TopLeft,.interstitial-ad,.sponsored-links,.advert.skyscraper,.widget-advads-ad-widget,.modulo-publicidade,.ad-single-bottom,.ad-rail,.articleAdvert,.mvp-widget-ad,#sky-left,.td-ad,.articleAds,.banner_adv,.menu-ad,.ad120,.ads-cnt,#advert1,#adPlacement_7,.ad-lrec,#rowAdv,.header_ads-container,#left-ad,.ad234,#ad_thread1_1,.m-jac-ad,.bottom-ad-container,.artAd,#footer_ad,#ad-4,.rightAd,.adRenderer,#leaderboard-ad,.GoogleDfpAd,.billboard.ad,.pmc-adm-boomerang-pub-div,.advert-wrap,#ad-horizontal,.mobile-ad-container,.mvp_ad_widget,#adv-gpt-box-container1,.side-ads,.footer_ad,.ads-module,#ad_div,#ad_main_top_05,.advertorial,.ads_center,#adBottom,.google-right-ad,.ad--container,.text_adv,.td-a-rec-id-custom_ad_5,.gptslot,#ad-5,.adsbyadop,.article-ads,.ads-middle,.toolbar-ad,.hstpnetworkads,.right-rail-ad,.adsbyexoclick-wrapper,.ad-slot-container,.tm-ads,#ad-wrap,.ad-137,#AdBanner,.ads_block,#side_ad,#sticky-ad-container,.ad-2,#halfpagead,#footerAds,.desktopAd,.iAdserver,.dfp-ad-unit,#story-ad-5-wrapper,#topAdContainer,.widget_pmc-ads-widget,.wrap-ad,#oas_Top,.adv1,.ad-group,.adsbymahimeta,.ad_header,#adSkinLeft,.googleAds,[id*=\"MarketGid\"],#AD_G,#ad-wrap2,.video_ads,.horizontal-ad,.ads-300x600,.p-ad,.app-ad,.bam-ad-slot,.ad-notice,#adSkinRight,#ads-top,.site_ad,#ads4,#ads-header,.wd-adunit,.ad-side,.ad_footer,.adSkyscraper,#ad-0,#wrapper-AD_G,.adRight,.adInner,#ad728x90,.single__outbrain,.left-ad,#right_ad,.lazyad,#bottom_ads,.right-ads,#ad-slot-right,.ad-banner-top,.legion_primiswrapper,.footer_adv,.GRVAd,#adSense,.topbannerAd,.adRectangle,.header-and-footer--banner-ad,FBS-AD,.adholder,.ad_mpu_top,.in-content-ad,.BannerAd,#right-ad,.right_ad,#sidebar_ad,.ads_1,.card-ad,#TopAd,.upper-ad-box,.ad-slot__label,a[href^=\"http://cwcams.com/landing/click/\"],.can_ad_slug,#dfp-leaderboard,.ad--top,.video-ad-container,#header-ad-wrapper,div[id^=\"adrotate_widgets-\"],.sponsored-ad-container,.vce-ad-container,.adthrive-header,.ad-leader-top,.ads_top,.companion-ads,.ad-type-flex-leaderboard,.ad--bottom,.ads-block-rightside,.ad-slider,.adbox_300x600,.ads-system,.ad970,a[href^=\"https://prf.hn/click/\"][href*=\"/camref:\"] > img,#dv-gpt-ad-bigbox-wrap,.adSlotContainer,.c-advert,#ad11,.adwrap,.related-ads,.banner-468x60,.header-ad-container,.advert--leaderboard,#leftad,.ad-manager-wrapper,.ad_slug_table,.ad-thanks,#dfp_leaderboard,.ad_label,#ads-leaderboard,#leftads,.short-sidebar-ad-bottom,.short-sidebar-ad-component,#rightad,.cns-ads-stage,.index-content-ad-wrapper,.widget_adswidget1-quick-adsense,#adjs_id,.ads2,.post-ad,.video-side__adv_title,.adsense-block,.ad_bottom,#adsRight,.stickyAd,.ads-2,.ad__header,#adPlacement_8,.ad_img,.google_ad,.ads-300x250,#advTop,.responsive_ad_top,.ad-row,.adv-aside,#adv-x40,.afw_ad,.ad_ad_300,.ads728,.ad-reader-con-item,.primis-player,.ad-frame,#advertise,#mobileAd_holder,#ad_wrapper,#ads2,.ad-button,#adv-gpt-masthead-skin-container1,.skyscraper-ad,div[id^=\"ads300_250-widget\"],.advert-right,.end-of-article-ads,.ad-type-cube,.boxAd,#adslot300x250BTF,a[href^=\"http://chaturbate.com/affiliates/\"],#adsLeft,.ad-below,.advert-unit,.ads_header,#ad-lrec,#taboola-ad,.googleSubjectAd,.buttonads,#adslot300x250ATF,#AdvertisingLeaderboard,.ADbox,.sticky-ad-wrapper,.ad-90,.ad-scroll,.center-ad,.ad--rectangle,.ad_background_true,.u-lazy-ad-wrapper,.ad_336,#adTop,.ad-horizontal,.hide-ad,a[href^=\"https://track.wg-aff.com\"],.ad-250,.top-ad-wrapper,.pp-box-adunit,#ads-before-content,.belowMastheadWrapper,#ad-300,.f-ad,#mvp-post-bot-ad,#td-ad-placeholder,.adModule,#adform_leaderboard,.button-ad,.content_ad,.ad-table,.adv_left,.pp-adunit,#rightAd,.c-advertising,.mobile-ads,.button-ads,.ad-text-label,#topAdv,.adwidget,#stickyad,.ad_placeholder,.section-ad,#footerAd,#ads-content,.contentAd,#iqadtile1,.ad-background,.banner-300,.ad02,.wh_ad_inner,#my-adsFPL,.ad-970-90,.topAD,.ad-slot--top-above-nav,#iqadtile2,#ad_banner,.footerAd,.clickforceads,#ads-1,#leaderboard_bottom_ad,#leaderboard_top_ad,#admputop,#medrec_top_ad,.ob-ad-carousel-layout,.ad.item,.billboard_ad,.sponsored-header,.advertSlot,.widget-ad-image,#ad_3,#ad-vip-article,.taboola-above-article,.sponsored-display-ad,#adv-top,#taboola-right-rail-express,iframe[src*=\"mellowads.com\"],.adHeadline,#videoAd,.powerinbox,a[href^=\"https://refpasrasw.world/\"],.sidebar-ad-container,#budget_adDiv,.ad_div,.optidigital-ad-center,.googleAdSense,.ads_under_player,#ads1,.removeAdsStyle,#adwallpaper,.ad_bg,#headerad,#google-top-ads,.ads-list,#adcontainer2,.Adsense,.belt-ad,.region-ad-top,.ads_wrapper,.container--ads,.penci-google-adsense,.ad-4,.block-ads,.module-ad,.ad03,.article-footer--taboola,.ads-social-box,.placeholder-ad,a[href^=\"http://refpa.top/\"],.ad-bg,#adleaderboard,.advert-placeholder,.stickyRailAd,#ad-6,#wrapper-AD_PUSH,.ads-widget,#adsTop,#ads-left,.ad-vertical,#iqadtile5,#iqd_rightAd,.block-advert,.widget_ad,#content_ad,#adslot1,.ad.center,a[href^=\"https://pcm.bannerator.com/\"],.adv-300,.header-ad-wrapper,a[href^=\"https://www.brazzersnetwork.com/landing/\"],.ads-ad,.ad.widget,.grid__module-sizer_name_taboola,.eng_ads,.bottomAd,.ads-section,.rightad,#dfp-ad-leaderboard,#ads-right,.ads-wrap,.complex-ad-wrapper,.banner_300x250,.complex-ad,.adplaceholder,#ad_container,.adPlaceholder,.sponsorAd,.browse-banner_ad,.widget_adswidget2-quick-adsense,.video-ads-container,#iqd_mainAd,#iqd_topAd,#iqd_align_Ad,.trc-content-sponsoredUB,.scad,.sponsored-title,#iqadtile16,.slot_integrated_ad,#publicidad,.MediumRectangleAdPanel,.adv-block,a[href^=\"https://www.rabbits.webcam/?id=\"],#ads_text,.ad-splash,.advertising-container-top,.ad400,#HeaderAd,#dfp-ad-top-wrapper,.wrapper_advertisement,.ad--right,#adscontainer_background_back_index1100_all,.adv_txt,#adscontainer_banner_new_bottom_index_1060,#adscontainer_banner_new_second_index_1060,#adscontainer_banner_new_top_index_1060_2,.fbs-ad--top-wrapper,.opd_adsticky,.footerad,.advertisement-content,.TopAd,.ad-topbanner,.trc_rbox_div .syndicatedItemUB,#adsplash,#adPlacement_9,.ad-overlay,#dfp-ad-leaderboard-wrapper,.tc_ad,.ad-slot--right,#AdBox2,.widget-ads,.trc_rbox_div a[target=\"_blank\"][href^=\"http://tab\"],.ad-300-600,#sponsorAdDiv,.sticky-bottom-ad,.article_ad,.advads-widget,#adContent,.inner-adv,.view-ad,.adRow,.module-ads,#ad-right,#iqadtile3,.ads-margin,.adv-banner,.adTop,.adsBanner,.adsBlock,.ad-container-wrapper,#middle-ad,.product-ads,.ad-centered,.ad-one,.ad-reader,.crumb-ad,#left_ad,.ad-margin,.o-ad-container,.sics-component__sticky-ad-placeholder,.google-ad-iframe,a[href^=\"https://go.strpjmp.com/\"],.dfp-leaderboard,#srp_adsense-top,.adText,#story-ad-6-wrapper,#dfp-ad-bottom-wrapper,.firefly-sidebar-ad,#adrightbottom,#BB1-ad,.ad-promotion-native,.js-ad-wrapper,a[href^=\"http://track.afcpatrk.com/\"],#HeaderAD,#ad300,#ad_left,.adDiv,.adv-right,#content_ad_2,.article-ad-placeholder,#ad_img,.ad__mobile-footer,.sponsored-features,#medrec_bottom_ad,.ads__horizontal,.js-ad-hideable,a[href^=\"https://a.bestcontentweb.top/\"],.js-ad-primary,.advertisement-wrapper,.ad-inside,.ad-unit-text,#adsContainer,#in_ad_col_b,a[href^=\"https://www.friendlyduck.com/AF_\"],.header-top-ad,.section_ad,#ad-slot,.ad-block-300,.adbottom,#ad-container-1,.header-ad-wrap,.ad--wallpaper,.banner_ad_link,.dfp_slot,#adbdiv,.am-adslot,.rail-ads-1,.ad-strip,.ads_div,a[href^=\"//postlnk.com/\"],.single-ad,#mrt-node-Col2-1-AdBlockPromo,a[href*=\".smartadserver.com\"],#ads_container,#iqadtile4,.ad-hint,div[class^=\"AdSlot__container\"],.ad_728_top,.ad_adInfo,.AdSlot,.channel_ad_2016,.square-ad,.ad_btn,.head-ads,.ad-728,.adsc,div[class^=\"Display_displayAd\"],.comment-ad,.vce-ad-below-header,a[href*=\"//bongacams7.com/track?\"],.ad-ex,a[href^=\"https://www.clicktraceclick.com/\"],.leftAdsFix,#rightrail_pos1_ddb_0,.advtext,.video-page__adv,div[class^=\"Component-dfp-\"],.adSpec,#in_ad_col_a,#rightrail_pos2_ddb_0,.Ad-Container,#adslot2,.adsSlot300600,#ads-footer,#adv_top,.ad-container-top,.ad_col_a,.widget_adswidget3-quick-adsense,.player-section__ad-block,#banner_ad,#hideAds,#adsHeader,.player-section__ad-wrapper,#menu-ads,.header__ad,.parade-ad-container,.inline_ad,.rightAdsFix,.ads-single,.left-ads,.adset,.leaderboard-ad-container,.ad_head,div[id^=\"ad-position-\"],.advert--header,.wallpaper-parade-ad-container,.header-ad-slot,.side-ads-container,div[id^=\"ad-gpt-\"],.side-ads_sticky-group,.ad-code,.ads_2,#iqadtile8,.ads-336x280,.ad-tile,#home-ad,#adcontainer3,.advert__container,.ad_google_shhide,.skyscraper-ad-container,.AdUnit,.ad-refresh,.ad-two,#dsk-banner-ad-a,.ad_300x600,.widget_newscorpau_ads,.midAdv-cont,#dfp-ad-right1,.d3-c-adblock,.etad,.is-sponsored,#adslot3,#dfp-ad-right2,.ad-728-90,.advert_container,#ad_overlay,.link_ad,#dfp-ad-right1-wrapper,#ad6,#dfp-ad-right2-wrapper,.ad--button,.sponsored_content,.bigbox-ad,.ad-border,.desktop.ad,.advert-top,.ad-970,.sponsorLink,#dfp-ad-right3,#bottom-ad,aside[id^=\"advads_ad_widget-\"],.floatingAds,.ad-wireframe-wrapper,#rightAD,.bottomgooglead,.ad_wrapper_top,.m-block-ad,.house-ad,#google_ad,.bottomadtag,.banner_ads,.adsarea,.leftad,#video-advert,.ad-active,.video-advert,.amp-ad-wrapper,#ad_right_rail_flex,.adv-top,.g-ad,.table-ad,#AdDiv,.js-ad-container,.ads.bottom,.ad-spot,.ads-300,.s-ad,#yandex_ad,[id^=\"ad-wrap-\"],a[href*=\"//bongacams.com/track?\"],.top-advert,.ad.rectangle,.AdPlaceholder,.gr-ads,.ads-3,.ad-mpu-middle,.adsense-container,.dfp-panel,.BoxRail-ad,.header-adv,.ad_pic,#skyscraper_ad,.component-header-sticky-ad,.ad-icon,.exo-native-widget,#googlead,.ad728x90,.ads-rail,.widget_ad_layers_ad_widget,.railad,.postadsense,.rightrail-display-ad,#preroll_ads,.advertisement-box,.block-fusion-ads,.advert-center,.exo-native-widget-outer-container,a[href^=\"https://www.nutaku.net/signup/landing/\"],.ad-c-label,.adtag,#adtext,.adv-label,.ad_1,.insticator-ads,.google-dfp-ad-caption,.sidebar-top-ad,.advertisement_300x250,.advads-close-button,.google-dfp-ad-wrapper,.desktop-ads,a[href^=\"https://cams.imagetwist.com/in/?track=\"],.ads300,.adTag,.ipprtcnt,.ad-disclaimer-container,.ad-entity-container,.footer-ad-labeling,#adv-gpt-masthead-leaderboard-container1,#ads_300x250,.ajdg_grpwidgets,.herald-ad,.intra-article-ad,#theAd,.adModule--outer,.aarpe-ad-wrapper,.adModule--inner,#adSkin,.adv300,.ads_3,#Ad-Container,.googleAd,.ads_player,.advertBox,#topBannerAd,.sidead,#ad-sidebar,#floatingAd,#footer_ads,.ad__sticky-desktop,.advert-banner,#main-ad,.widget_300x250_advertisement,a[href*=\"//bongacams2.com/track?\"],.ad-ctn,.banner_728x90,.header-ads-container,#ad-7,div[id^=\"banner-ad-\"],.nordvpn-popup,#top_ads,#sticky_ad_bar,#dfp-ad-right4-wrapper,.pz-ad-box,.article-inline-ad,.mobileAd,#ad_468_60,.mapped-ad,.ad-column,#my-adsLREC2,#HEADERAD,.ad__caption,#banner300x250,#adsBottom,.home-ads,.am-bazaar-ad,.advert-bottom,.ie-adtext,.responsive-ad,.header-pencil-ad,iframe[id^=\"google_ads_frame\"],.sponsored-container-bottom,#bannerad,.innerAds,.ad-square,.dex-adlabel,.advance-ads,.earAdv,div[class^=\"AdEmbeded__AddWrapper\"],.withBanners__ad,#iqadtile9,.ads-col,.ad_rectangle,.widget_adv_text,.ad-subnav-container,.ad-anchor,.FooterAd,a[href^=\"//syndication.dynsrvtbg.com/splash.php?\"],a[href^=\"https://go.hpyjmp.com/\"],.ad_widget,.js-ad-banner-container,.advert-title,.ad-post,#ads-blog,#overlay_ad,display-ads,.sponsor_ad,.metaRedirectWrapperTopAds,.google-ad-placeholder,.ADStyle,.horizontalAd,.article-body__suppl_content--inline-cta-ad,.amp_ad_1,.adv-holder,#admpubottom,#gallery-ad,.article-top-ad,.cldt-ad-content-banner2,#gallery-ad-container,.full-top-ad-area,.full-width-ad,.ad-index,.Ads-leaderboard,.sgAd,#IC1-ad,.ad-wide,.adstop,a[href^=\"https://mediaserver.entainpartners.com/renderBanner.do?\"],.promoboxAd,.SponsoredResults,.inline-ad-wrapper,.inlinead,#side-ad,.ad_blk,#divAdRight,#ad-bg,.ad--overlayer,.squareAd,.ad-970x90,.image-viewer-ad,div[data-adunit-path],#downloadAd,.cl-ad-inpager,.br-ad-wrapper,.SimpleAd,.image-viewer-mpu,.lazyload_ad,#weatherad,.floating-ads,.br-ad,#adContext,#sgAdScGp160x600,.ad-3,#adv_62,#onpageads,.advert-content,#adv-x39,.rightColumnAd,.ads3,#ads-outer,.pb-f-ads-dfp,.verticalAd,.advertisement-title,#adBox,#right1ad,#ads_top,.DFPad,#adslot4,.download_adv_text_video,#divAdLeft,.ad-line,.fixed-ad-bottom,#ad_layer,.fixed-ad-bottom--banner,#rightAds,#AdServer,.stickyad,.mod_ad_container,.adv300x250,#ad_right3,#article_ad,.ad-mb,.single-ads,.adOverlay,#ad_ph_1,.header-ad-desktop,.zad.billboard,#hideads,.sponsored-slot,.ads-bg,#js-image-ad-mpu,.adZone,.red-adv,a[href^=\"https://natour.naughtyamerica.com/track/\"],#footerad,#story_top_ddb_0,.onf-ad,a[href^=\"https://chaturbate.com/affiliates/\"],.ads_160,.adsbox970x90,#dsk-banner-ad-b,#ad-left,#ads-container-single,#story_bottom_ddb_0,.vce-header-ads,.ad300x600,.ads-horizontal,.sky-ad,.vce_adsense_widget,div[class^=\"index__adWrapper\"],.topAds,.SponsorAds,.penci-google-adsense-2,#ad_header,.ng-ad-container-300-250,.vce_adsense_wrapper,.js-ad-imu,.ad-banner-bottom-container,.ad-takeover,.adv_120_600,.item-ads,.single-mpu,#sticky-ads-top,#im_popupFixed,#ad_footer,.adunit-wrap,.post-pick-ad,#sidebar-ads,.ad_300_600,#adWrapper,.ad160x600,.div_banner468,.group-item-ad,.headAd,.header-ads-wrap,.bsaProContainerNew,.ad-160,.quads-ad1_widget,.ad--header,.adss,.ad-wireframe,#mainui-ads,.fa-google-ad,.ad-component,.pb-f-ads-nativo,.block-ad-entity,.fixed_ad,.single-top-ad,#Tadspacehead,.static-ad,.adcont,.desktop_ad,div[id^=\"sticky_ad_\"],.detail-ad,#ad-skyscraper1-outer,.PageTopAd,.adv-phone,.advert--banner-wrap,.headerad,#ad_content,.hb__ad,.block__advertising,.gpt-ad-container,.ad-container--leaderboard,#ads-bottom,.o-ads,.sponsored-text,.wp_bannerize,.gc-deck--is-ad,[href^=\"https://rapidgator.net/article/premium/ref/\"],.top_ads,.adsitem,#videoAdContainer,.adloc-is-banner,.page-header-ad,.js-mpu,.advertisement-container,#div-ad-aniBox,#quads-ad1_widget,#IC2-ad,.adcode,.ad-lb,a[href^=\"http://www.coiwqe.site/\"],#bottom-ads,.adunit-purch,#banner_ads,.adImg,.adlist,.ad-leader-plus-top,.ads--no-preload,.ad-rectangle-container,.chartlist-row--interlist-ad,#main_ad,.hidead,#ad-8,.midAdv-cont2,#ads-banner,.nav_textads,.advert-block,.widget_adswidget4-quick-adsense,.adRectangle-pos-medium,.adplace,.storyAd,#ad_link,.ads_content,.js-dfp-ad-bottom,.first_ad,#banneradspace,#dfp-header,.ad--banner,#sponsored-recommendations,#taboola-below-article-thumbnails-express,.footer-advert,.ads-google-top,.aside-ad,#adright,.adRectangle-pos-small-inline,.sponsored-ad,.advert1,a[href^=\"https://t.adating.link/\"],.ad-place,.txtAd5,.ad-160x600,div[data-adname],#my-adsFPT,.ad-336x280,.mks_ads_widget,.adsHeader,.ads-google-bottom,#fpad2,.adv-bottom,.ads-in-content,.js-dfp-ad-top,.ad__wrapper-element,.ad-leader-bottom,#side-ads,.vce_adsense_expand,.ad-size-leaderboard,.ad--center,.big-ad,.ins_adwrap,.nav-ad-plus-leader,.footer-ads-slide,.ad-size-medium-rectangle-flex,.AdSticky,.adsense-area,#HP1-ad,.ad-module,.index_ad_column2,.sidebar__item-spacer--advert-top,.wide-ad-new-layout,.ad-close-button,.sticky-ad-bottom,.index_ad_a4,.index_ad_a2,#HP2-ad,.index_ad_a6,.ad-BANNER,.index_ad_a5,#ad-container-overlay,.buttonAds,.advertContainer,.hp_textlink_ad,.bottom_ads,.double-ads,.bsac,.adv_hed,.results-ads,.sticky-ads-container,.googleads,.mod_ad_text,#adss,.mod_ad_t25,#dfp-ad-container,#LeftAd,.leader-ad,.offads,.ads-txt,#ad_wallpaper,.Ad--awareness-bp,.ad_holder,#googleads,.adsense-inline,.newspack_global_ad,.ad--skyscraper,.adarea,.adslot_4,.ad-bigbanner,.ads01,.c-adSkyBox,.middle_ad,.ads-1,.aside-ads,.ad-contain,.player-ads,.ad-sharethrough-top,a[href^=\"https://googleads.g.doubleclick.net/pcs/click\"],.ad_wide,.ad300w,#floatads,.adv-header,.mod_r_ad1,#ADTOP,#ad-sidebar1,#footerads,.dfp-wrapper,.mod_index_ad,.mod_r_ad,.adnSpot,.adheader,#iqadtile41,#bannerAd_rdr,.searchRightTopAds,.adv_banner,.advertisingFooterXL,.ads-post,.caja_ad,.advertiser,.ad-homepage,.section-ads,.ad_space,.strip-ad,.ad-top-mpu,#ads7,#leaderboard-ad-1,#rightAd_rdr,.adChoice,.ads-cont,.colombiaAd,.stickyadv,.variableHeightAd,.pre-article-ad,.mobileadunit,.gad_container,.panel-ad,#ads-sticky,#adsense-bottom,.elementor-widget-wp-widget-advads_ad_widget,#Ads_BA_SKY,.ad_crown,#adv-x36,.ad--in-article,.ad_desktop,.single_ad_300x250,.adace-slideup-slot-wrap,.cbs-ad-unit-wrapper,.ad-mod,.cbs-ad-unit,#ad-sidebar2,.search-ad,.adv-970,.thumb-ads,#admpumiddle,.block--advertising,.reserved_box_ads,.adv-ad,.refreshInarticleAd,#NR-Ads,.NR-Ads,div[id^=\"ads300_600-widget\"],.native_ad,.ad_fullwidth,.promo_border,.adrow,.mm-banner970-ad,#top_right_ad,.connatix-wrapper,.adsense-336,.ads-here,.adtxt,.app_nexus_banners_common,#ad-masthead,.contentad,.subAdBannerHeader,#AdCommerce,.oi-header-ad,.adcenter,#billboard_ad,.ad-block-wrapper,#component-taboola-below-article-feed,#advert-skyscraper,#gad728x90,.ads-skyscraper,.ad--inner,#component-taboola-below-article-feed-2,.zmgad-right-rail,.list-ad,#sideAd-1,#sideAd-2,#sideAd-3,.block__advertising-content,.ad-leader-bottom-all,.ad-outline,.page-ad-container,.sister-ads,.dfad,#popupAd,.block--advertising-header,.page-pencil-ad-container-bottom,.ad-bar,.ads300x250,.custom_ad,.searchRightBottomAds,.ad_gpt,#adv-x38,.subAdBannerArea,.ad__leaderboard,.ad_billboard,.widget_ads,.header-advert,.at-header-ad,.ad-sticky-banner,.full-bleed-ad-container,.right_ads,.leftAdsFix1,a[href^=\"https://ismlks.com/\"],#adv-x37,#gad300x250,.horizontal-ad-wrapper,.general_banner_ad,.side_ads,#div_advt_right,.ad-above-mod-dl-btn,.section-sponsor,[id^=\"bunyad_ads_\"],.gad-container,.metaRedirectWrapperBottomAds,.ad-cover,#adBannerTop,#ad_holder,.sideBoxStackedAdWrap,.in-article-ad,.pb-f-ads-taboola,#adtagheader,.mobads,.dfad_pos_1,.adsection,.ads728x90,.dfad_first,#ad_mobile,.centralizer-adx,.card-ads,.clickads,.o-ads--center,.player-ad,#ad-panel,.adsleft,.AdPlacementContainer,.adx-wrapper-middle,.left_ad,#ad_right_1,#topAdDiv,.flex-ad,.ConnatixAd,#head-ad,.asideAd,div[data-id-advertdfpconf],#adsense1,#ad-side,.adColumn,a[href^=\"http://click.payserve.com/\"],.ad-top-728,.advertising--mobile,.overlay-ads,#tfm_admanagerTeaser,#ad_main_top_08,#adv_IntropageOvl,.adTopWrapper,.block__advertising-header,.row-ad,div[class^=\"AdCard_\"],.ads-top-center,.ad-break,a[href^=\"http://ad.doubleclick.net/\"],.oas_desktop_banner,.meta_ad,#TopBannerAd,.js-ad-doubleimu,#IC3-ad,.advertising--tablet,.advertisement-leaderboard,.custom-ad,#adSlot2,#dfp-wallpaper-wrapper,#ad_main_top_01,.ad-02,#adslot5,.inner-ad-section,.sponsor-grid__sponsor,.fs_ads,.pageAdSkin,.rightAdsFix1,.advertising--desktop,.zeusAdWrapper,#divAds,#leftAds,#ad_leaderboard,.ad--panorama,.pageAdSkinUrl,.adSizer,#banner_pos1_ddb_0,#ad_skyscraper,.adSlide,#sponsoredwellcontainerbottom,#top_ad_banner,#ad-manager,div[class^=\"Directory__footerAds\"],app-advertisement,#adv-text,.rightAD,#story-ad-7-wrapper,.ipsAd,.ad_float,.adsense-box,a[href*=\"//bongacams10.com/track?\"],.ad-head,a[href^=\"https://go.alxbgo.com/\"],.sh-section-ad,#adv-halfpage,#Ads_BA_CAD,#ads-by-google,#adbottom,.doubleclick-ad,a[href*=\"=adscript\"],.adfull,.ads10,a[href^=\"https://www.bebi.com\"],#boxad5,.ad-gpt-breaker,.search-sponsor,.ads12,.top-banner-ad,.ezAdsense,.banner350,.ad_skin,.addiv,.adsright,.adActive,div[id^=\"google_dfp_\"],.taboolaArticle,#origami-ad-container,.flex-ad-wrapper,.ads-div,#adSlider,.block-itg-ads,#sidebar_ad_2,#dfp-header-container,#extraAdsBlock,#ad_5,.textAds,.bsac-container,.adslider,.adArea,.advertorial-teaser,.adv300x100,.ad_728x90,#adSlot3,.leftAd,.ad-loaded,#banner_pos2_ddb_0,.fullpage-ad,#ad-slot-top,#interstitial_ad,.ads-link,#ad_middle_122,#outbrain-wrapper,.ad-header-container,.pb-f-ad-leaderboard,.widget-adsense,.article-ad-left,#layer_ad,.full_ad,.ad-hideable,.ads-side,.mw-right-ad-slot,#adValue,.ads__right-rail-ad,.advertisement_728x90,.banner-ad-row,#player-advertising,#advert_1,#crt-adblock-a,#crt-adblock-b,.dfp-space,.container--ads-leaderboard-atf,.article-sponsor,.ad-embedded,#leftAd_rdr,#sidebar_ad_1,#leftAd_fmt,[href^=\"https://join3.bannedsextapes.com\"],.rightads,.small-ad,#ad_billboard,a[href*=\"ad2upapp.com/\"],.slate-ad,.fullbanner_ad,.header-ads-wrapper,aside[id^=\"adrotate_widgets-\"],.ads-728,#ad-background,.ads11,.ads4,.top-ad-wrap,#advert-1,.advertiseText,.id-Article-advert,#sponsorText,.itinerary-index-advertising,a[href^=\"https://dynamicadx.com/\"],.adloaded,.Ad--empty,a[href^=\"http://join3.bannedsextapes.com/track/\"],.advrst,.ad-main,.widget_728x90_advertisement,#botad,.story-ad,.adItem,.horizontalAdText,.page-ads,.ads_label,.block-ltadvertising,.showAd,.ad-slot-sidebar,.ads_wrap,.gallery-sidebar-ad,#teads0,.slideshow-vaop-ad,.has-fixed-bottom-ad,.pb-f-ad-flex,#topImgAd,#ad_0,.adsblock,.innerad,#adTower,.ad728_cont,#adv_Skin,.ajdg_bnnrwidgets,#adsiframe,.right-adv,.sponsor-link,.ad_item,.google-ad-container,#IM_AD,.headad,.ad-container-bottom,#ad-9,#adv-banner,.ad-medium,.big-right-ad,#adUnit,.bannerAds,div[id^=\"ad-div-\"],.ads__native,#ad-pushdown,.movv-ad,.ad-disclaimer,#after-dfp-ad-mid4,.video-archive-ad,.injectedAd,.ads-marker,#adRight,.ad__content,.main-ad-container,.pb-f-ads-yieldmo,.publicidade-vertical-layout,.adHeight313,.non-empty-ad,#oas_Top1,.ad_side,.ads-code,.advText,a[href^=\"https://go.goasrv.com/\"],.headerAds,.cldt-ad-top,.advert--mpu--rhs,#adTopLREC,#adTopYSP,#ad-desktop-bottom,#sponsored_content,#ad_300x250_m_c,#block-ltadvertising-ltadvertising,.takeover-ad,.sudoku-ad,.adinner,.ad-bigbox-fixed,.teads-player,.sheknows-infuse-ad,#ad-top-banner,.mmads,#Ads_BA_FLB,#adv_sky,#adv_LdbMastheadPush,#team_ad,.advertisement-link,.ad-no-notice,.grid_ad_container,.leaderboard-ad-wrapper,.ad-pencil-margin,.photo-ad,#rec_spot_ad_1,.ads_wide,#adFrame,#adv_BoxBottom,.ad--section,.ad-wrapper-bg,.ad-iframe,.adMinHeight313,[href*=\".engine.adglare.net/\"],.ad-slot-wrapper,#ad_thread_first_post_content,.mm-banner970-90-ad,.m-ad__wrapper--728x90,.text_linkad_wrapper,#ad_right_box,#ads_3,.ads-main,.banner-ad-container,.ad-display,.block_ad,.first-ad,.recent-ad,.content_ads,.gallery_ad,.ad-full-width,.fjs-ad-hide-empty,.googlepublisherads,#adsense_top,.adsmessage,.adsense-csa,#iqadtile14,.ad-TOPPER,#banner_pos3_ddb_0,#banner_pos4_ddb_0,#rightrail_pos3_ddb_0,.bottomads,#adcontent,.ntv-ad,a[href*=\".clksite.com/\"],a[href*=\"/adServe/banners?\"],#ads_bottom,.teaser-advertisement,.ad_sidebar_bigbox,a[href^=\"https://www.bang.com/?aff=\"],.story-header-ad,.cBox-body--similarSellerAds,.area_ad03,#top-ads,.area_ad09,#ad-billboard,.adcard,.topArtAd,.ad_72890,.adriverBanner,.jw-ad,#bbccom_mpu,.ad-cell,.ht_outbrain,#ads_block,.adWidget,#ad-10,.ad_notice,.main-ads,.jw-ad-media-container,.rgt_ad,.item-container-ad,.middlead,.mvp-flex-ad,.parent-ad-desktop,.penci-google-adsense-1,#adslot-site-footer,.ad_by,.inline-story-add,.rightAds,#Top-ad,#div_ad_float,#ad_middle_2,[href^=\"https://affect3dnetwork.com/track/\"],.ModeLayout-ad,#pushDownAd,.ad_xrail,#adslot-site-header,#ads1_box,#ads2_box,#ad_300x250,.detail-ads,.ad-tower-container,.teads-ui-components-label,.gridlove-ad-below-header,.ad-sense-ad,.feed-ad,.ad--inArticleBanner,.yom-ad,.ads_left,.betteradscontainer,#ad_layer1,.article-content-ad,#ad_layer2,.ad-carousel,.adslot--leaderboard,#ad_300x100_m_c,a[href*=\".cfm?fp=\"][href*=\"&prvtof=\"],.footerTextAd,#ad-video,.adscenter,#iqadtile99,.tnt-dmp-reactive,#ad_middle_bottom,#ads_superbanner1,.block-simpleads,.jsOneAd,.widget-dfp,.latest-ad,#ads_page_top,.mods-box--ad-blocking-criteo,div[id^=\"dfp-slot-\"],a[href^=\"https://keep2share.cc/pr/\"],a[href^=\"http://reallygoodlink.freehookupaffair.com/\"],a[href^=\"https://www.adskeeper.co.uk/\"],a[href^=\"https://www.camsoda.com/enter.php?id=\"],.u-ads,[href^=\"http://raboninco.com/\"],a[href^=\"https://track.effiliation.com/servlet/effi.redir?\"],a[data-redirect^=\"https://paid.outbrain.com/network/redir?\"],div[id^=\"advads_\"],.programmatic-ad,.sticky-ad-footer,display-ad-component,.ads-center,.adslot_collapse,a[href^=\"https://track.afcpatrk.com/\"],.adsMvCarousel,.desktop-lazy-ads,.programtic-ads,.pubexchange_module .pe-external,.js-widget-distroscale.distroscale,a[href*=\"/cmd.php?ad=\"],.artstyle__advertisement,a[href^=\"http://amzn.to/\"] > img[src^=\"data\"],a[href*=\"=exoclick\"],#sponsored-links-alt,.inline-iframe.article--content-embed,#dsk-box-ad-c,a[href^=\"https://ilovemyfreedoms.com/\"][href*=\"?affiliate_id=\"],.adHeight280,a[href*=\".mfroute.com/\"],.playerad,.article__inset--margin-ad,#adHeightstory,.ads.top,#advertisement_belowscreenshots,.subscribeAd,.polaris-ad--wrapper-desktop,[href^=\"https://www.targetingpartner.com/\"],a[href^=\"https://prf.hn/click/\"][href*=\"/creativeref:\"] > img,.ad-inline-mod,a[href^=\"https://go.stripchat.com/\"][href*=\"&campaignId=\"],#connatix_placeholder_desktop,.outbrainAdHeight,#infoboxadwrapper,#adslot-infobox,#after_title_ad,a[href^=\"https://tc.tradetracker.net/\"] > img,div[class^=\"adbanner_\"],a[href*=\".surfmdia.com/\"],#ad-medrec__first,#after_button_ad_desktop,#sidebar_ad_big,#top-head-ad,.par-ad,[href*=\"https://www.jmbullion.com/gold/\"],#ADCENTER,.responsive_ads_120x600,.responsive_ads_468x60,a[href^=\"https://clicks.pipaffiliates.com/\"],#above_button_ad,a[href^=\"http://www.bet365.com/\"][href*=\"affiliate=\"],.side-bar-ad,div[class^=\"kiwiad-popup\"],div[class^=\"kiwiad-desktop\"],.oko-adhesion,.ad-dog__cnx-container,#ad-container-3,a[href^=\"https://a.bestcontentoperation.top/\"],.adRectangle-pos-large,#dsk-box-ad-f,.widget_tpd_ad_widget,a[href^=\"https://ads.betfair.com/redirect.aspx?\"],a[href^=\"https://www.porngamesxxx.com/\"][href*=\"?campaign=\"],.pop-out-eplayer-container,a[href^=\"https://redsittalvetoft.pro/\"],.gpt-container,a[href$=\"/5-\"][target=\"_blank\"][rel=\"nofollow\"],a[href^=\"http://ads2.williamhill.com/redirect.aspx?\"],a[href^=\"http://marketgid.com\"],.evhl-picArea,.billboard-ad-slot-container,.ad-in-content,.insert_ad_column,[href^=\"https://wct.link/\"],a[href^=\"http://affiliate.coral.co.uk/processing/\"],.tpd-banner-desktop,a[href^=\"https://www.privateinternetaccess.com/\"] > img,a[href^=\"https://torrentsafeguard.com/?aid=\"],#marquee-ad,a[href^=\"https://as.sexad.net/\"],.card-captioned.crd > .crd--cnt > .s2nPlayer,div[id^=\"ads300_100-widget\"],a[href*=\".axdsz.pro/\"],a[href^=\"https://m.do.co/c/\"] > img,.main-ad-728x90-container,.ad-render-space,.amp-sticky-ads,a[href^=\"https://adserver.adreactor.com/\"],.adwblue,a[href*=\".opskln.com/\"],.zox-post-ad-wrap,a[href^=\"https://billing.purevpn.com/aff.php\"] > img,a[href^=\"http://media.paddypower.com/redirect.aspx?\"],a[href^=\"https://badoinkvr.com/\"],#advertisePlacement,.advertise-band,#advertise-block,a[href^=\"https://www.awin1.com/cread.php?awinaffid=\"],a[href^=\"http://ul.to/ref/\"],a[href^=\"https://go.gldrdr.com/\"],.ad--inline,[href^=\"https://www.xvbelink.com/\"],[href*=\".xiloy.site/\"],.ad-itself,a[href^=\"//www.mgid.com/\"],.dsp-under-video-ad,a[href^=\"https://tracking.truthfinder.com/?a=\"],.article-ad-holder,.article-ad-legend,a[href^=\"https://prf.hn/click/\"][href*=\"/adref:\"] > img,a[href^=\"https://click.hoolig.app/\"],a[href*=\".directtl.xyz/\"],.ad-container__sticky-wrapper,a[href^=\"https://go.xtbaffiliates.com/\"],div[class^=\"adUnit_\"],.height_250_ad,#ad-homepage-bottom-adhesion,a[href^=\"https://misspkl.com/\"],[href^=\"http://homemoviestube.com/\"],a[href^=\"https://promo-bc.com/\"],.ad-small-2,a[href^=\"http://adf.ly/?id=\"],a[href^=\"https://squren.com/rotator/?atomid=\"],.ad--sky,a[href^=\"https://fileboom.me/pr/\"],a[href^=\"https://servedbyadbutler.com/\"],.sm-ads,a[href^=\"https://dianches-inchor.com/\"],[href^=\"https://join.playboyplus.com/track/\"],a[href^=\"https://k2s.cc/pr/\"],#sabavisionIframeAds,.sabavision-ads,a[href^=\"https://porntubemate.com/\"],[href^=\"https://www.reimageplus.com/\"],div[id^=\"lazyad-\"],.ad-home-featured-files,[href^=\"https://track.fiverr.com/visit/\"] > img,a[href^=\"https://awejmp.com/\"],.adHeight270,.adHeight600,.rightadHeightBottom,a[href^=\"http://bs.serving-sys.com/\"],.ngart__ad-col,.ngart__side-ad,.AdWrapper--sticky-block,a[href^=\"http://online.ladbrokes.com/promoRedirect?\"],.converter-ad,[href^=\"https://r.kraken.com/\"],a[href^=\"https://oackoubs.com/\"],.ads-home,[href*=\"//securesafemembers.com\"],.container-with-ad,.ArticleAdWrapper,a[href^=\"http://affiliates.lifeselector.com/\"],.inarticlead,.ad-banner-box,.c-ArticleAds,.adthrive-header-container,a[href^=\"http://tour.mrskin.com/\"],.primis-ad-wrap,#ppvideoadvertisement,a[href^=\"https://mmwebhandler.aff-online.com/\"],.advertisement-footer,.article-list__list-item--ad,a[href^=\"https://ad.atdmt.com/\"],a[href^=\"https://unreshiramor.com/\"],.ad-mount,.instream_ad,div[id^=\"ads250_250-widget\"],a[href^=\"https://bestcond1tions.com/\"],a[href^=\"https://www.popads.net/users/\"],a[href^=\"http://ads.betfair.com/redirect.aspx?\"],.top-left-ad,a[href^=\"https://mediaserver.gvcaffiliates.com/renderBanner.do?\"],div[class^=\"adsbutt_wrapper_\"],#dsk-banner-ad-c,.ad-container-m,.adMinHeight280,a[href^=\"https://bngpt.com/\"],a[href^=\"http://wct.link/\"],#article-ads,a[href^=\"http://server.cpmstar.com/click.aspx?poolid=\"],a[href^=\"https://get.surfshark.net/aff_c?\"][href*=\"&aff_id=\"] > img,a[href^=\"https://betway.com/\"][href*=\"&a=\"],#tpd-ads-top-desktop-banner-ad-container,.ampforwp-sticky-custom-ad,div[class^=\"articleAdUnitMPU_\"],a[href^=\"//srv.buysellads.com/\"],div[id^=\"ad_head_celtra_\"],#adslot-sticky-headerbar,.in-content-ad-container,#sticky-custom-ads,.advert__sidebar,.amp-sticky-ad-custom,div[class^=\"SponsoredAds\"],div[id^=\"ad_script_\"],.ad-slot-widget,[src*=\"https://cdn.cloudimagesb.com/\"],#ads_h1,#ad_content_2,#ad_content_1,a[href^=\"http://www.fonts.com/BannerScript/\"],a[href^=\"https://a.bestcontentfood.top/\"],.adMed,.topadsbx,a[href^=\"http://campaign.bharatmatrimony.com/track/\"],a[href^=\"https://track.afftck.com/\"],a[href^=\"https://mcdlks.com/\"],#dsk-banner-ad-d,#adslot-below-newest,#adslot-below-updated,img[alt^=\"Fuckbook\"],[href^=\"https://secure.bmtmicro.com/servlets/\"],a[href^=\"http://mgid.com/\"],[href^=\"https://dooloust.net/\"],[class*=\"__adv-block\"],.ad-horizontal-top-wrapper,a[href^=\"https://www.financeads.net/tc.php?\"],.galleryad,a[href^=\"https://join.virtualtaboo.com/track/\"],.top__ad,#top-ad-slot,.ad-container--top,a[href^=\"https://www.securegfm.com/\"],a[href^=\"https://landing1.brazzersnetwork.com\"],a[href^=\"http://partners.etoro.com/\"],[href^=\"https://freecourseweb.com/\"] > .sitefriend,a[onmousedown^=\"this.href='https://paid.outbrain.com/network/redir?\"][target=\"_blank\"] + .ob_source,[href^=\"https://stvkr.com/\"],[href^=\"https://awbbjmp.com/\"],a[href^=\"https://adultfriendfinder.com/go/page/landing\"],a[href^=\"https://fertilitycommand.com/\"],a[href^=\"https://go.currency.com/\"],.ad_gam,a[href^=\"https://www.adultempire.com/\"][href*=\"?partner_id=\"],a[href^=\"http://campeeks.com/\"][href*=\"&utm_\"],a[href^=\"http://www.mrskin.com/tour\"],.single-post-ads,.ad-burnside,.roof-ad,a[href^=\"http://istri.it/?\"],a[href^=\"http://www.badoink.com/go.php?\"],a[href^=\"https://fleshlight.sjv.io/\"],a[href^=\"http://banners.victor.com/processing/\"],a[href*=\".udncoeln.com/\"],a[target=\"_blank\"][href^=\"http://api.taboola.com/\"],.js_ad_wrapper,a[href^=\"http://fileboom.me/pr/\"],a[href^=\"http://keep2share.cc/pr/\"],.ad__image,a[href^=\"http://extra.bet365.com/\"][href*=\"?affiliate=\"],a[href^=\"http://vo2.qrlsx.com/\"],a[href^=\"https://www.gambling-affiliation.com/cpc/\"],.headerAdvertisement,a[href^=\"https://www.dollps.com/?track=\"],[href^=\"https://ptwmjmp.com/\"],a[href*=\".bang.com/\"][href*=\"&aff=\"],#adContainerMobile,div[class^=\"BannerAd_\"],a[href^=\"https://ads.leovegas.com/redirect.aspx?\"],div[class^=\"ad_position_\"],a[href^=\"https://leg.xyz/?track=\"],[class^=\"Ad-adContainer\"],#sponsored-post-ad-for-articles,a[href^=\"http://bodelen.com/\"],[class*=\"__adspot-title-container\"],a[href*=\"/servlet/click/zone?\"],.m2n-ads-slot,.bin-ads,.ad--stroeer,.ad--topmobile,.rectangle-ad-slot-container,a[href^=\"https://affiliate.rusvpn.com/click.php?\"],.ad--pubperform,.js-widget-send-to-news,.send-to-news,.eg-ad,div[id^=\"block-views-topheader-ad-block-\"],a[href^=\"https://t.grtyi.com/\"],[href^=\"https://go.affiliatexe.com/\"],#dfp-banner,a[href^=\"https://clixtrac.com/\"],a[href^=\"https://ad.zanox.com/ppc/\"] > img,a[href^=\"https://ndt5.net/\"],a[href^=\"https://financeads.net/tc.php?\"],a[href^=\"http://xads.zedo.com/\"],a[href^=\"https://awecrptjmp.com/\"],a[href^=\"http://xtgem.com/click?\"],.vl-header-ads,a[href^=\"https://go.247traffic.com/\"],#gpt-instory-ad,.content-leaderboard-ads,#desktop-sidebar-ad,a[href^=\"https://www.sheetmusicplus.com/\"][href*=\"?aff_id=\"],a[href^=\"http://k2s.cc/code/\"],.adspot-desk,div[id^=\"ad_bigbox_\"],.new_ad_left,a[href^=\"//awejmp.com/\"],.long-ads,#ad-performance,.detail__ad--small,.ad-program-list,[href^=\"https://join.girlsoutwest.com/\"],a[href^=\"https://ad13.adfarm1.adition.com/\"],a[href^=\"https://land.brazzersnetwork.com/landing/\"],a[href^=\"https://track.themadtrcker.com/\"],a[href^=\"http://www.myfreecams.com/?co_id=\"][href*=\"&track=\"],#ad-promo,#ad_cont_superbanner,div[id^=\"advt-\"],.vf-ad-comments,[ad-id^=\"googlead\"],a[href*=\".trust.zone\"],a[href^=\"http://buysellads.com/\"],[href^=\"http://join.shemale.xxx/\"],[href*=\".grtya.com/\"],div[id^=\"ADV-SLOT-\"],#admobilemiddle,#ifadmiddle,.container-first-ads,div[id^=\"adngin-\"],div[class*=\"_AdInArticle_\"],a[href^=\"http://www.sexgangsters.com/?pid=\"],.g_flbrd_ad,a[href^=\"http://ad-emea.doubleclick.net/\"],div[class*=\"-storyBodyAd-\"],.g_lbrd_ad,.main-ad-bg,.ad-rotator,.ad-centering,a[href^=\"http://www.bluehost.com/track/\"] > img,#ad_content_3,a[href^=\"https://www.mrskin.com/tour\"],[href^=\"http://join.michelle-austin.com/\"],a[href^=\"https://my-movie.club/\"],div[id^=\"ads120_600-widget\"],.post-ads-top,a[href^=\"http://9nl.es/\"],a[href^=\"http://www.onwebcam.com/random?t_link=\"],a[href*=\"/adrotate-out.php?\"],.fix_ad,a[href^=\"http://hotcandyland.com/partner/\"],.ad--banner2,.ad--topmobile2,.sponsored-article-widget,#adbox-inarticle,.ADV_Mobile,[href^=\"http://join.trannies-fuck.com/\"],a[href^=\"http://googleads.g.doubleclick.net/pcs/click\"],a[href^=\"https://refpaexhil.top/\"],[href^=\"http://join.hardcoreshemalevideo.com/\"],a[href^=\"http://adserving.unibet.com/\"],[href^=\"http://join.shemalesfromhell.com/\"],.advertisement__header,div[id^=\"drudge-column-ads-\"],#bb_top_ad,a[href^=\"https://trust.zone/go/r.php?RID=\"],.advertisement--leaderboard,#ad_marginal,a[href*=\".irtyc.com/\"],[href^=\"http://join.shemalepornstar.com/\"],a[href^=\"https://www.vewwrmp.com/\"],.adSlot-container,[href^=\"http://join.ts-dominopresley.com/\"],.rectangle-ad-slot-wrapper,[href^=\"https://www.hostg.xyz/aff_c\"] > img,.sidebar-ad-area,div[class^=\"hp-ad-rect-\"],[href^=\"https://refpahrwzjlv.top/\"],a[href^=\"https://www.mrskin.com/account/\"],.blog-ad-image,.vl-advertisment,.widget_viral_advertisement,a[href^=\"http://tc.tradetracker.net/\"] > img,a[href^=\"https://go.markets.com/visit/?bta=\"],a[href^=\"http://deloplen.com/afu.php?zoneid=\"],a[href^=\"https://t.hrtyj.com/\"],.adsbygoogle-wrapper,a[href^=\"https://iqbroker.com/\"][href*=\"?aff=\"],a[href^=\"https://usenetxs.website/\"],a[href^=\"https://msecure117.com/\"],.adindex,a[href^=\"http://reallygoodlink.extremefreegames.com/\"],a[href*=\".qertewrt.com/\"],a[href^=\"https://medleyads.com/\"],a[href^=\"https://ads.planetwin365affiliate.com/redirect.aspx?\"],#header-adserve,a[href^=\"https://secure.starsaffiliateclub.com/C.ashx?\"],#ad-Superbanner,.ad-container-inthread,.partner-ads-list,a[href^=\"http://www.123-reg.co.uk/affiliate2.cgi\"],a[href^=\"http://www.TwinPlan.com/AF_\"],a[href^=\"https://axdsz.pro/\"],a[href^=\"https://control.trafficfabrik.com/\"],a[href^=\"https://dltags.com/\"],a[href^=\"https://meet-to-fuck.com/tds\"],a[href^=\"https://members.linkifier.com/public/affiliateLanding?refCode=\"],a[href^=\"https://transfer.xe.com/signup/track/redirect?\"],.primis-custom,a[href^=\"http://c.actiondesk.com/\"],a[href^=\"https://aweptjmp.com/\"],a[href^=\"http://affiliates.thrixxx.com/\"],div[class^=\"ad_border_\"],#below-title-ad,a[href^=\"http://see.kmisln.com/\"],a[href^=\"//pubads.g.doubleclick.net/\"],div[id^=\"div-ads-\"],.contentAd--sb1,a[href^=\"https://go.cmrdr.com/\"],div[id^=\"taboola-stream-\"],#dfp_ads_4,#dfp_ads_5,.ADV320_50_100,.ADV320_50_100_PlaceHolder,a[href^=\"https://see.kmisln.com/\"],div[id^=\"ad-cid-\"],a[href^=\"http://www.tirerack.com/affiliates/\"],a[href^=\"http://www.greenmangaming.com/?tap_a=\"],.ad-mobile-300x250,[href^=\"http://join.rodneymoore.com/\"],a[href^=\"https://wantopticalfreelance.com/\"],.ad-slot--billboard--article--wrapper,.topAdBlock,a[href*=\"//bongacams5.com/track?\"],.adDetails_ad336,a[href^=\"https://affiliate.geekbuying.com/gkbaffiliate.php?\"],a[href^=\"http://www.getyourguide.com/?partner_id=\"],a[href^=\"http://www.fleshlight.com/\"],.ad--topmobile3,a[href^=\"http://webgirlz.online/landing/\"],a[href^=\"https://iac.ampxdirect.com/\"],.sad_posterad,a[href*=\"a2g-secure.com\"],a[href^=\"https://www.kingsoffetish.com/tour?partner_id=\"],#div-gpt-mini-leaderboard1,a[href^=\"http://www.adbrite.com/mb/commerce/purchase_form.php?\"],a[href^=\"https://go.julrdr.com/\"],.list-footer-ad,a[href^=\"https://tour.mrskin.com/\"],[href*=\".jetx.info/\"],a[href^=\"https://www.pornhat.com/\"][rel=\"nofollow\"],a[href^=\"https://goraps.com/\"],.i-amphtml-element.live-updates.render-embed,[href^=\"http://stvkr.com/\"],a[href^=\"https://www.sheetmusicplus.com/?aff_id=\"],a[href^=\"https://www.im88trk.com/\"],.advert-bar,.dm_ad-link,[href^=\"/ucdownloader.php\"],[href^=\"/ucmini.php\"],.new_ad_normal,.is-preload-ad,a[href^=\"http://hyperlinksecure.com/go/\"],iframe[src^=\"http://ad.yieldmanager.com/\"],a[href^=\"http://affiliates.pinnaclesports.com/processing/\"],a[href^=\"https://syndication.dynsrvtbg.com/splash.php?\"],.dm_ad-billboard,.dm_ad-leaderboard,.dm_ad-skyscraper,#ad-performanceFullbanner1,#ad-performanceRectangle1,[data-template-type=\"nativead\"],a[href*=\"=Adtracker\"],[href^=\"http://www.star-clicks.com/\"],a[href^=\"https://t.hrtye.com/\"],a[href^=\"http://go.xtbaffiliates.com/\"],.ad-posterad-inlisting,.mpu-ad-river,.in_article_ad_wrapper,.inc-ad,div[id^=\"q1-adset-\"],.river-standard-ad-container,a[data-redirect^=\"http://paid.outbrain.com/network/redir?\"],.img-ad-container,.ad-120-bottom,.ad-120-top,.ad-468-bottom,.ad-468-top,.adace-sponsors-box,.adsother,.ar-header-m-ad,.hederAd,a[href^=\"http://espn.zlbu.net/\"],a[href^=\"http://record.betsafe.com/\"],a[href^=\"https://cpmspace.com/\"],a[href^=\"https://earandmarketing.com/\"],a[href^=\"https://offers.refchamp.com/\"],a[href^=\"https://www.passeura.com/\"],a[href^=\"https://fakelay.com/\"],.label_advertising_text,a[href*=\".tfaln.com/\"],.bh-ads,div[class^=\"zn-sponsored-outbrain-\"],a[href^=\"http://secure.cbdpure.com/aff/\"],a[href^=\"http://secure.vivid.com/track/\"],div[id^=\"ad-server-\"],a[href*=\".allsports4you.club\"],a[href^=\"http://adserver.adreactor.com/\"],.ground-ads-shared,a[href^=\"http://syndication.exoclick.com/\"],a[href^=\"http://www.on2url.com/app/adtrack.asp\"],a[href^=\"https://join.sexworld3d.com/track/\"],.sidebar__block-advertisement,.desktop-sidebar-ad-wrapper,a[href^=\"http://secure.hostgator.com/~affiliat/\"],#ad-medrec-article-container,#ad_bsb_cont,a[href^=\"https://look.utndln.com/\"],a[data-nvp*=\"'trafficUrl':'https://paid.outbrain.com/network/redir?\"],[href^=\"https://veepn.g2afse.com/\"],.ads-star,.tile-advert,a[href^=\"http://api.content.ad/\"],a[href^=\"http://zevera.com/afi.html\"],a[href^=\"https://awptjmp.com/\"],a[href^=\"https://easygamepromo.com/ef/custom_affiliate/\"],[href^=\"https://go.astutelinks.com/\"],a[href*=\"//bongacams4.com/track?\"],[href*=\".ltroute.com/\"],[href^=\"https://bulletprofitsmartlink.com/\"],.header_adspace,a[href^=\"http://www.adxpansion.com\"],.mobile_ad_banner,a[href^=\"http://www.revenuehits.com/\"],.hmad,a[href^=\"https://track.totalav.com/\"],a[href^=\"https://go.hpyrdr.com/\"],a[href^=\"http://wgpartner.com/\"],.container-ad-left,a[href^=\"http://adultfriendfinder.com/p/register.cgi?pid=\"],a[href^=\"https://chaturbate.xyz/\"],a[href^=\"https://explore.findanswersnow.net/\"],.adsbanner2,div[id^=\"gtm-ad-\"],a[href^=\"https://join.dreamsexworld.com/\"],.ad-affiliate,a[href^=\"https://go.onclasrv.com/\"],aside[id^=\"tn_ads_widget-\"],a[href*=\"pussl3.com\"],a[href^=\"http://tezfiles.com/pr/\"],a[href^=\"https://www.share-online.biz/affiliate/\"],.adsbanner1,a[href^=\"http://adclick.g.doubleclick.net/\"],a[href^=\"https://azpresearch.club/\"],a[href^=\"http://www.liutilities.com/\"],.ad-preparing,a[href^=\"https://tracking.avapartner.com/\"],.fp_article-card--adv-injected,a[href^=\"http://axdsz.pro/\"],a[href^=\"http://yads.zedo.com/\"],a[href^=\"https://aff-ads.stickywilds.com/\"],a[href^=\"https://affiliates.bet-at-home.com/processing/\"],a[href^=\"https://land.rk.com/landing/\"],div[id^=\"divAdvAD_\"],a[href^=\"https://join.virtuallust3d.com/\"],a[href^=\"https://torguard.net/aff.php\"] > img,a[href^=\"https://www.purevpn.com/\"][href*=\"&utm_source=aff-\"],.adpos-300-mobile,a[href^=\"http://go.247traffic.com/\"],[href^=\"https://www.highrevenuecpm.com\"],a[href^=\"http://www.friendlyduck.com/AF_\"],a[href^=\"http://feedads.g.doubleclick.net/\"],a[href^=\"http://c.jumia.io/\"],#AdvertMid1,#AdvertMid2,#ads_h2,.ads_h1,.ads_h2,.post-ads-detalhe,.post-ads-detalhe-1,.thb_ad_header,a[href^=\"//oardilin.com/\"],a[href^=\"http://adultgames.xxx/\"],a[href^=\"http://www.hibids10.com/\"],a[href^=\"http://www.plus500.com/?id=\"],a[href^=\"https://landing.brazzersplus.com/\"],a[href^=\"https://www.oneclickroot.com/?tap_a=\"] > img,a[href^=\"https://www.get-express-vpn.com/offer/\"],a[href^=\"http://www.gfrevenge.com/landing/\"],a[href^=\"https://offerforge.net/\"],a[href^=\"http://paid.outbrain.com/network/redir?\"],.ad-banner-inlisting,[id*=\"MGWrap\"],a[href^=\"https://cpartner.bdswiss.com/\"],a[href*=\".trck5.com/\"],a[href^=\"https://tracking.gitads.io/\"],a[href^=\"http://www.text-link-ads.com/\"],a[href^=\"https://www.mypornstarcams.com/landing/click/\"],#ad_bsb,#top_ad-360,.ad-banner-2,.ad-banner-5,.ad-banner-6,a[href^=\"http://admrotate.iplayer.org/\"],a[href^=\"http://goldmoney.com/?gmrefcode=\"],a[href^=\"http://look.djfiln.com/\"],a[href^=\"http://traffic.tc-clicks.com/\"],a[href^=\"https://adsrv4k.com/\"],a[href^=\"https://syndication.exoclick.com/splash.php?\"],a[href*=\"//ezofferz.com/\"],a[href^=\"http://go.ad2up.com/\"],a[href^=\"https://www.sugarinstant.com/?partner_id=\"],.ads-between-comments,a[href^=\"http://ads.sprintrade.com/\"],a[href^=\"https://graizoah.com/\"],a[href^=\"https://meet-sex-here.com/?u=\"],div[id^=\"ad-inserter-\"],a[href^=\"http://fusionads.net\"],a[href^=\"https://jmp.awempire.com/\"],a[href^=\"http://www.firstclass-download.com/\"],.c-header__advert-container,[href*=\"wap4dollar.com/\"],[href^=\"https://shiftnetwork.infusionsoft.com/go/\"] > img,[id^=\"adframe_wrap_\"],.mobileAdPos2And3,a[href^=\"https://www.spyoff.com/\"],.ad-970x250-container,a[href^=\"http://www.amazon.co.uk/exec/obidos/external-search?\"],a[href^=\"https://porngames.adult/?SID=\"],div[class^=\"PreAd_\"],a[href^=\"http://campaign.bharatmatrimony.com/cbstrack/\"],a[href^=\"http://promos.bwin.com/\"],a[href^=\"http://www.adultempire.com/unlimited/promo?\"][href*=\"&partner_id=\"],a[href^=\"https://track.healthtrader.com/\"],a[href^=\"http://serve.williamhill.com/promoRedirect?\"],a[href^=\"https://www.nudeidols.com/cams/\"],#ads_desktop_r1,#ads_desktop_r2,#div-gpt-inline-main,#sidebarad0,#txtAdHeader,.Billboard-ad-holder,.Billboard_2-ad-holder,.Billboard_3-ad-holder,.Billboard_4-ad-holder,.Billboard_5-ad-holder,.Content_1-ad-holder,.Footer_1-ad-holder,.Rectangle_1-ad-holder,.Rectangle_2-ad-holder,.Rectangle_3-ad-holder,.ad-970x250-home,.ad-block-wrapper-dev,.ad-desktop-native-1,.ad-desktop-native-2,.adbox-style,.adhesion-header,.ads_desktop_r1,.ads_desktop_r2,.ads_under_data,.adspacer2,.adunit-container_sitebar_1,.adv_banner_ps_1,.adv_banner_ps_2,.adv_banner_ps_3,.adv_banner_ps_6,.adv_banner_ps_8,.article__ad-holder,.center-content-ad,.center-content-ads,.datasphere-ad-front,.display-adhorizontal,.google-ad-header2,.height_90_ad,.hm-ad,.mobile-nav-ad-plus-banner,.rectangle-widget-td-ad,.single-component__ad,.sm-ads__billboard,[href*=\"cadsecs.com/\"],[href*=\"get-download.club/\"],[href^=\"https://click2cvs.com/\"],[href^=\"https://go.4rabettraff.com/\"],[href^=\"https://mylead.global/stl/\"] > img,[href^=\"https://shrugartisticelder.com\"],[src^=\"//adtorio.com/\"],[src^=\"http://api.lanistaads.com/ServeAd?\"],a[href$=\"/vghd.shtml\"],a[href*=\".ad-center.com/\"],a[href*=\".adk2x.com/\"],a[href*=\".frtyl.com/\"],a[href*=\".fwd28.com/\"],a[href*=\".ichlnk.com/\"],a[href*=\".intab.fun/\"],a[href*=\".revimedia.com/\"],a[href*=\"onclkds.\"],a[href^=\"//88d7b6aa44fb8eb.com/\"],a[href^=\"http://1phads.com/\"],a[href^=\"http://3wr110.net/\"],a[href^=\"http://a.adquantix.com/\"],a[href^=\"http://ad-apac.doubleclick.net/\"],a[href^=\"http://adserver.adtech.de/\"],a[href^=\"http://adserver.adtechus.com/\"],a[href^=\"http://adsrv.keycaptcha.com\"],a[href^=\"http://adtrack123.pl/\"],a[href^=\"http://aff.ironsocket.com/\"],a[href^=\"http://aflrm.com/\"],a[href^=\"http://allaptair.club/\"],a[href^=\"http://bc.vc/?r=\"],a[href^=\"http://bcp.crwdcntrl.net/\"],a[href^=\"http://bluehost.com/track/\"],a[href^=\"http://c43a3cd8f99413891.com/\"],a[href^=\"http://casino-x.com/?partner\"],a[href^=\"http://cdn.adstract.com/\"],a[href^=\"http://clicks.binarypromos.com/\"],a[href^=\"http://clickserv.sitescout.com/\"],a[href^=\"http://d2.zedo.com/\"],a[href^=\"http://elitefuckbook.com/\"],a[href^=\"http://enter.anabolic.com/track/\"],a[href^=\"http://ffxitrack.com/\"],a[href^=\"http://go.fpmarkets.com/\"],a[href^=\"http://guideways.info/\"],a[href^=\"http://hpn.houzz.com/\"],a[href^=\"http://intent.bingads.com/\"],a[href^=\"http://landingpagegenius.com/\"],a[href^=\"http://linksnappy.com/?ref=\"],a[href^=\"http://liversely.com/\"],a[href^=\"http://liversely.net/\"],a[href^=\"http://mob1ledev1ces.com/\"],a[href^=\"http://record.sportsbetaffiliates.com.au/\"],a[href^=\"http://refer.webhostingbuzz.com/\"],a[href^=\"http://rs-stripe.wsj.com/stripe/redirect\"],a[href^=\"http://semi-cod.com/clicks/\"],a[href^=\"http://sharesuper.info/\"],a[href^=\"http://static.fleshlight.com/images/banners/\"],a[href^=\"http://t.wowtrk.com/\"],a[href^=\"http://tracking.deltamediallc.com/\"],a[href^=\"http://trk.mdrtrck.com/\"],a[href^=\"http://uploaded.net/ref/\"],a[href^=\"http://us.marketgid.com\"],a[href^=\"http://websitedhoome.com/\"],a[href^=\"http://www.adultdvdempire.com/?partner_id=\"][href*=\"&utm_\"],a[href^=\"http://www.down1oads.com/\"],a[href^=\"http://www.download-provider.org/\"],a[href^=\"http://www.fbooksluts.com/\"],a[href^=\"http://www.fpcTraffic2.com/blind/in.cgi?\"],a[href^=\"http://www.gamebookers.com/cgi-bin/intro.cgi?\"],a[href^=\"http://www.graboid.com/affiliates/\"],a[href^=\"http://www.hitcpm.com/\"],a[href^=\"http://www.linkbucks.com/referral/\"],a[href^=\"http://www.my-dirty-hobby.com/?sub=\"],a[href^=\"http://www.myfreepaysite.com/sfw_int.php?aid\"],a[href^=\"http://www.mysuperpharm.com/\"],a[href^=\"http://www.pinkvisualgames.com/?revid=\"],a[href^=\"http://www.pinkvisualpad.com/?revid=\"],a[href^=\"http://www.ragazzeinvendita.com/?rcid=\"],a[href^=\"http://www.roboform.com/php/land.php\"],a[href^=\"http://www.securegfm.com/\"],a[href^=\"http://www.sfippa.com/\"],a[href^=\"http://www.socialsex.com/\"],a[href^=\"http://www.streamtunerhd.com/signup?\"],a[href^=\"http://www.twinplan.com/AF_\"],a[href^=\"http://www.uniblue.com/cm/\"],a[href^=\"https://aaucwbe.com/\"],a[href^=\"https://ads.ad4game.com/\"],a[href^=\"https://albionsoftwares.com/\"],a[href^=\"https://content.oneindia.com/www/delivery/\"],a[href^=\"https://djtcollectorclub.org/\"][href*=\"?affiliate_id=\"],a[href^=\"https://farm.plista.com/pets\"],a[href^=\"https://go.ad2up.com/\"],a[href^=\"https://go.etoro.com/\"] > img,a[href^=\"https://horny-pussies.com/tds\"],a[href^=\"https://incisivetrk.cvtr.io/click?\"],a[href^=\"https://iqoption.com/lp/mobile-partner/\"][href*=\"?aff=\"],a[href^=\"https://mk-ads.com/\"],a[href^=\"https://mk-cdn.net/\"],a[href^=\"https://mob1ledev1ces.com/\"],a[href^=\"https://ovb.im/\"],a[href^=\"https://partners.fxoro.com/click.php?\"],a[href^=\"https://porndeals.com/?track=\"],a[href^=\"https://reachtrgt.com/\"],a[href^=\"https://secure.bstlnk.com/\"],a[href^=\"https://secure.cbdpure.com/aff/\"],a[href^=\"https://secure.eveonline.com/ft/?aid=\"],a[href^=\"https://static.fleshlight.com/images/banners/\"],a[href^=\"https://track.interactivegf.com/\"],a[href^=\"https://track.trkinator.com/\"],a[href^=\"https://tracking.comfortclick.eu/\"],a[href^=\"https://tracking.trackcasino.co/\"],a[href^=\"https://trackjs.com/?utm_source\"],a[href^=\"https://trappist-1d.com/\"],a[href^=\"https://uncensored.game/\"],a[href^=\"https://vod09197d7.club/\"],a[href^=\"https://windscribe.com/promo/\"],a[href^=\"https://www.arthrozene.com/\"][href*=\"?tid=\"],a[href^=\"https://www.g4mz.com/\"],a[href^=\"https://www.hotgirls4fuck.com/\"],a[href^=\"https://www.oboom.com/ref/\"],a[href^=\"https://www.travelzoo.com/oascampaignclick/\"],a[href^=\"https://zononi.com/\"],a[id^=\"ads_banner_\"],div[class^=\"advertisement-desktop\"],div[class^=\"index_adBeforeContent_\"],div[class^=\"sp-adslot-\"],div[id^=\"cns_ads_\"],a[href^=\"http://get.slickvpn.com/\"],[href^=\"/admdownload.php\"],a[href^=\"http://www.duckcash.eu/\"],input[onclick^=\"window.open('http://www.friendlyduck.com/\"],[href*=\".securesafemembers.com\"],[href*=\"//trackmstr.com\"],div > [class][onclick*=\".updateAnalyticsEvents\"],a[href^=\"http://www.zergnet.com/i/\"],#ad_news_article,#ad_sidebar_news,#ad_site_header,#ads-bg-mobile,#adsense_center,#article-ad-content,#bordeaux-preemptive-ad-0,#leaderboard-atf,.ad-mobile-300x150,.ad-mobile-300x50,.ad.floater-link,.ad366,.adsBannerLink,.adv_banner_ps_13,.adv_banner_ps_4,.adv_banner_ps_7,.bdcQtWidget,.dyn-sidebar-ad,.googleAdsSquare,.l-section--ad,.mv_atf_ad_holder,.myinarticlead,.page-break-ad,.single-post-bottom-ads,.sticky_ad_desktop_footer_center,[href*=\".adcampo.com/\"],[href*=\".afftracks.online/\"],[href*=\"maskip.co/\"],[href*=\"prayuserparka.com/\"],[href^=\"http://advertisesimple.info/\"],[href^=\"https://detachedbates.com/\"],[href^=\"https://mysbitl.com\"],[href^=\"https://online-protection-now.com/\"],[href^=\"https://pulsetrack.biz/\"],[href^=\"https://traffserve.com/\"],[onclick^=\"window.open('http://adultfriendfinder.com/search/\"],[onclick^=\"window.open('https://www.brazzersnetwork.com/landing/\"],[onclick^=\"window.open('window.open('//delivery.trafficfabrik.com/\"],[src^=\"/Redirect.a2b?\"],a[data-redirect^=\"http://click.plista.com/pets\"],a[href*=\".approvallamp.club/\"],a[href*=\".clkcln.com/\"],a[href*=\".inclk.com/\"],a[href*=\".orange2258.com/\"],a[href*=\".purple6401.com/\"],a[href*=\".red90121.com/\"],a[href*=\".xromp.com/landing/click/\"],a[href*=\"//promo-bc.com/track?\"],a[href*=\"//ridingintractable.com/\"],a[href*=\"3wr110.xyz/\"],a[href*=\"?adlivk=\"][href*=\"&refer=\"],a[href*=\"deliver.trafficfabrik.com\"],a[href*=\"delivery.trafficfabrik.com\"],a[href*=\"n47adshostnet.com/\"],a[href^=\" http://www.sex.com/\"][href*=\"&utm_\"],a[href^=\".vddfe.club/\"],a[href^=\"//00ae8b5a9c1d597.com/\"],a[href^=\"//40ceexln7929.com/\"],a[href^=\"//4f6b2af479d337cf.com/\"],a[href^=\"//5e1fcb75b6d662d.com/\"],a[href^=\"//adbit.co/?a=Advertise&\"],a[href^=\"//db52cc91beabf7e8.com/\"],a[href^=\"//go.onclasrv.com/\"],a[href^=\"//healthaffiliate.center/\"],a[href^=\"//jsmptjmp.com/\"],a[href^=\"//look.djfiln.com/\"],a[href^=\"//medleyads.com/spot/\"],a[href^=\"//mob1ledev1ces.com/\"],a[href^=\"//nlkdom.com/\"],a[href^=\"//porngames.adult/?SID=\"],a[href^=\"//voyeurhit.com/cs/\"],a[href^=\"//www.pd-news.com/\"],a[href^=\"//z6naousb.com/\"],a[href^=\"//zenhppyad.com/\"],a[href^=\"http://360ads.go2cloud.org/\"],a[href^=\"http://45eijvhgj2.com/\"],a[href^=\"http://6kup12tgxx.com/\"],a[href^=\"http://9amq5z4y1y.com/\"],a[href^=\"http://NowDownloadAll.com\"],a[href^=\"http://a63t9o1azf.com/\"],a[href^=\"http://ad.au.doubleclick.net/\"],a[href^=\"http://ad.yieldmanager.com/\"],a[href^=\"http://adlev.neodatagroup.com/\"],a[href^=\"http://adprovider.adlure.net/\"],a[href^=\"http://adrunnr.com/\"],a[href^=\"http://ads.expekt.com/affiliates/\"],a[href^=\"http://adtrackone.eu/\"],a[href^=\"http://affiliate.glbtracker.com/\"],a[href^=\"http://affiliates.score-affiliates.com/\"],a[href^=\"http://anonymous-net.com/\"],a[href^=\"http://at.atwola.com/\"],a[href^=\"http://azmobilestore.co/\"],a[href^=\"http://bcntrack.com/\"],a[href^=\"http://bestorican.com/\"],a[href^=\"http://betahit.click/\"],a[href^=\"http://c.ketads.com/\"],a[href^=\"http://cdn.adsrvmedia.net/\"],a[href^=\"http://cdn3.adexprts.com/\"],a[href^=\"http://click.plista.com/pets\"],a[href^=\"http://clickandjoinyourgirl.com/\"],a[href^=\"http://clkmon.com/adServe/\"],a[href^=\"http://codec.codecm.com/\"],a[href^=\"http://cpaway.afftrack.com/\"],a[href^=\"http://czotra-32.com/\"],a[href^=\"http://databass.info/\"],a[href^=\"http://dftrck.com/\"],a[href^=\"http://down1oads.com/\"],a[href^=\"http://download-performance.com/\"],a[href^=\"http://dwn.pushtraffic.net/\"],a[href^=\"http://earandmarketing.com/\"],a[href^=\"http://eclkmpsa.com/\"],a[href^=\"http://engine.newsmaxfeednetwork.com/\"],a[href^=\"http://ethfw0370q.com/\"],a[href^=\"http://farm.plista.com/pets\"],a[href^=\"http://finaljuyu.com/\"],a[href^=\"http://findersocket.com/\"],a[href^=\"http://freesoftwarelive.com/\"],a[href^=\"http://fsoft4down.com/\"],a[href^=\"http://g1.v.fwmrm.net/ad/\"],a[href^=\"http://galleries.securewebsiteaccess.com/\"],a[href^=\"http://go.mobisla.com/\"],a[href^=\"http://go.oclaserver.com/\"],a[href^=\"http://go.seomojo.com/tracking202/\"],a[href^=\"http://greensmoke.com/\"],a[href^=\"http://hd-plugins.com/download/\"],a[href^=\"http://igromir.info/\"],a[href^=\"http://imads.integral-marketing.com/\"],a[href^=\"http://install.securewebsiteaccess.com/\"],a[href^=\"http://k2s.cc/pr/\"],a[href^=\"http://latestdownloads.net/download.php?\"],a[href^=\"http://lp.ezdownloadpro.info/\"],a[href^=\"http://lp.ncdownloader.com/\"],a[href^=\"http://mmo123.co/\"],a[href^=\"http://n.admagnet.net/\"],a[href^=\"http://onclickads.net/\"],a[href^=\"http://pan.adraccoon.com?\"],a[href^=\"http://papi.mynativeplatform.com:80/pub2/\"],a[href^=\"http://play4k.co/\"],a[href^=\"http://pokershibes.com/index.php?ref=\"],a[href^=\"http://pwrads.net/\"],a[href^=\"http://refpaano.host/\"],a[href^=\"http://s5prou7ulr.com/\"],a[href^=\"http://s9kkremkr0.com/\"],a[href^=\"http://searchtabnew.com/\"],a[href^=\"http://secure.signup-page.com/\"],a[href^=\"http://see-work.info/\"],a[href^=\"http://servicegetbook.net/\"],a[href^=\"http://spygasm.com/track?\"],a[href^=\"http://srvpub.com/\"],a[href^=\"http://stateresolver.link/\"],a[href^=\"http://track.trkvluum.com/\"],a[href^=\"http://ucam.xxx/?utm_\"],a[href^=\"http://vinfdv6b4j.com/\"],a[href^=\"http://web.adblade.com/\"],a[href^=\"http://webtrackerplus.com/\"],a[href^=\"http://wopertific.info/\"],a[href^=\"http://www.1clickdownloader.com/\"],a[href^=\"http://www.adskeeper.co.uk/\"],a[href^=\"http://www.advcashpro.com/aff/\"],a[href^=\"http://www.affiliates1128.com/processing/\"],a[href^=\"http://www.afgr2.com/\"],a[href^=\"http://www.afgr3.com/\"],a[href^=\"http://www.babylon.com/welcome/index?affID\"],a[href^=\"http://www.bitlord.me/share/\"],a[href^=\"http://www.clkads.com/adServe/\"],a[href^=\"http://www.dealcent.com/register.php?affid=\"],a[href^=\"http://www.dl-provider.com/search/\"],a[href^=\"http://www.downloadplayer1.com/\"],a[href^=\"http://www.downloadthesefiles.com/\"],a[href^=\"http://www.downloadweb.org/\"],a[href^=\"http://www.easydownloadnow.com/\"],a[href^=\"http://www.firstload.com/affiliate/\"],a[href^=\"http://www.firstload.de/affiliate/\"],a[href^=\"http://www.flashx.tv/downloadthis\"],a[href^=\"http://www.freefilesdownloader.com/\"],a[href^=\"http://www.friendlyadvertisements.com/\"],a[href^=\"http://www.friendlyquacks.com/\"],a[href^=\"http://www.idownloadplay.com/\"],a[href^=\"http://www.liversely.net/\"],a[href^=\"http://www.menaon.com/installs/\"],a[href^=\"http://www.mobileandinternetadvertising.com/\"],a[href^=\"http://www.myfreepaysite.com/sfw.php?aid\"],a[href^=\"http://www.paddypower.com/?AFF_ID=\"],a[href^=\"http://www.quick-torrent.com/download.html?aff\"],a[href^=\"http://www.seekbang.com/cs/\"],a[href^=\"http://www.sex.com/?utm_\"],a[href^=\"http://www.sex.com/pics/?utm_\"],a[href^=\"http://www.sex.com/videos/?utm_\"],a[href^=\"http://www.streamate.com/exports/\"],a[href^=\"http://www.terraclicks.com/\"],a[href^=\"http://www.torntv-downloader.com/\"],a[href^=\"http://www.urmediazone.com/signup\"],a[href^=\"http://www.usearchmedia.com/signup?\"],a[href^=\"http://www.wantstraffic.com/\"],a[href^=\"http://www.webtrackerplus.com/\"],a[href^=\"http://www.xmediaserve.com/\"],a[href^=\"http://wxdownloadmanager.com/dl/\"],a[href^=\"http://y1jxiqds7v.com/\"],a[href^=\"http://z1.zedo.com/\"],a[href^=\"https://10dfkuvbdkfv.club/\"],a[href^=\"https://adhealers.com/\"],a[href^=\"https://adnetwrk.com/\"],a[href^=\"https://ads-for-free.com/click.php?\"],a[href^=\"https://ads.cdn.live/\"],a[href^=\"https://ads.trafficpoizon.com/\"],a[href^=\"https://adswick.com/\"],a[href^=\"https://americafirstpolls.com/\"],a[href^=\"https://awentw.com/\"],a[href^=\"https://blackorange.go2cloud.org/\"],a[href^=\"https://bluedelivery.pro/\"],a[href^=\"https://bnsjb1ab1e.com/\"],a[href^=\"https://bullads.net/get/\"],a[href^=\"https://chaturbate.jjgirls.com/\"][href*=\"?tour=\"],a[href^=\"https://click.plista.com/pets\"],a[href^=\"https://creacdn.top-convert.com/\"],a[href^=\"https://dediseedbox.com/clients/aff.php?\"],a[href^=\"https://deliver.tf2www.com/\"],a[href^=\"https://delivery.porn.com/\"],a[href^=\"https://fast-redirecting.com/\"],a[href^=\"https://flirtaescopa.com/\"],a[href^=\"https://freeadult.games/\"],a[href^=\"https://gamescarousel.com/\"],a[href^=\"https://gghf.mobi/\"],a[href^=\"https://giftsale.co.uk/?utm_\"],a[href^=\"https://go.ebrokerserve.com/\"],a[href^=\"https://go.trackitalltheway.com/\"],a[href^=\"https://go.trkclick2.com/\"],a[href^=\"https://gogoman.me/\"],a[href^=\"https://iactrivago.ampxdirect.com/\"],a[href^=\"https://intrev.co/\"],a[href^=\"https://meet-sexhere.com/\"],a[href^=\"https://myusenet.xyz/\"],a[href^=\"https://playuhd.host/\"],a[href^=\"https://refpaano.host/\"],a[href^=\"https://retiremely.com/\"],a[href^=\"https://rev.adsession.com/\"],a[href^=\"https://scurewall.co/\"],a[href^=\"https://sexsimulator.game/tab/?SID=\"],a[href^=\"https://spygasm.com/track?\"],a[href^=\"https://t.mobtya.com/\"],a[href^=\"https://topoffers.com/\"][href*=\"/?pid=\"],a[href^=\"https://track.52zxzh.com/\"],a[href^=\"https://track.bruceads.com/\"],a[href^=\"https://track.clickmoi.xyz/\"],a[href^=\"https://traffic.bannerator.com/\"],a[href^=\"https://trf.bannerator.com/\"],a[href^=\"https://trklvs.com/\"],a[href^=\"https://trusted-click-host.com/\"],a[href^=\"https://uncensored3d.com/\"],a[href^=\"https://vlnk.me/\"],a[href^=\"https://watchmygirlfriend.tv/\"],a[href^=\"https://weedzy.co.uk/\"][href*=\"&utm_\"],a[href^=\"https://www.adxtro.com/\"],a[href^=\"https://www.chngtrack.com/\"],a[href^=\"https://www.firstload.com/affiliate/\"],a[href^=\"https://www.oboom.com/ad/\"],a[href^=\"https://www.what-sexdating.com/\"],a[onclick*=\"//m.economictimes.com/etmack/click.htm\"],a[onmousedown^=\"this.href='/wp-content/embed-ad-content/\"],a[src^=\"https://www.utherverse.com/net/\"],div[class$=\"_b-ad-main\"],div[class*=\"_browserAdOuterContainer_\"],div[class^=\"AdBannerWrapper-\"],div[class^=\"AdItem-\"],div[class^=\"Ad__adContainer\"],div[class^=\"Ad__bigBox\"],div[class^=\"Ad__container\"],div[class^=\"AdhesionAd_\"],div[class^=\"BlockAdvert-\"],div[class^=\"ResponsiveAd-\"],div[class^=\"adpubs-\"],div[class^=\"awpcp-random-ads\"],div[class^=\"block-openx-\"],div[class^=\"index_adAfterContent_\"],div[class^=\"index_displayAd_\"],div[class^=\"largeRectangleAd_\"],div[class^=\"lifeOnwerAd\"],div[class^=\"local-feed-banner-ads\"],div[class^=\"pane-adsense-managed-\"],div[class^=\"pane-google-admanager-\"],div[class^=\"proadszone-\"],div[id^=\"YFBMSN\"],div[id^=\"code_ads_\"],div[id^=\"div-adtech-ad-\"],div[id^=\"div_ad_stack_\"],div[id^=\"div_openx_ad_\"],div[id^=\"dmRosAdWrapper\"],div[id^=\"proadszone-\"],div[id^=\"tms-ad-dfp-\"],a[href*=\"get-express-vpn.xyz\"],a[href^=\"http://https://www.get-express-vpn.com/offer/\"],a[href^=\"https://track.ultravpn.com/\"],a[href^=\"https://www.goldenfrog.com/vyprvpn?offer_id=\"][href*=\"&aff_id=\"],[href^=\"/ucdownload.php\"],a[href^=\"http://duckcash.eu/\"],a[href^=\"http://www.cash-duck.com/\"],a[href^=\"http://www.ducksnetwork.com/\"],a[href^=\"http://www.duckssolutions.com/\"],a[href^=\"http://www.fducks.com/\"],input[onclick^=\"window.open('http://www.FriendlyDuck.com/\"],[href*=\".doubleclick-net.com\"],[href*=\".etracking.pro\"],[href*=\".go2page.net\"],[href*=\".mclick.net\"],[href*=\".trackmstr.com\"],[href*=\".trackout.business\"],[href*=\"//doubleclick-net.com\"],[href*=\"//etracking.pro\"],[href*=\"//go2page.net\"],[href*=\"//mclick.net\"],[href*=\"//trackout.business\"],[onclick*=\"content.ad/\"],div[class$=\"dealnews\"] > .dealnews,a[data-obtrack^=\"http://paid.outbrain.com/network/redir?\"],a[data-oburl^=\"http://paid.outbrain.com/network/redir?\"],a[data-oburl^=\"https://paid.outbrain.com/network/redir?\"],a[data-redirect^=\"this.href='http://paid.outbrain.com/network/redir?\"],a[data-url^=\"http://paid.outbrain.com/network/redir?\"],a[data-url^=\"http://paid.outbrain.com/network/redir?\"] + .author,a[data-widget-outbrain-redirect^=\"http://paid.outbrain.com/network/redir?\"],a[onmousedown^=\"this.href='http://paid.outbrain.com/network/redir?\"][target=\"_blank\"] + .ob_source,a[target=\"_blank\"][onmousedown=\"this.href^='http://paid.outbrain.com/network/redir?\"],a[href^=\"http://taboola-\"][href*=\"/redirect.php?app.type=\"],div[class^=\"backfill-taboola-home-slot-\"],#resultsAdsTop,#resultsAdsBottom,.biz-list-ad,.commercial-unit-mobile-top,.commercial-unit-mobile-bottom,.stream-ad,#tads.c,.story-header-ad,.block-itg-ads,.horiAd,.ad250x300,.in-article-adx,.amp-ad-wrapper,#atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top,.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci,.ads-fr,.ad-frame-container,#instant_ad,.js-ad_iframe_wrap,#ad-wiki-content-lower,.ad_network_content,#js-bottom-ad-300x250,.res_ad,.first_ad,.advertisement-position,._popIn_recommend_article_ad,._popIn_infinite_ad,.ad-adstir,div[data-crl=\"true\"][data-id^=\"CarouselPLA-\"],c-wiz[jsrenderer=\"YnuqN\"] > div > div > .Rn1jbe,.ads-ad,div[aria-label=\"Ads\"],amp-ad,.plugin-ad,.main__top-ad,.mobile-footer__ad,#js-bottom-ad-320x250,.flexContentAd,#mobileAdContainer,.c-advert,.c-ad--rectangle,.c-ad--mobile-bigbanner,.ad-area--pd,.ad-header-creative,.res_ad,.searchCenterBottomAds,.searchRightMiddleAds,.searchCenterTopAds,.searchSuperTopAds,.GeminiNativeAd,.ad-sp,.ad-tl2b,.des-adv,div[id^=\"anuncio\"],.patrocinio,.roba-container,div[id^=\"M\"][id*=\"Composite\"],.publi_lateral,#afsposicion2,#afsposicion1,.robapaginas,.envoltorio_publi,.adcontainer-portlet,.publicidad-content,.pub-300x250,.pub-950x100,.flex__publi,.publicidad-top,.dfp-queue,#publicidad-top,.ad_dfp_estandar,.bg-ad-left,.bg-ad-right,#PubTop1,.mod-ad-top,.publi_sky,#derpub,#pubinf,#publicidad_inferior,div[class^=\"ads__ad_container\"],.contenedor_superior_publi,.cnt-pub,.voc-oferplan,#PubMiddle1,.publicidad2,.contpubliSuper,.pub728x90,.txtPubli,.container-ads,#PubTop2,#PubMiddle2,.voc-sponsored,div[class^=\"cards__card_ad-\"],div[class^=\"publicHoriz\"],a[href*=\".kfiopkln.com/\"],a[href*=\"://yllix.com/publishers/\"],a[href^=\"http://www.amigos.com/go/\"],a[href*=\"://adpv.com/?idpartner=\"],a[href*=\"://mobidea.com/?r=\"],a[href*=\"aclaritics.info/\"],a[href^=\"://popads.net/users/refer/\"],a[href^=\"://seedingup.es/afiliados.html?id=\"],a[href^=\"http://wlx-secure.com/\"]"
+      "selector": "#player-ads,a[href^=\"https://www.googleadservices.com/pagead/aclk?\"],.badge-style-type-ad,.AdBox,.post-ads,[id*=\"ScriptRoot\"],#show-ad,.adsbyexoclick,div[aria-label=\"Ads\"],.ad-placement,div[id^=\"adfox_\"],.ad-banner,#taboola-below-article-thumbnails,.remove-ads,#ad-footer,.ad-slot,.trc_related_container div[data-item-syndicated=\"true\"],#video-ad,.trc_rbox .syndicatedItem,.trc_rbox_border_elm .syndicatedItem,.trc_rbox_div .syndicatedItem,#ad-header-mobile-contener,.ad-unit,.trc-content-sponsored,.slide-ad,#slide_ad,a[onmousedown^=\"this.href='https://paid.outbrain.com/network/redir?\"][target=\"_blank\"],.adBlock,.adContent,.adsbyvli,.adSense,.ad-link,.ad-content,div[jsdata*=\"CarouselPLA-\"][data-id^=\"CarouselPLA-\"],.js-results-ads,.gpt-ad,.top-ads-container,#dfp-tlb,.ad-slot-placeholder,#bottomads,#bannerAd,.reviews-display-ad,#ad-north-base,#ad-north,.AdSense,.ad-center,#video-sponsor-links,#ads_left,.ad-300-250,.outeradcontainer,[name^=\"google_ads_iframe\"],.GoogleAd,.ads-area,.box_ad,.adsense-ad,.adbox1,.LeftAd,.googad,.HomeAds,.SidebarAd,.InArticleAd,div[id^=\"crt-\"][style],span[id^=\"ezoic-pub-ad-placeholder-\"],.ezoic-ad,#my-adsMAST,.adtester-container,.adBox,AMP-AD,.ad-label,.ad-tag,.body-top-ads,#my-adsMAST-iframe,.adsBox,.ad_unit,.footer-ads,#my-adsFPAD,.AdHolder,span[data-component-type=\"s-ads-metrics\"],[class*=\"auto-bottom-advertising-\"],#my-adsHPSPON-base,.ads-wrapper,.ezo_ad,.ezoic-floating-bottom,.ezmob-footer,.ezmob-footer-desktop,div[id^=\"amzn-assoc-ad\"],.ob-strip-layout,div[id^=\"rc-widget-\"],#gf-mrecs-ads,#adBanner,.vjs-ima3-ad-container,.header-ads,div[data-adunit],.adchoices,.dfp-ad,iframe[src^=\"https://tpc.googlesyndication.com/\"],.ad-panel,.ad-block,#my-adsLDRB,.leaderboard_ad,.top-ad,.b_ad,.ad-leaderboard,#my-adsLDRB-iframe,.widead,a[href^=\"https://landing.brazzersnetwork.com/\"],.ad-desktop,.i-amphtml-unresolved,.amp-unresolved,.native-ad-item,.inline-ad,.sticky-ad,.js-ad,.sponsor-text,.AD_area,#desktop-ad-btf,.adWrapper,.bottom-ad,.ezoic-ad-adaptive,.kakao_ad_area,.adunitContainer,.google-ad,.adsenvelope,.adstextpad,div[id^=\"zergnet-widget\"],.bottom-adv,.ad-300,#my-adsLREC4-base,.right-ad,.mobile-ad,.ad-mobile,.footer-ad,._ap_apex_ad,#taboola_responsive_wrapper,.adunit,#adContainer,.ad-card,.ad-wrap,.quads-location,.ad-sticky,.RectangleAd,.ad-rectangle,.ob-hover,.ad-top,.ad--mobile,.adslot_1,.ad-item,.footer__advert,a[href*=\".adform.net/\"],.myTestAd,#top_ad,.ad_box,.banner-300x250,#my-adsLREC,#lsadvert-left_menu_1,#ad-container,#bottom_ad,.ad_area,.dianomi_context,.dcmads,.advt,[class*=\"-slot_ad-placements-\"],.js-ad-slot,.sponsored_ad,.content-ad,.bannerAd,#recommendAdBox,#topAd,.banner-ad,#quads-admin-ads-js,.wall-ads-control,.block-ad,.ad-header,.ad-left,.top-ad-container,div[class^=\"native-ad-\"],.sponsorPost,.wall-ads-right,.contentAds,.ad-banner-container,.fa-ad,.sidebar-ad,#ad-skin,.td-adspot-title,.ad_table,.ad-banner-wrapper,.dfp_unit,.blogroll-ad-img,.module_single_ads,a[href^=\"http://pubads.g.doubleclick.net/\"],.ad-title,.ad-placeholder,a[href^=\"https://adclick.g.doubleclick.net/\"],.textad,#lsadvert-top,div[id^=\"ezoic-pub-ad-\"],.jeg_ad,.advertise-here,.ad-slot-banner,[data-freestar-ad],[class^=\"div-gpt-ad\"],.c-ad,#top_ad_wrapper,#bottomAd,.ad-marker,#bottom_ad_wrapper,.jeg_ad_top,.jnews_header_top_ads,.video-ad,div[id^=\"yandex_ad\"],.dfpAd,.mntl-gpt-adunit,a[href^=\"https://pubads.g.doubleclick.net/\"],.ad-300x250,.scaffold-layout__ad,.desktop-ad,.leaderboard-ad,.headerAd,a[href^=\"https://deliver.ptgncdn.com/\"],.widgetSponsors,.adLeaderboard,.ddb,.adthrive,.publicidade,.proper-ad-unit,.advertising_widget,#ultimedia_wrapper,.download_link_sponsored,.ad-native,#ad-banner,.zergnet-widget,.pb-ad,.empty-ad,#lsadvert-left_menu_2,.extnativeaditem,.ad-google,.van_taboola,a[href^=\"https://paid.outbrain.com/network/redir?\"],#sky-right,a[href^=\"https://chaturbate.com/in/?track=\"],#taboola-mid-article-thumbnails,.ad-zone,.dfp-tag-wrapper,div[id^=\"ad_rect_\"],.banner-ads,a[href^=\"https://a.adtng.com/\"],.adWrap,.adslot_2,#ad-leaderboard,.ad-widget,#ad_unit,.advertisementBanner,.ad--desktop,.ADBox,#ad-bottom,#adsbox,#AdSense1,.adSlot,.top_ad,.mal-ad-unit,a[href^=\"https://clickadilla.com/\"],.nativeadasideplaceholder,.rg-ad,a[href^=\"https://tm-offers.gamingadult.com/\"],#ad-rectangle,.ads_ad_box2,.ads_ad_box,.ad-footer,.hl-ad-row__mrec,.adLabel,.dotcom-ad,#quads-ad1,.quads-ad1,.hl-ad-row__1p-link,.ad-slot--mostpop,.scads-ad-placed,.stream-ad,.ad-slot--mpu-banner-ad,.AdTop,.sponsor-logo,.list-ads,.ad-slot--rendered,.goAdverticum,a[href^=\"https://bs.serving-sys.com\"],.ad_banner,#div-insticator-ad-1,#ads-container,#reklama,.nativeAd,.js-advert,.ads-box,.leaderboard.advert,#sticky-ad,.AdsRec,.Ads_4,#banner-300x250,.todayshowcasead,.ad-top-banner,.BeOpWidget,.ads_place,#insticator-container,.ad-h-250,[src*=\"//www.dianomi.com/smartads.epl\"],.ads_place_160,.ad-transition,#header-ad,div[data-ad-placeholder],.ab_taboola,.ad-bottom,div[data-content=\"Advertisement\"],.ads_banner,.ad-w-300,.sponsored-content,#quads-ad2,#div-insticator-ad-2,.ads-right,.bottomad,.ad-area,#ad-1,.overlay-ad,.ic-ads,a[href^=\"https://ttf.trmobc.com/\"],.ad-w-728,a[onmousedown^=\"this.href='http://paid.outbrain.com/network/redir?\"][target=\"_blank\"],#top-right-ad-slot,.quads-ad2,#videoad,.adthrive-ad,.ad-zone-container,.ad-choices,.content-ads,.navbar-ad-container,.bottom-ads,[href*=\".zlinkm.com/\"],.ad-space,.collapsed-ad,.dfp-slot,.ad-section,.ads-block,.dfp_ad,#bottomad,.ad-728x90,.van_vid_carousel,.ad_text,.ad_right,.widget-ad,.ad728,#banner-300x250-area,.b_adLastChild,.ad-right,.vid-present > .van_vid_carousel__padding,.advert-txt,#bgad,.vertical-ad,.ad_module,.banner_ad,.pbs__player,.box-ads,#dfp-ad-top,.td-header-ad-wrap,.nav-ad,.content-kuss-ads,.native-ad,.ads-left,.lite-page-ad,.adsbytrafficjunky,.ad_column,.reklam,.adunit-wrapper,.advertismentContainer,.main-ad,#banner-300x600-area,.ad-mrec,div[class^=\"StickyHeroAdWrapper-\"],.ad-left-top,#ad-label,.video_ad,.gpt.top-slot,.rmp-ad-container,.adace-slot-wrapper,.adace-slot,.adzone,.topAd,.m-ad,#dfp-masthead,#quads-ad3,.quads-ad3,.dfp-leaderboard-container,#ad-2,[data-ad-module],.ads-content,#header-ads,.block-dfp,div[class^=\"kiwi-ad-wrapper\"],.td-a-rec-id-custom_ad_1,#intro_ad_1,.adlinks,.item-ad,.searchCenterTopAds,.ads-item,.pm-ads-banner,.ad_slot,a[href^=\"https://juicyads.in/\"],#story-ad-1-wrapper,.footerAds,.ads-top,.tablet-ad,.sp_ad,.thirdPartySponsorLink--fourAds,.ad01,.ad-spacer,.TextAd,#AdSense2,.adslot_3,#story-ad-2-wrapper,.ad-billboard,.breaker-ad,.ad__wrapper,.ad--footer,.searchCenterBottomAds,.adver,.native-ad-container,#scrollover-ad-wrap,div[itemtype=\"http://schema.org/WPAdBlock\"],.native-sidebar-ad,.adFull,.top-banner-ad-container,.ad-responsive,.advert-wrapper,.g1-advertisement,#after-dfp-ad-mid1,a[href^=\"https://go.xxxjmp.com/\"],a[href^=\"http://www.cdjapan.co.jp/aff/click.cgi/\"],.google-adsense,.adg-rects,#after-dfp-ad-mid2,#connatix,.ad-stickyhero,.ad-stickyhero--standard,.ad-halfpage,.ad--rail,.ad_wrap,#after-dfp-ad-mid3,#dfp-interstitial,.ad-intromercial,.ads_container,.adTitle,.taboola-general,.ad-body,#bottom-ads-container,.ad_content,#ad-box,.ad-skyscraper,.advertisement-label,#after-dfp-ad-top,.c-ads,#sidebar-ad,.ad-tl1,iframe[src^=\"https://pagead2.googlesyndication.com/\"],.media_ad,.hidden-ad,#ad-text,#ad_btmslot,.ad-slot--inline,#ad_houseslot_a,.me-rtm,.advert-label,a[href^=\"https://secure.adnxs.com/clktrb?\"],.ad_hover_href,#topad,.banner-300x600,.ad_300x250,.sticky-ad-container,.ppr_priv_horizon_ad,.discourse-adplugin,#adwrapper,#skin-ad-left-rail-container,#skin-ad-right-rail-container,.leaderboardAd,#ad_houseslot_b,.ad_top,.video_ads_overdiv,#video_ads_overdiv,#ad_top,.ads_code,.puff-ad,#ad-3,DFP-AD,.adv-text,.top-ads,.jsAdSlot,.bbccom_advert,#Adbanner,#ad_text:not(textarea),.question_page_ad,.ad_wrapper,#story-ad-3-wrapper,div[data-contentexchange-widget],#ad_topslot,.sponsor-ad,a[href^=\"http://popup.taboola.com/\"],.ads-row,#banner-728x90-area,.standalonead,.advert.mpu,.lower-ad,#AdvContainer,#mpu2,.footer_ads,.module_home_ads,.ad300x250,#gStickyAd,.banner728x90,#dfp-atf,.td-a-rec-id-custom_ad_2,.td-a-ad,.adv-container,.display-ad,#SponsoredAd,.bottom_ad,.ad--leaderboard,.third-party-ad,#AdArea,#ad_leftslot,.tnt-ads-container,#content-ad,.ads-header,#GoogleAd,.ad_300_250,.container-lower-ad,.adtitle,.ad-box-wrapper,#AdsContent,.literatumAd,a[href^=\"https://go.nordvpn.net/aff\"] > img,.article-ad,.adrotate_widgets,#sponsored-products,.top.ad,.ad-mpu,.ads-text,#AdContainerTop,#taboola-right-rail,#adSkyscraper,a[href^=\"https://www.iyalc.com/\"],.ad-holder,.ad-atf,.center_ad,.zergnet,.adframe,.click-track.partner,#dfp-mtf,.bing-native-ad,.connatix-container,.dfp-ad-container,.ad.module,.ad-interstitial,.ad-leader,.full-adv,#ad_rightslot,#ad_1,a[href^=\"https://fonts.fontplace9.com/\"],#dfp-btf,div[id^=\"adspot-\"],#adbox,.gnt_tb.gnt_tbb,#ad-overlay,.ppr_priv_footer_banner_ad_billboard,div[id^=\"acm-ad-tag-\"],.add-box-side,.add-box-top,#top-banner-ad-browser,a[href^=\"https://vo2.qrlsx.com/\"],.google-user-ad,.gnt_tbr.gnt_tb,#adLeaderboard,.head_ad,.ad__label,.ad-mpu-plus-top,#headerAd,a[href^=\"https://www.bet365.com/\"][href*=\"affiliate=\"],.advert-leaderboard,.ad-layer,.adv-box,.dfp-banner,.quads-ad4,.adtable,.j-ad,.ad--mid-content,.california-ad,.videoad,.ad-masthead,.california-sidebar-ad,.verticalAdText,.mvp-ad-label,div[id^=\"vuukle-ad-\"],div[id^=\"traffective-ad-\"],.element--ad,#quads-ad4,.gnt_x,#ad_right,.premium-ad,#AdTop,.sponsored-headlines,.ads-bottom,.ad_panel_1,#nav-ad-container,#ad-display-ad,.ad-bot,.m-sidebar-ad--slot,.ads-leaderboard,.mod_ad,.amp-ads,.ads-core-placer,#adhesion,.adFrame,.ad-sky,.tnt-ads,LEADERBOARD-AD,.ads-mobile,.leaderboard_ad_container,.m-in-content-ad--slot,#adv-Top,#adbanner,.google-ads,.m-header-ad--slot,.m-header-ad,.gujAd,#mpu_top,.nav-ad-gpt-container,.google-2ad,#story-ad-4-wrapper,.m-in-content-ad-row,#adPlacement_1,.td-ad-m,.ads-desktop,.leaderboard.ad,#ad-holder,.ad__placeholder,.adright,.m-in-content-ad,.ad_title,.ad__container,#adPlacement_3,#premiumAdTop,AD-TRIPLE-BOX,.banner728,#adPlacement_4,#banner-advert-container,#ad_bottom,.lazy-ad,#ad-skyscraper,.td-ad-tp,#adDiv,.ad-inline,.ads-holder,.amp-ad-container,.ad-inner,#leftrail_dynamic_ad_wrapper,#sponsoredProducts_feature_div,.l-ad,.ads-zone,.sponsor-ads,.td-a-rec-id-custom_ad_3,.BottomAdsPartial,.TopAdsPartial,.ad-300x600,.ad-mpu-bottom,.td-a-rec-id-custom_ad_4,div[id^=\"advads-\"],.sticky-footer-ad,#ad-top,#pre-adv,.m-header-ad--balloon,.rectangleAd,.adstext,#admobilefoot,#admobilefootinside,#adLeft,#footer-ads,div[id^=\"ad_position_\"],.ads-footer,.banner-728x90,.banner300,#admobiletop,#admobiletopinside,.ad_watermark,.advert--mpu,.ads1,.ad-div,.ad-right2,#article-ad,.ad-101,#rightads,.page-ad,.ad--sticky,#advert-leaderboard,.widget_adace_ads_widget,.ad300,.outbrain-widget,.googleAdsense,.google_ads,.BottomAd-container,.ad-121,.googlead,.ad_panel_2,.ad-loader,.advtop,#ad_2,.ad-sponsor,.right-side-ad,.advertisement_above_footer,.ad_link,#adMain,#bbccom_leaderboard,.adinfo,.ad-inserter,.adfeedback,.right-video-dvertisement,.adv-list,.ad-sticky-container,.td-ad-p,.adv-overlay,#banner-skyscraper,.advertisement-text,.adslug,[data-dynamic-ads],.ad_200,div[data-role=\"sidebarAd\"],.aside_ad,.banner-adverts,#adm-inline-article-ad-1,.side_ad,.vuukle-ads,a[href^=\"https://syndication.optimizesrv.com/splash.php?\"],.ad-1,.box-ad,.ads-728x90,#AdSense3,.full-bleed-ad,#adv-Middle1,.ad_background,#ad-block,.advertisement-block,.ad_300,.adUnit,.ad-unit--leaderboard,.widget_thesun_dfp_ad_widget,.ad_r,.subnav-ad-layout,.billboard-ad,.avap-ads-container,.wsj-responsive-ad-wrap,#ad-standard-wrap,.dfp_unit-ad_container,.ad-col,.ad-bigbox,#ad_global_above_footer,div[class^=\"ads-partner-\"],.googleLeftSkyScrapper,.ad-risingstar-container,#footer-ad,a[href^=\"https://s.zlink2.com/\"],.ads_box,.sticky-rail-ad-container,#floating_ads_bottom_textcss_container,.wide-ad,.ad-element,.ad_leader_bottom,.ads-large,#adv-Middle2,#ad_leaderboard_flex,.strawberry-ads,a[href*=\".adsrv.eacdn.com/\"] > img,#ad_4,#adBrandingStation,.ads-sidebar,.inner-ad,.ad_1150_290,.ads.widget,.ads-placment,.vlog-ad,.ad468,.ad-responsive-slot,.body_ad,.advertisement__label,[href*=\".revrtb.com/\"],.admz,#AD_L,#adPlacement_2,.adtop,#google_ads,.middle-ad,.ad-flex,.mgline,.ad-caption,.ads-label,a[href^=\"https://wittered-mainging.com/\"],.advertising-banner,.square_ad,.adszone,.adclass,.ads-banner,.AD-POST,.adSpace,.adSlotCnt,a[href^=\"https://chaturbate.com/in/?tour=\"],#ads3,#adv-TopLeft,.interstitial-ad,.sponsored-links,.advert.skyscraper,.widget-advads-ad-widget,.modulo-publicidade,.ad-single-bottom,.ad-rail,.articleAdvert,.mvp-widget-ad,#sky-left,.td-ad,.articleAds,.banner_adv,.menu-ad,.ad120,.ads-cnt,#advert1,#adPlacement_7,.ad-lrec,#rowAdv,.header_ads-container,#left-ad,.ad234,#ad_thread1_1,.m-jac-ad,.bottom-ad-container,.artAd,#footer_ad,#ad-4,.rightAd,.adRenderer,#leaderboard-ad,.GoogleDfpAd,.billboard.ad,.pmc-adm-boomerang-pub-div,.advert-wrap,#ad-horizontal,.mobile-ad-container,.mvp_ad_widget,#adv-gpt-box-container1,.side-ads,.footer_ad,.ads-module,#ad_div,#ad_main_top_05,.advertorial,.ads_center,#adBottom,.google-right-ad,.ad--container,.text_adv,.td-a-rec-id-custom_ad_5,.gptslot,#ad-5,.adsbyadop,.article-ads,.ads-middle,.toolbar-ad,.hstpnetworkads,.right-rail-ad,.adsbyexoclick-wrapper,.ad-slot-container,.tm-ads,#ad-wrap,.ad-137,#AdBanner,.ads_block,#side_ad,#sticky-ad-container,.ad-2,#halfpagead,#footerAds,.desktopAd,.iAdserver,.dfp-ad-unit,#story-ad-5-wrapper,#topAdContainer,.widget_pmc-ads-widget,.wrap-ad,#oas_Top,.adv1,.ad-group,.adsbymahimeta,.ad_header,#adSkinLeft,.googleAds,[id*=\"MarketGid\"],#AD_G,#ad-wrap2,.video_ads,.horizontal-ad,.ads-300x600,.p-ad,.app-ad,.bam-ad-slot,.ad-notice,#adSkinRight,#ads-top,.site_ad,#ads4,#ads-header,.wd-adunit,.ad-side,.ad_footer,.adSkyscraper,#ad-0,#wrapper-AD_G,.adRight,.adInner,#ad728x90,.single__outbrain,.left-ad,#right_ad,.lazyad,#bottom_ads,.right-ads,#ad-slot-right,.ad-banner-top,.legion_primiswrapper,.footer_adv,.GRVAd,#adSense,.topbannerAd,.adRectangle,.header-and-footer--banner-ad,FBS-AD,.adholder,.ad_mpu_top,.in-content-ad,.BannerAd,#right-ad,.right_ad,#sidebar_ad,.ads_1,.card-ad,#TopAd,.upper-ad-box,.ad-slot__label,a[href^=\"http://cwcams.com/landing/click/\"],.can_ad_slug,#dfp-leaderboard,.ad--top,.video-ad-container,#header-ad-wrapper,div[id^=\"adrotate_widgets-\"],.sponsored-ad-container,.vce-ad-container,.adthrive-header,.ad-leader-top,.ads_top,.companion-ads,.ad-type-flex-leaderboard,.ad--bottom,.ads-block-rightside,.ad-slider,.adbox_300x600,.ads-system,.ad970,a[href^=\"https://prf.hn/click/\"][href*=\"/camref:\"] > img,#dv-gpt-ad-bigbox-wrap,.adSlotContainer,.c-advert,#ad11,.adwrap,.related-ads,.banner-468x60,.header-ad-container,.advert--leaderboard,#leftad,.ad-manager-wrapper,.ad_slug_table,.ad-thanks,#dfp_leaderboard,.ad_label,#ads-leaderboard,#leftads,.short-sidebar-ad-bottom,.short-sidebar-ad-component,#rightad,.cns-ads-stage,.index-content-ad-wrapper,.widget_adswidget1-quick-adsense,#adjs_id,.ads2,.post-ad,.video-side__adv_title,.adsense-block,.ad_bottom,#adsRight,.stickyAd,.ads-2,.ad__header,#adPlacement_8,.ad_img,.google_ad,.ads-300x250,#advTop,.responsive_ad_top,.ad-row,.adv-aside,#adv-x40,.afw_ad,.ad_ad_300,.ads728,.ad-reader-con-item,.primis-player,.ad-frame,#advertise,#mobileAd_holder,#ad_wrapper,#ads2,.ad-button,#adv-gpt-masthead-skin-container1,.skyscraper-ad,div[id^=\"ads300_250-widget\"],.advert-right,.end-of-article-ads,.ad-type-cube,.boxAd,#adslot300x250BTF,a[href^=\"http://chaturbate.com/affiliates/\"],#adsLeft,.ad-below,.advert-unit,.ads_header,#ad-lrec,#taboola-ad,.googleSubjectAd,.buttonads,#adslot300x250ATF,#AdvertisingLeaderboard,.ADbox,.sticky-ad-wrapper,.ad-90,.ad-scroll,.center-ad,.ad--rectangle,.ad_background_true,.u-lazy-ad-wrapper,.ad_336,#adTop,.ad-horizontal,.hide-ad,a[href^=\"https://track.wg-aff.com\"],.ad-250,.top-ad-wrapper,.pp-box-adunit,#ads-before-content,.belowMastheadWrapper,#ad-300,.f-ad,#mvp-post-bot-ad,#td-ad-placeholder,.adModule,#adform_leaderboard,.button-ad,.content_ad,.ad-table,.adv_left,.pp-adunit,#rightAd,.c-advertising,.mobile-ads,.button-ads,.ad-text-label,#topAdv,.adwidget,#stickyad,.ad_placeholder,.section-ad,#footerAd,#ads-content,.contentAd,#iqadtile1,.ad-background,.banner-300,.ad02,.wh_ad_inner,#my-adsFPL,.ad-970-90,.topAD,.ad-slot--top-above-nav,#iqadtile2,#ad_banner,.footerAd,.clickforceads,#ads-1,#leaderboard_bottom_ad,#leaderboard_top_ad,#admputop,#medrec_top_ad,.ob-ad-carousel-layout,.ad.item,.billboard_ad,.sponsored-header,.advertSlot,.widget-ad-image,#ad_3,#ad-vip-article,.taboola-above-article,.sponsored-display-ad,#adv-top,#taboola-right-rail-express,iframe[src*=\"mellowads.com\"],.adHeadline,#videoAd,.powerinbox,a[href^=\"https://refpasrasw.world/\"],.sidebar-ad-container,#budget_adDiv,.ad_div,.optidigital-ad-center,.googleAdSense,.ads_under_player,#ads1,.removeAdsStyle,#adwallpaper,.ad_bg,#headerad,#google-top-ads,.ads-list,#adcontainer2,.Adsense,.belt-ad,.region-ad-top,.ads_wrapper,.container--ads,.penci-google-adsense,.ad-4,.block-ads,.module-ad,.ad03,.article-footer--taboola,.ads-social-box,.placeholder-ad,a[href^=\"http://refpa.top/\"],.ad-bg,#adleaderboard,.advert-placeholder,.stickyRailAd,#ad-6,#wrapper-AD_PUSH,.ads-widget,#adsTop,#ads-left,.ad-vertical,#iqadtile5,#iqd_rightAd,.block-advert,.widget_ad,#content_ad,#adslot1,.ad.center,a[href^=\"https://pcm.bannerator.com/\"],.adv-300,.header-ad-wrapper,a[href^=\"https://www.brazzersnetwork.com/landing/\"],.ads-ad,.ad.widget,.grid__module-sizer_name_taboola,.eng_ads,.bottomAd,.ads-section,.rightad,#dfp-ad-leaderboard,#ads-right,.ads-wrap,.complex-ad-wrapper,.banner_300x250,.complex-ad,.adplaceholder,#ad_container,.adPlaceholder,.sponsorAd,.browse-banner_ad,.widget_adswidget2-quick-adsense,.video-ads-container,#iqd_mainAd,#iqd_topAd,#iqd_align_Ad,.trc-content-sponsoredUB,.scad,.sponsored-title,#iqadtile16,.slot_integrated_ad,#publicidad,.MediumRectangleAdPanel,.adv-block,a[href^=\"https://www.rabbits.webcam/?id=\"],#ads_text,.ad-splash,.advertising-container-top,.ad400,#HeaderAd,#dfp-ad-top-wrapper,.wrapper_advertisement,.ad--right,#adscontainer_background_back_index1100_all,.adv_txt,#adscontainer_banner_new_bottom_index_1060,#adscontainer_banner_new_second_index_1060,#adscontainer_banner_new_top_index_1060_2,.fbs-ad--top-wrapper,.opd_adsticky,.footerad,.advertisement-content,.TopAd,.ad-topbanner,.trc_rbox_div .syndicatedItemUB,#adsplash,#adPlacement_9,.ad-overlay,#dfp-ad-leaderboard-wrapper,.tc_ad,.ad-slot--right,#AdBox2,.widget-ads,.trc_rbox_div a[target=\"_blank\"][href^=\"http://tab\"],.ad-300-600,#sponsorAdDiv,.sticky-bottom-ad,.article_ad,.advads-widget,#adContent,.inner-adv,.view-ad,.adRow,.module-ads,#ad-right,#iqadtile3,.ads-margin,.adv-banner,.adTop,.adsBanner,.adsBlock,.ad-container-wrapper,#middle-ad,.product-ads,.ad-centered,.ad-one,.ad-reader,.crumb-ad,#left_ad,.ad-margin,.o-ad-container,.sics-component__sticky-ad-placeholder,.google-ad-iframe,a[href^=\"https://go.strpjmp.com/\"],.dfp-leaderboard,#srp_adsense-top,.adText,#story-ad-6-wrapper,#dfp-ad-bottom-wrapper,.firefly-sidebar-ad,#adrightbottom,#BB1-ad,.ad-promotion-native,.js-ad-wrapper,a[href^=\"http://track.afcpatrk.com/\"],#HeaderAD,#ad300,#ad_left,.adDiv,.adv-right,#content_ad_2,.article-ad-placeholder,#ad_img,.ad__mobile-footer,.sponsored-features,#medrec_bottom_ad,.ads__horizontal,.js-ad-hideable,a[href^=\"https://a.bestcontentweb.top/\"],.js-ad-primary,.advertisement-wrapper,.ad-inside,.ad-unit-text,#adsContainer,#in_ad_col_b,a[href^=\"https://www.friendlyduck.com/AF_\"],.header-top-ad,.section_ad,#ad-slot,.ad-block-300,.adbottom,#ad-container-1,.header-ad-wrap,.ad--wallpaper,.banner_ad_link,.dfp_slot,#adbdiv,.am-adslot,.rail-ads-1,.ad-strip,.ads_div,a[href^=\"//postlnk.com/\"],.single-ad,#mrt-node-Col2-1-AdBlockPromo,a[href*=\".smartadserver.com\"],#ads_container,#iqadtile4,.ad-hint,div[class^=\"AdSlot__container\"],.ad_728_top,.ad_adInfo,.AdSlot,.channel_ad_2016,.square-ad,.ad_btn,.head-ads,.ad-728,.adsc,div[class^=\"Display_displayAd\"],.comment-ad,.vce-ad-below-header,a[href*=\"//bongacams7.com/track?\"],.ad-ex,a[href^=\"https://www.clicktraceclick.com/\"],.leftAdsFix,#rightrail_pos1_ddb_0,.advtext,.video-page__adv,div[class^=\"Component-dfp-\"],.adSpec,#in_ad_col_a,#rightrail_pos2_ddb_0,.Ad-Container,#adslot2,.adsSlot300600,#ads-footer,#adv_top,.ad-container-top,.ad_col_a,.widget_adswidget3-quick-adsense,.player-section__ad-block,#banner_ad,#hideAds,#adsHeader,.player-section__ad-wrapper,#menu-ads,.header__ad,.parade-ad-container,.inline_ad,.rightAdsFix,.ads-single,.left-ads,.adset,.leaderboard-ad-container,.ad_head,div[id^=\"ad-position-\"],.advert--header,.wallpaper-parade-ad-container,.header-ad-slot,.side-ads-container,div[id^=\"ad-gpt-\"],.side-ads_sticky-group,.ad-code,.ads_2,#iqadtile8,.ads-336x280,.ad-tile,#home-ad,#adcontainer3,.advert__container,.ad_google_shhide,.skyscraper-ad-container,.AdUnit,.ad-refresh,.ad-two,#dsk-banner-ad-a,.ad_300x600,.widget_newscorpau_ads,.midAdv-cont,#dfp-ad-right1,.d3-c-adblock,.etad,.is-sponsored,#adslot3,#dfp-ad-right2,.ad-728-90,.advert_container,#ad_overlay,.link_ad,#dfp-ad-right1-wrapper,#ad6,#dfp-ad-right2-wrapper,.ad--button,.sponsored_content,.bigbox-ad,.ad-border,.desktop.ad,.advert-top,.ad-970,.sponsorLink,#dfp-ad-right3,#bottom-ad,aside[id^=\"advads_ad_widget-\"],.floatingAds,.ad-wireframe-wrapper,#rightAD,.bottomgooglead,.ad_wrapper_top,.m-block-ad,.house-ad,#google_ad,.bottomadtag,.banner_ads,.adsarea,.leftad,#video-advert,.ad-active,.video-advert,.amp-ad-wrapper,#ad_right_rail_flex,.adv-top,.g-ad,.table-ad,#AdDiv,.js-ad-container,.ads.bottom,.ad-spot,.ads-300,.s-ad,#yandex_ad,[id^=\"ad-wrap-\"],a[href*=\"//bongacams.com/track?\"],.top-advert,.ad.rectangle,.AdPlaceholder,.gr-ads,.ads-3,.ad-mpu-middle,.adsense-container,.dfp-panel,.BoxRail-ad,.header-adv,.ad_pic,#skyscraper_ad,.component-header-sticky-ad,.ad-icon,.exo-native-widget,#googlead,.ad728x90,.ads-rail,.widget_ad_layers_ad_widget,.railad,.postadsense,.rightrail-display-ad,#preroll_ads,.advertisement-box,.block-fusion-ads,.advert-center,.exo-native-widget-outer-container,a[href^=\"https://www.nutaku.net/signup/landing/\"],.ad-c-label,.adtag,#adtext,.adv-label,.ad_1,.insticator-ads,.google-dfp-ad-caption,.sidebar-top-ad,.advertisement_300x250,.advads-close-button,.google-dfp-ad-wrapper,.desktop-ads,a[href^=\"https://cams.imagetwist.com/in/?track=\"],.ads300,.adTag,.ipprtcnt,.ad-disclaimer-container,.ad-entity-container,.footer-ad-labeling,#adv-gpt-masthead-leaderboard-container1,#ads_300x250,.ajdg_grpwidgets,.herald-ad,.intra-article-ad,#theAd,.adModule--outer,.aarpe-ad-wrapper,.adModule--inner,#adSkin,.adv300,.ads_3,#Ad-Container,.googleAd,.ads_player,.advertBox,#topBannerAd,.sidead,#ad-sidebar,#floatingAd,#footer_ads,.ad__sticky-desktop,.advert-banner,#main-ad,.widget_300x250_advertisement,a[href*=\"//bongacams2.com/track?\"],.ad-ctn,.banner_728x90,.header-ads-container,#ad-7,div[id^=\"banner-ad-\"],.nordvpn-popup,#top_ads,#sticky_ad_bar,#dfp-ad-right4-wrapper,.pz-ad-box,.article-inline-ad,.mobileAd,#ad_468_60,.mapped-ad,.ad-column,#my-adsLREC2,#HEADERAD,.ad__caption,#banner300x250,#adsBottom,.home-ads,.am-bazaar-ad,.advert-bottom,.ie-adtext,.responsive-ad,.header-pencil-ad,iframe[id^=\"google_ads_frame\"],.sponsored-container-bottom,#bannerad,.innerAds,.ad-square,.dex-adlabel,.advance-ads,.earAdv,div[class^=\"AdEmbeded__AddWrapper\"],.withBanners__ad,#iqadtile9,.ads-col,.ad_rectangle,.widget_adv_text,.ad-subnav-container,.ad-anchor,.FooterAd,a[href^=\"//syndication.dynsrvtbg.com/splash.php?\"],a[href^=\"https://go.hpyjmp.com/\"],.ad_widget,.js-ad-banner-container,.advert-title,.ad-post,#ads-blog,#overlay_ad,display-ads,.sponsor_ad,.metaRedirectWrapperTopAds,.google-ad-placeholder,.ADStyle,.horizontalAd,.article-body__suppl_content--inline-cta-ad,.amp_ad_1,.adv-holder,#admpubottom,#gallery-ad,.article-top-ad,.cldt-ad-content-banner2,#gallery-ad-container,.full-top-ad-area,.full-width-ad,.ad-index,.Ads-leaderboard,.sgAd,#IC1-ad,.ad-wide,.adstop,a[href^=\"https://mediaserver.entainpartners.com/renderBanner.do?\"],.promoboxAd,.SponsoredResults,.inline-ad-wrapper,.inlinead,#side-ad,.ad_blk,#divAdRight,#ad-bg,.ad--overlayer,.squareAd,.ad-970x90,.image-viewer-ad,div[data-adunit-path],#downloadAd,.cl-ad-inpager,.br-ad-wrapper,.SimpleAd,.image-viewer-mpu,.lazyload_ad,#weatherad,.floating-ads,.br-ad,#adContext,#sgAdScGp160x600,.ad-3,#adv_62,#onpageads,.advert-content,#adv-x39,.rightColumnAd,.ads3,#ads-outer,.pb-f-ads-dfp,.verticalAd,.advertisement-title,#adBox,#right1ad,#ads_top,.DFPad,#adslot4,.download_adv_text_video,#divAdLeft,.ad-line,.fixed-ad-bottom,#ad_layer,.fixed-ad-bottom--banner,#rightAds,#AdServer,.stickyad,.mod_ad_container,.adv300x250,#ad_right3,#article_ad,.ad-mb,.single-ads,.adOverlay,#ad_ph_1,.header-ad-desktop,.zad.billboard,#hideads,.sponsored-slot,.ads-bg,#js-image-ad-mpu,.adZone,.red-adv,a[href^=\"https://natour.naughtyamerica.com/track/\"],#footerad,#story_top_ddb_0,.onf-ad,a[href^=\"https://chaturbate.com/affiliates/\"],.ads_160,.adsbox970x90,#dsk-banner-ad-b,#ad-left,#ads-container-single,#story_bottom_ddb_0,.vce-header-ads,.ad300x600,.ads-horizontal,.sky-ad,.vce_adsense_widget,div[class^=\"index__adWrapper\"],.topAds,.SponsorAds,.penci-google-adsense-2,#ad_header,.ng-ad-container-300-250,.vce_adsense_wrapper,.js-ad-imu,.ad-banner-bottom-container,.ad-takeover,.adv_120_600,.item-ads,.single-mpu,#sticky-ads-top,#im_popupFixed,#ad_footer,.adunit-wrap,.post-pick-ad,#sidebar-ads,.ad_300_600,#adWrapper,.ad160x600,.div_banner468,.group-item-ad,.headAd,.header-ads-wrap,.bsaProContainerNew,.ad-160,.quads-ad1_widget,.ad--header,.adss,.ad-wireframe,#mainui-ads,.fa-google-ad,.ad-component,.pb-f-ads-nativo,.block-ad-entity,.fixed_ad,.single-top-ad,#Tadspacehead,.static-ad,.adcont,.desktop_ad,div[id^=\"sticky_ad_\"],.detail-ad,#ad-skyscraper1-outer,.PageTopAd,.adv-phone,.advert--banner-wrap,.headerad,#ad_content,.hb__ad,.block__advertising,.gpt-ad-container,.ad-container--leaderboard,#ads-bottom,.o-ads,.sponsored-text,.wp_bannerize,.gc-deck--is-ad,[href^=\"https://rapidgator.net/article/premium/ref/\"],.top_ads,.adsitem,#videoAdContainer,.adloc-is-banner,.page-header-ad,.js-mpu,.advertisement-container,#div-ad-aniBox,#quads-ad1_widget,#IC2-ad,.adcode,.ad-lb,a[href^=\"http://www.coiwqe.site/\"],#bottom-ads,.adunit-purch,#banner_ads,.adImg,.adlist,.ad-leader-plus-top,.ads--no-preload,.ad-rectangle-container,.chartlist-row--interlist-ad,#main_ad,.hidead,#ad-8,.midAdv-cont2,#ads-banner,.nav_textads,.advert-block,.widget_adswidget4-quick-adsense,.adRectangle-pos-medium,.adplace,.storyAd,#ad_link,.ads_content,.js-dfp-ad-bottom,.first_ad,#banneradspace,#dfp-header,.ad--banner,#sponsored-recommendations,#taboola-below-article-thumbnails-express,.footer-advert,.ads-google-top,.aside-ad,#adright,.adRectangle-pos-small-inline,.sponsored-ad,.advert1,a[href^=\"https://t.adating.link/\"],.ad-place,.txtAd5,.ad-160x600,div[data-adname],#my-adsFPT,.ad-336x280,.mks_ads_widget,.adsHeader,.ads-google-bottom,#fpad2,.adv-bottom,.ads-in-content,.js-dfp-ad-top,.ad__wrapper-element,.ad-leader-bottom,#side-ads,.vce_adsense_expand,.ad-size-leaderboard,.ad--center,.big-ad,.ins_adwrap,.nav-ad-plus-leader,.footer-ads-slide,.ad-size-medium-rectangle-flex,.AdSticky,.adsense-area,#HP1-ad,.ad-module,.index_ad_column2,.sidebar__item-spacer--advert-top,.wide-ad-new-layout,.ad-close-button,.sticky-ad-bottom,.index_ad_a4,.index_ad_a2,#HP2-ad,.index_ad_a6,.ad-BANNER,.index_ad_a5,#ad-container-overlay,.buttonAds,.advertContainer,.hp_textlink_ad,.bottom_ads,.double-ads,.bsac,.adv_hed,.results-ads,.sticky-ads-container,.googleads,.mod_ad_text,#adss,.mod_ad_t25,#dfp-ad-container,#LeftAd,.leader-ad,.offads,.ads-txt,#ad_wallpaper,.Ad--awareness-bp,.ad_holder,#googleads,.adsense-inline,.newspack_global_ad,.ad--skyscraper,.adarea,.adslot_4,.ad-bigbanner,.ads01,.c-adSkyBox,.middle_ad,.ads-1,.aside-ads,.ad-contain,.player-ads,.ad-sharethrough-top,a[href^=\"https://googleads.g.doubleclick.net/pcs/click\"],.ad_wide,.ad300w,#floatads,.adv-header,.mod_r_ad1,#ADTOP,#ad-sidebar1,#footerads,.dfp-wrapper,.mod_index_ad,.mod_r_ad,.adnSpot,.adheader,#iqadtile41,#bannerAd_rdr,.searchRightTopAds,.adv_banner,.advertisingFooterXL,.ads-post,.caja_ad,.advertiser,.ad-homepage,.section-ads,.ad_space,.strip-ad,.ad-top-mpu,#ads7,#leaderboard-ad-1,#rightAd_rdr,.adChoice,.ads-cont,.colombiaAd,.stickyadv,.variableHeightAd,.pre-article-ad,.mobileadunit,.gad_container,.panel-ad,#ads-sticky,#adsense-bottom,.elementor-widget-wp-widget-advads_ad_widget,#Ads_BA_SKY,.ad_crown,#adv-x36,.ad--in-article,.ad_desktop,.single_ad_300x250,.adace-slideup-slot-wrap,.cbs-ad-unit-wrapper,.ad-mod,.cbs-ad-unit,#ad-sidebar2,.search-ad,.adv-970,.thumb-ads,#admpumiddle,.block--advertising,.reserved_box_ads,.adv-ad,.refreshInarticleAd,#NR-Ads,.NR-Ads,div[id^=\"ads300_600-widget\"],.native_ad,.ad_fullwidth,.promo_border,.adrow,.mm-banner970-ad,#top_right_ad,.connatix-wrapper,.adsense-336,.ads-here,.adtxt,.app_nexus_banners_common,#ad-masthead,.contentad,.subAdBannerHeader,#AdCommerce,.oi-header-ad,.adcenter,#billboard_ad,.ad-block-wrapper,#component-taboola-below-article-feed,#advert-skyscraper,#gad728x90,.ads-skyscraper,.ad--inner,#component-taboola-below-article-feed-2,.zmgad-right-rail,.list-ad,#sideAd-1,#sideAd-2,#sideAd-3,.block__advertising-content,.ad-leader-bottom-all,.ad-outline,.page-ad-container,.sister-ads,.dfad,#popupAd,.block--advertising-header,.page-pencil-ad-container-bottom,.ad-bar,.ads300x250,.custom_ad,.searchRightBottomAds,.ad_gpt,#adv-x38,.subAdBannerArea,.ad__leaderboard,.ad_billboard,.widget_ads,.header-advert,.at-header-ad,.ad-sticky-banner,.full-bleed-ad-container,.right_ads,.leftAdsFix1,a[href^=\"https://ismlks.com/\"],#adv-x37,#gad300x250,.horizontal-ad-wrapper,.general_banner_ad,.side_ads,#div_advt_right,.ad-above-mod-dl-btn,.section-sponsor,[id^=\"bunyad_ads_\"],.gad-container,.metaRedirectWrapperBottomAds,.ad-cover,#adBannerTop,#ad_holder,.sideBoxStackedAdWrap,.in-article-ad,.pb-f-ads-taboola,#adtagheader,.mobads,.dfad_pos_1,.adsection,.ads728x90,.dfad_first,#ad_mobile,.centralizer-adx,.card-ads,.clickads,.o-ads--center,.player-ad,#ad-panel,.adsleft,.AdPlacementContainer,.adx-wrapper-middle,.left_ad,#ad_right_1,#topAdDiv,.flex-ad,.ConnatixAd,#head-ad,.asideAd,div[data-id-advertdfpconf],#adsense1,#ad-side,.adColumn,a[href^=\"http://click.payserve.com/\"],.ad-top-728,.advertising--mobile,.overlay-ads,#tfm_admanagerTeaser,#ad_main_top_08,#adv_IntropageOvl,.adTopWrapper,.block__advertising-header,.row-ad,div[class^=\"AdCard_\"],.ads-top-center,.ad-break,a[href^=\"http://ad.doubleclick.net/\"],.oas_desktop_banner,.meta_ad,#TopBannerAd,.js-ad-doubleimu,#IC3-ad,.advertising--tablet,.advertisement-leaderboard,.custom-ad,#adSlot2,#dfp-wallpaper-wrapper,#ad_main_top_01,.ad-02,#adslot5,.inner-ad-section,.sponsor-grid__sponsor,.fs_ads,.pageAdSkin,.rightAdsFix1,.advertising--desktop,.zeusAdWrapper,#divAds,#leftAds,#ad_leaderboard,.ad--panorama,.pageAdSkinUrl,.adSizer,#banner_pos1_ddb_0,#ad_skyscraper,.adSlide,#sponsoredwellcontainerbottom,#top_ad_banner,#ad-manager,div[class^=\"Directory__footerAds\"],app-advertisement,#adv-text,.rightAD,#story-ad-7-wrapper,.ipsAd,.ad_float,.adsense-box,a[href*=\"//bongacams10.com/track?\"],.ad-head,a[href^=\"https://go.alxbgo.com/\"],.sh-section-ad,#adv-halfpage,#Ads_BA_CAD,#ads-by-google,#adbottom,.doubleclick-ad,a[href*=\"=adscript\"],.adfull,.ads10,a[href^=\"https://www.bebi.com\"],#boxad5,.ad-gpt-breaker,.search-sponsor,.ads12,.top-banner-ad,.ezAdsense,.banner350,.ad_skin,.addiv,.adsright,.adActive,div[id^=\"google_dfp_\"],.taboolaArticle,#origami-ad-container,.flex-ad-wrapper,.ads-div,#adSlider,.block-itg-ads,#sidebar_ad_2,#dfp-header-container,#extraAdsBlock,#ad_5,.textAds,.bsac-container,.adslider,.adArea,.advertorial-teaser,.adv300x100,.ad_728x90,#adSlot3,.leftAd,.ad-loaded,#banner_pos2_ddb_0,.fullpage-ad,#ad-slot-top,#interstitial_ad,.ads-link,#ad_middle_122,#outbrain-wrapper,.ad-header-container,.pb-f-ad-leaderboard,.widget-adsense,.article-ad-left,#layer_ad,.full_ad,.ad-hideable,.ads-side,.mw-right-ad-slot,#adValue,.ads__right-rail-ad,.advertisement_728x90,.banner-ad-row,#player-advertising,#advert_1,#crt-adblock-a,#crt-adblock-b,.dfp-space,.container--ads-leaderboard-atf,.article-sponsor,.ad-embedded,#leftAd_rdr,#sidebar_ad_1,#leftAd_fmt,[href^=\"https://join3.bannedsextapes.com\"],.rightads,.small-ad,#ad_billboard,a[href*=\"ad2upapp.com/\"],.slate-ad,.fullbanner_ad,.header-ads-wrapper,aside[id^=\"adrotate_widgets-\"],.ads-728,#ad-background,.ads11,.ads4,.top-ad-wrap,#advert-1,.advertiseText,.id-Article-advert,#sponsorText,.itinerary-index-advertising,a[href^=\"https://dynamicadx.com/\"],.adloaded,.Ad--empty,a[href^=\"http://join3.bannedsextapes.com/track/\"],.advrst,.ad-main,.widget_728x90_advertisement,#botad,.story-ad,.adItem,.horizontalAdText,.page-ads,.ads_label,.block-ltadvertising,.showAd,.ad-slot-sidebar,.ads_wrap,.gallery-sidebar-ad,#teads0,.slideshow-vaop-ad,.has-fixed-bottom-ad,.pb-f-ad-flex,#topImgAd,#ad_0,.adsblock,.innerad,#adTower,.ad728_cont,#adv_Skin,.ajdg_bnnrwidgets,#adsiframe,.right-adv,.sponsor-link,.ad_item,.google-ad-container,#IM_AD,.headad,.ad-container-bottom,#ad-9,#adv-banner,.ad-medium,.big-right-ad,#adUnit,.bannerAds,div[id^=\"ad-div-\"],.ads__native,#ad-pushdown,.movv-ad,.ad-disclaimer,#after-dfp-ad-mid4,.video-archive-ad,.injectedAd,.ads-marker,#adRight,.ad__content,.main-ad-container,.pb-f-ads-yieldmo,.publicidade-vertical-layout,.adHeight313,.non-empty-ad,#oas_Top1,.ad_side,.ads-code,.advText,a[href^=\"https://go.goasrv.com/\"],.headerAds,.cldt-ad-top,.advert--mpu--rhs,#adTopLREC,#adTopYSP,#ad-desktop-bottom,#sponsored_content,#ad_300x250_m_c,#block-ltadvertising-ltadvertising,.takeover-ad,.sudoku-ad,.adinner,.ad-bigbox-fixed,.teads-player,.sheknows-infuse-ad,#ad-top-banner,.mmads,#Ads_BA_FLB,#adv_sky,#adv_LdbMastheadPush,#team_ad,.advertisement-link,.ad-no-notice,.grid_ad_container,.leaderboard-ad-wrapper,.ad-pencil-margin,.photo-ad,#rec_spot_ad_1,.ads_wide,#adFrame,#adv_BoxBottom,.ad--section,.ad-wrapper-bg,.ad-iframe,.adMinHeight313,[href*=\".engine.adglare.net/\"],.ad-slot-wrapper,#ad_thread_first_post_content,.mm-banner970-90-ad,.m-ad__wrapper--728x90,.text_linkad_wrapper,#ad_right_box,#ads_3,.ads-main,.banner-ad-container,.ad-display,.block_ad,.first-ad,.recent-ad,.content_ads,.gallery_ad,.ad-full-width,.fjs-ad-hide-empty,.googlepublisherads,#adsense_top,.adsmessage,.adsense-csa,#iqadtile14,.ad-TOPPER,#banner_pos3_ddb_0,#banner_pos4_ddb_0,#rightrail_pos3_ddb_0,.bottomads,#adcontent,.ntv-ad,.column-ad,a[href*=\".clksite.com/\"],a[href*=\"/adServe/banners?\"],#ads_bottom,.teaser-advertisement,.ad_sidebar_bigbox,a[href^=\"https://www.bang.com/?aff=\"],.story-header-ad,.cBox-body--similarSellerAds,.area_ad03,#top-ads,.area_ad09,#ad-billboard,.adcard,.topArtAd,.ad_72890,.adriverBanner,.jw-ad,#bbccom_mpu,.ad-cell,.ht_outbrain,#ads_block,.adWidget,#ad-10,.ad_notice,.main-ads,.jw-ad-media-container,.rgt_ad,.item-container-ad,.middlead,.mvp-flex-ad,.parent-ad-desktop,.penci-google-adsense-1,#adslot-site-footer,.ad_by,.inline-story-add,.rightAds,#Top-ad,#div_ad_float,#ad_middle_2,[href^=\"https://affect3dnetwork.com/track/\"],.ModeLayout-ad,#pushDownAd,.ad_xrail,#adslot-site-header,#ads1_box,#ads2_box,#ad_300x250,.detail-ads,.ad-tower-container,.teads-ui-components-label,.gridlove-ad-below-header,.ad-sense-ad,.feed-ad,.ad--inArticleBanner,.yom-ad,.ads_left,.betteradscontainer,#ad_layer1,.article-content-ad,#ad_layer2,.ad-carousel,.adslot--leaderboard,#ad_300x100_m_c,a[href*=\".cfm?fp=\"][href*=\"&prvtof=\"],.footerTextAd,#ad-video,.adscenter,#iqadtile99,.tnt-dmp-reactive,#ad_middle_bottom,#ads_superbanner1,.block-simpleads,.jsOneAd,.widget-dfp,.latest-ad,#ads_page_top,.mods-box--ad-blocking-criteo,div[id^=\"dfp-slot-\"],a[href^=\"https://keep2share.cc/pr/\"],a[href^=\"http://reallygoodlink.freehookupaffair.com/\"],a[href^=\"https://www.adskeeper.co.uk/\"],a[href^=\"https://www.camsoda.com/enter.php?id=\"],.u-ads,[href^=\"http://raboninco.com/\"],a[href^=\"https://track.effiliation.com/servlet/effi.redir?\"],a[data-redirect^=\"https://paid.outbrain.com/network/redir?\"],div[id^=\"advads_\"],.programmatic-ad,.sticky-ad-footer,display-ad-component,.ads-center,.adslot_collapse,a[href^=\"https://track.afcpatrk.com/\"],.adsMvCarousel,.desktop-lazy-ads,.programtic-ads,.pubexchange_module .pe-external,.js-widget-distroscale.distroscale,a[href*=\"/cmd.php?ad=\"],.artstyle__advertisement,a[href^=\"http://amzn.to/\"] > img[src^=\"data\"],a[href*=\"=exoclick\"],#sponsored-links-alt,.inline-iframe.article--content-embed,#dsk-box-ad-c,a[href^=\"https://ilovemyfreedoms.com/\"][href*=\"?affiliate_id=\"],.adHeight280,a[href*=\".mfroute.com/\"],.playerad,.article__inset--margin-ad,#adHeightstory,.ads.top,#advertisement_belowscreenshots,.subscribeAd,.polaris-ad--wrapper-desktop,[href^=\"https://www.targetingpartner.com/\"],a[href^=\"https://prf.hn/click/\"][href*=\"/creativeref:\"] > img,.ad-inline-mod,a[href^=\"https://go.stripchat.com/\"][href*=\"&campaignId=\"],#connatix_placeholder_desktop,.outbrainAdHeight,#infoboxadwrapper,#adslot-infobox,#after_title_ad,a[href^=\"https://tc.tradetracker.net/\"] > img,div[class^=\"adbanner_\"],a[href*=\".surfmdia.com/\"],#ad-medrec__first,#after_button_ad_desktop,#sidebar_ad_big,#top-head-ad,.par-ad,[href*=\"https://www.jmbullion.com/gold/\"],#ADCENTER,.responsive_ads_120x600,.responsive_ads_468x60,a[href^=\"https://clicks.pipaffiliates.com/\"],#above_button_ad,a[href^=\"http://www.bet365.com/\"][href*=\"affiliate=\"],.side-bar-ad,div[class^=\"kiwiad-popup\"],div[class^=\"kiwiad-desktop\"],.oko-adhesion,.ad-dog__cnx-container,#ad-container-3,a[href^=\"https://a.bestcontentoperation.top/\"],.adRectangle-pos-large,#dsk-box-ad-f,.widget_tpd_ad_widget,a[href^=\"https://ads.betfair.com/redirect.aspx?\"],a[href^=\"https://www.porngamesxxx.com/\"][href*=\"?campaign=\"],.pop-out-eplayer-container,a[href^=\"https://redsittalvetoft.pro/\"],.gpt-container,a[href$=\"/5-\"][target=\"_blank\"][rel=\"nofollow\"],a[href^=\"http://ads2.williamhill.com/redirect.aspx?\"],a[href^=\"http://marketgid.com\"],.evhl-picArea,.billboard-ad-slot-container,.ad-in-content,.insert_ad_column,[href^=\"https://wct.link/\"],a[href^=\"http://affiliate.coral.co.uk/processing/\"],.tpd-banner-desktop,a[href^=\"https://www.privateinternetaccess.com/\"] > img,a[href^=\"https://torrentsafeguard.com/?aid=\"],#marquee-ad,a[href^=\"https://as.sexad.net/\"],.card-captioned.crd > .crd--cnt > .s2nPlayer,div[id^=\"ads300_100-widget\"],a[href*=\".axdsz.pro/\"],a[href^=\"https://m.do.co/c/\"] > img,.main-ad-728x90-container,.ad-render-space,.amp-sticky-ads,a[href^=\"https://adserver.adreactor.com/\"],.adwblue,a[href*=\".opskln.com/\"],.zox-post-ad-wrap,a[href^=\"https://billing.purevpn.com/aff.php\"] > img,a[href^=\"http://media.paddypower.com/redirect.aspx?\"],a[href^=\"https://badoinkvr.com/\"],#advertisePlacement,.advertise-band,#advertise-block,a[href^=\"https://www.awin1.com/cread.php?awinaffid=\"],a[href^=\"http://ul.to/ref/\"],a[href^=\"https://go.gldrdr.com/\"],.ad--inline,[href^=\"https://www.xvbelink.com/\"],[href*=\".xiloy.site/\"],.ad-itself,a[href^=\"//www.mgid.com/\"],.dsp-under-video-ad,a[href^=\"https://tracking.truthfinder.com/?a=\"],.article-ad-holder,.article-ad-legend,a[href^=\"https://prf.hn/click/\"][href*=\"/adref:\"] > img,a[href^=\"https://click.hoolig.app/\"],a[href*=\".directtl.xyz/\"],.ad-container__sticky-wrapper,a[href^=\"https://go.xtbaffiliates.com/\"],div[class^=\"adUnit_\"],.height_250_ad,#ad-homepage-bottom-adhesion,a[href^=\"https://misspkl.com/\"],[href^=\"http://homemoviestube.com/\"],a[href^=\"https://promo-bc.com/\"],.ad-small-2,a[href^=\"http://adf.ly/?id=\"],a[href^=\"https://squren.com/rotator/?atomid=\"],.ad--sky,a[href^=\"https://fileboom.me/pr/\"],a[href^=\"https://servedbyadbutler.com/\"],.sm-ads,a[href^=\"https://dianches-inchor.com/\"],[href^=\"https://join.playboyplus.com/track/\"],a[href^=\"https://k2s.cc/pr/\"],#sabavisionIframeAds,.sabavision-ads,a[href^=\"https://porntubemate.com/\"],[href^=\"https://www.reimageplus.com/\"],div[id^=\"lazyad-\"],.ad-home-featured-files,[href^=\"https://track.fiverr.com/visit/\"] > img,a[href^=\"https://awejmp.com/\"],.adHeight270,.adHeight600,.rightadHeightBottom,a[href^=\"http://bs.serving-sys.com/\"],.ngart__ad-col,.ngart__side-ad,.AdWrapper--sticky-block,a[href^=\"http://online.ladbrokes.com/promoRedirect?\"],.converter-ad,[href^=\"https://r.kraken.com/\"],a[href^=\"https://oackoubs.com/\"],.ads-home,[href*=\"//securesafemembers.com\"],.container-with-ad,.ArticleAdWrapper,a[href^=\"http://affiliates.lifeselector.com/\"],.inarticlead,.ad-banner-box,.c-ArticleAds,.adthrive-header-container,a[href^=\"http://tour.mrskin.com/\"],.primis-ad-wrap,#ppvideoadvertisement,a[href^=\"https://mmwebhandler.aff-online.com/\"],.advertisement-footer,.article-list__list-item--ad,a[href^=\"https://ad.atdmt.com/\"],a[href^=\"https://unreshiramor.com/\"],.ad-mount,.instream_ad,div[id^=\"ads250_250-widget\"],a[href^=\"https://bestcond1tions.com/\"],a[href^=\"https://www.popads.net/users/\"],a[href^=\"http://ads.betfair.com/redirect.aspx?\"],.top-left-ad,a[href^=\"https://mediaserver.gvcaffiliates.com/renderBanner.do?\"],div[class^=\"adsbutt_wrapper_\"],#dsk-banner-ad-c,.ad-container-m,.adMinHeight280,a[href^=\"https://bngpt.com/\"],a[href^=\"http://wct.link/\"],#article-ads,a[href^=\"http://server.cpmstar.com/click.aspx?poolid=\"],a[href^=\"https://get.surfshark.net/aff_c?\"][href*=\"&aff_id=\"] > img,a[href^=\"https://betway.com/\"][href*=\"&a=\"],#tpd-ads-top-desktop-banner-ad-container,.ampforwp-sticky-custom-ad,div[class^=\"articleAdUnitMPU_\"],a[href^=\"//srv.buysellads.com/\"],div[id^=\"ad_head_celtra_\"],#adslot-sticky-headerbar,.in-content-ad-container,#sticky-custom-ads,.advert__sidebar,.amp-sticky-ad-custom,div[class^=\"SponsoredAds\"],div[id^=\"ad_script_\"],.ad-slot-widget,[src*=\"https://cdn.cloudimagesb.com/\"],#ads_h1,#ad_content_2,#ad_content_1,a[href^=\"http://www.fonts.com/BannerScript/\"],a[href^=\"https://a.bestcontentfood.top/\"],.adMed,.topadsbx,a[href^=\"http://campaign.bharatmatrimony.com/track/\"],a[href^=\"https://track.afftck.com/\"],a[href^=\"https://mcdlks.com/\"],#dsk-banner-ad-d,#adslot-below-newest,#adslot-below-updated,img[alt^=\"Fuckbook\"],[href^=\"https://secure.bmtmicro.com/servlets/\"],a[href^=\"http://mgid.com/\"],[href^=\"https://dooloust.net/\"],[class*=\"__adv-block\"],.ad-horizontal-top-wrapper,a[href^=\"https://www.financeads.net/tc.php?\"],.galleryad,a[href^=\"https://join.virtualtaboo.com/track/\"],.top__ad,#top-ad-slot,.ad-container--top,a[href^=\"https://www.securegfm.com/\"],a[href^=\"https://landing1.brazzersnetwork.com\"],a[href^=\"http://partners.etoro.com/\"],[href^=\"https://freecourseweb.com/\"] > .sitefriend,a[onmousedown^=\"this.href='https://paid.outbrain.com/network/redir?\"][target=\"_blank\"] + .ob_source,[href^=\"https://stvkr.com/\"],[href^=\"https://awbbjmp.com/\"],a[href^=\"https://adultfriendfinder.com/go/page/landing\"],a[href^=\"https://fertilitycommand.com/\"],a[href^=\"https://go.currency.com/\"],.ad_gam,a[href^=\"https://www.adultempire.com/\"][href*=\"?partner_id=\"],a[href^=\"http://campeeks.com/\"][href*=\"&utm_\"],a[href^=\"http://www.mrskin.com/tour\"],.single-post-ads,.ad-burnside,.roof-ad,a[href^=\"http://istri.it/?\"],a[href^=\"http://www.badoink.com/go.php?\"],a[href^=\"https://fleshlight.sjv.io/\"],a[href^=\"http://banners.victor.com/processing/\"],a[href*=\".udncoeln.com/\"],a[target=\"_blank\"][href^=\"http://api.taboola.com/\"],.js_ad_wrapper,a[href^=\"http://fileboom.me/pr/\"],a[href^=\"http://keep2share.cc/pr/\"],.ad__image,a[href^=\"http://extra.bet365.com/\"][href*=\"?affiliate=\"],a[href^=\"http://vo2.qrlsx.com/\"],a[href^=\"https://www.gambling-affiliation.com/cpc/\"],.headerAdvertisement,a[href^=\"https://www.dollps.com/?track=\"],[href^=\"https://ptwmjmp.com/\"],a[href*=\".bang.com/\"][href*=\"&aff=\"],#adContainerMobile,div[class^=\"BannerAd_\"],a[href^=\"https://ads.leovegas.com/redirect.aspx?\"],div[class^=\"ad_position_\"],a[href^=\"https://leg.xyz/?track=\"],[class^=\"Ad-adContainer\"],#sponsored-post-ad-for-articles,a[href^=\"http://bodelen.com/\"],[class*=\"__adspot-title-container\"],a[href*=\"/servlet/click/zone?\"],.m2n-ads-slot,.bin-ads,.ad--stroeer,.ad--topmobile,.rectangle-ad-slot-container,a[href^=\"https://affiliate.rusvpn.com/click.php?\"],.ad--pubperform,.js-widget-send-to-news,.send-to-news,.eg-ad,div[id^=\"block-views-topheader-ad-block-\"],a[href^=\"https://t.grtyi.com/\"],[href^=\"https://go.affiliatexe.com/\"],#dfp-banner,a[href^=\"https://clixtrac.com/\"],a[href^=\"https://ad.zanox.com/ppc/\"] > img,a[href^=\"https://ndt5.net/\"],a[href^=\"https://financeads.net/tc.php?\"],a[href^=\"http://xads.zedo.com/\"],a[href^=\"https://awecrptjmp.com/\"],a[href^=\"http://xtgem.com/click?\"],.vl-header-ads,a[href^=\"https://go.247traffic.com/\"],#gpt-instory-ad,.content-leaderboard-ads,#desktop-sidebar-ad,a[href^=\"https://www.sheetmusicplus.com/\"][href*=\"?aff_id=\"],a[href^=\"http://k2s.cc/code/\"],.adspot-desk,div[id^=\"ad_bigbox_\"],.new_ad_left,a[href^=\"//awejmp.com/\"],.long-ads,#ad-performance,.detail__ad--small,.ad-program-list,[href^=\"https://join.girlsoutwest.com/\"],a[href^=\"https://ad13.adfarm1.adition.com/\"],a[href^=\"https://land.brazzersnetwork.com/landing/\"],a[href^=\"https://track.themadtrcker.com/\"],a[href^=\"http://www.myfreecams.com/?co_id=\"][href*=\"&track=\"],#ad-promo,#ad_cont_superbanner,div[id^=\"advt-\"],.vf-ad-comments,[ad-id^=\"googlead\"],a[href*=\".trust.zone\"],a[href^=\"http://buysellads.com/\"],[href^=\"http://join.shemale.xxx/\"],[href*=\".grtya.com/\"],div[id^=\"ADV-SLOT-\"],#admobilemiddle,#ifadmiddle,.container-first-ads,div[id^=\"adngin-\"],div[class*=\"_AdInArticle_\"],a[href^=\"http://www.sexgangsters.com/?pid=\"],.g_flbrd_ad,a[href^=\"http://ad-emea.doubleclick.net/\"],div[class*=\"-storyBodyAd-\"],.g_lbrd_ad,.main-ad-bg,.ad-rotator,.ad-centering,a[href^=\"http://www.bluehost.com/track/\"] > img,#ad_content_3,a[href^=\"https://www.mrskin.com/tour\"],[href^=\"http://join.michelle-austin.com/\"],a[href^=\"https://my-movie.club/\"],div[id^=\"ads120_600-widget\"],.post-ads-top,a[href^=\"http://9nl.es/\"],a[href^=\"http://www.onwebcam.com/random?t_link=\"],a[href*=\"/adrotate-out.php?\"],.fix_ad,a[href^=\"http://hotcandyland.com/partner/\"],.ad--banner2,.ad--topmobile2,.sponsored-article-widget,#adbox-inarticle,.ADV_Mobile,[href^=\"http://join.trannies-fuck.com/\"],a[href^=\"http://googleads.g.doubleclick.net/pcs/click\"],a[href^=\"https://refpaexhil.top/\"],[href^=\"http://join.hardcoreshemalevideo.com/\"],a[href^=\"http://adserving.unibet.com/\"],[href^=\"http://join.shemalesfromhell.com/\"],.advertisement__header,div[id^=\"drudge-column-ads-\"],#bb_top_ad,a[href^=\"https://trust.zone/go/r.php?RID=\"],.advertisement--leaderboard,#ad_marginal,a[href*=\".irtyc.com/\"],[href^=\"http://join.shemalepornstar.com/\"],a[href^=\"https://www.vewwrmp.com/\"],.adSlot-container,[href^=\"http://join.ts-dominopresley.com/\"],.rectangle-ad-slot-wrapper,[href^=\"https://www.hostg.xyz/aff_c\"] > img,.sidebar-ad-area,div[class^=\"hp-ad-rect-\"],[href^=\"https://refpahrwzjlv.top/\"],a[href^=\"https://www.mrskin.com/account/\"],.blog-ad-image,.vl-advertisment,.widget_viral_advertisement,a[href^=\"http://tc.tradetracker.net/\"] > img,a[href^=\"https://go.markets.com/visit/?bta=\"],a[href^=\"http://deloplen.com/afu.php?zoneid=\"],a[href^=\"https://t.hrtyj.com/\"],.adsbygoogle-wrapper,a[href^=\"https://iqbroker.com/\"][href*=\"?aff=\"],a[href^=\"https://usenetxs.website/\"],a[href^=\"https://msecure117.com/\"],.adindex,a[href^=\"http://reallygoodlink.extremefreegames.com/\"],a[href*=\".qertewrt.com/\"],a[href^=\"https://medleyads.com/\"],a[href^=\"https://ads.planetwin365affiliate.com/redirect.aspx?\"],#header-adserve,a[href^=\"https://secure.starsaffiliateclub.com/C.ashx?\"],#ad-Superbanner,.ad-container-inthread,.partner-ads-list,a[href^=\"http://www.123-reg.co.uk/affiliate2.cgi\"],a[href^=\"http://www.TwinPlan.com/AF_\"],a[href^=\"https://axdsz.pro/\"],a[href^=\"https://control.trafficfabrik.com/\"],a[href^=\"https://dltags.com/\"],a[href^=\"https://meet-to-fuck.com/tds\"],a[href^=\"https://members.linkifier.com/public/affiliateLanding?refCode=\"],a[href^=\"https://transfer.xe.com/signup/track/redirect?\"],.primis-custom,a[href^=\"http://c.actiondesk.com/\"],a[href^=\"https://aweptjmp.com/\"],a[href^=\"http://affiliates.thrixxx.com/\"],div[class^=\"ad_border_\"],#below-title-ad,a[href^=\"http://see.kmisln.com/\"],a[href^=\"//pubads.g.doubleclick.net/\"],div[id^=\"div-ads-\"],.contentAd--sb1,a[href^=\"https://go.cmrdr.com/\"],div[id^=\"taboola-stream-\"],#dfp_ads_4,#dfp_ads_5,.ADV320_50_100,.ADV320_50_100_PlaceHolder,a[href^=\"https://see.kmisln.com/\"],div[id^=\"ad-cid-\"],a[href^=\"http://www.tirerack.com/affiliates/\"],a[href^=\"http://www.greenmangaming.com/?tap_a=\"],.ad-mobile-300x250,[href^=\"http://join.rodneymoore.com/\"],a[href^=\"https://wantopticalfreelance.com/\"],.ad-slot--billboard--article--wrapper,.topAdBlock,a[href*=\"//bongacams5.com/track?\"],.adDetails_ad336,a[href^=\"https://affiliate.geekbuying.com/gkbaffiliate.php?\"],a[href^=\"http://www.getyourguide.com/?partner_id=\"],a[href^=\"http://www.fleshlight.com/\"],.ad--topmobile3,a[href^=\"http://webgirlz.online/landing/\"],a[href^=\"https://iac.ampxdirect.com/\"],.sad_posterad,a[href*=\"a2g-secure.com\"],a[href^=\"https://www.kingsoffetish.com/tour?partner_id=\"],#div-gpt-mini-leaderboard1,a[href^=\"http://www.adbrite.com/mb/commerce/purchase_form.php?\"],a[href^=\"https://go.julrdr.com/\"],.list-footer-ad,a[href^=\"https://tour.mrskin.com/\"],[href*=\".jetx.info/\"],a[href^=\"https://www.pornhat.com/\"][rel=\"nofollow\"],a[href^=\"https://goraps.com/\"],.i-amphtml-element.live-updates.render-embed,[href^=\"http://stvkr.com/\"],a[href^=\"https://www.sheetmusicplus.com/?aff_id=\"],a[href^=\"https://www.im88trk.com/\"],.advert-bar,.dm_ad-link,[href^=\"/ucdownloader.php\"],[href^=\"/ucmini.php\"],.new_ad_normal,.is-preload-ad,a[href^=\"http://hyperlinksecure.com/go/\"],iframe[src^=\"http://ad.yieldmanager.com/\"],a[href^=\"http://affiliates.pinnaclesports.com/processing/\"],a[href^=\"https://syndication.dynsrvtbg.com/splash.php?\"],.dm_ad-billboard,.dm_ad-leaderboard,.dm_ad-skyscraper,#ad-performanceFullbanner1,#ad-performanceRectangle1,[data-template-type=\"nativead\"],a[href*=\"=Adtracker\"],[href^=\"http://www.star-clicks.com/\"],a[href^=\"https://t.hrtye.com/\"],a[href^=\"http://go.xtbaffiliates.com/\"],.ad-posterad-inlisting,.in_article_ad_wrapper,.inc-ad,div[id^=\"q1-adset-\"],a[data-redirect^=\"http://paid.outbrain.com/network/redir?\"],.img-ad-container,.ad-120-bottom,.ad-120-top,.ad-468-bottom,.ad-468-top,.adace-sponsors-box,.adsother,.ar-header-m-ad,.hederAd,a[href^=\"http://espn.zlbu.net/\"],a[href^=\"http://record.betsafe.com/\"],a[href^=\"https://cpmspace.com/\"],a[href^=\"https://earandmarketing.com/\"],a[href^=\"https://offers.refchamp.com/\"],a[href^=\"https://www.passeura.com/\"],a[href^=\"https://fakelay.com/\"],.label_advertising_text,a[href*=\".tfaln.com/\"],.bh-ads,div[class^=\"zn-sponsored-outbrain-\"],a[href^=\"http://secure.cbdpure.com/aff/\"],a[href^=\"http://secure.vivid.com/track/\"],div[id^=\"ad-server-\"],a[href*=\".allsports4you.club\"],a[href^=\"http://adserver.adreactor.com/\"],.ground-ads-shared,a[href^=\"http://syndication.exoclick.com/\"],a[href^=\"http://www.on2url.com/app/adtrack.asp\"],a[href^=\"https://join.sexworld3d.com/track/\"],.sidebar__block-advertisement,.desktop-sidebar-ad-wrapper,a[href^=\"http://secure.hostgator.com/~affiliat/\"],#ad-medrec-article-container,#ad_bsb_cont,a[href^=\"https://look.utndln.com/\"],a[data-nvp*=\"'trafficUrl':'https://paid.outbrain.com/network/redir?\"],[href^=\"https://veepn.g2afse.com/\"],.ads-star,.tile-advert,a[href^=\"http://api.content.ad/\"],a[href^=\"http://zevera.com/afi.html\"],a[href^=\"https://awptjmp.com/\"],a[href^=\"https://easygamepromo.com/ef/custom_affiliate/\"],[href^=\"https://go.astutelinks.com/\"],a[href*=\"//bongacams4.com/track?\"],[href*=\".ltroute.com/\"],[href^=\"https://bulletprofitsmartlink.com/\"],.header_adspace,a[href^=\"http://www.adxpansion.com\"],.mobile_ad_banner,a[href^=\"http://www.revenuehits.com/\"],.hmad,a[href^=\"https://track.totalav.com/\"],a[href^=\"https://go.hpyrdr.com/\"],a[href^=\"http://wgpartner.com/\"],.container-ad-left,a[href^=\"http://adultfriendfinder.com/p/register.cgi?pid=\"],a[href^=\"https://chaturbate.xyz/\"],a[href^=\"https://explore.findanswersnow.net/\"],.adsbanner2,div[id^=\"gtm-ad-\"],a[href^=\"https://join.dreamsexworld.com/\"],.ad-affiliate,a[href^=\"https://go.onclasrv.com/\"],aside[id^=\"tn_ads_widget-\"],a[href*=\"pussl3.com\"],a[href^=\"http://tezfiles.com/pr/\"],a[href^=\"https://www.share-online.biz/affiliate/\"],.adsbanner1,a[href^=\"http://adclick.g.doubleclick.net/\"],a[href^=\"https://azpresearch.club/\"],a[href^=\"http://www.liutilities.com/\"],.ad-preparing,a[href^=\"https://tracking.avapartner.com/\"],.fp_article-card--adv-injected,a[href^=\"http://axdsz.pro/\"],a[href^=\"http://yads.zedo.com/\"],a[href^=\"https://aff-ads.stickywilds.com/\"],a[href^=\"https://affiliates.bet-at-home.com/processing/\"],a[href^=\"https://land.rk.com/landing/\"],div[id^=\"divAdvAD_\"],a[href^=\"https://join.virtuallust3d.com/\"],a[href^=\"https://torguard.net/aff.php\"] > img,a[href^=\"https://www.purevpn.com/\"][href*=\"&utm_source=aff-\"],.adpos-300-mobile,a[href^=\"http://go.247traffic.com/\"],[href^=\"https://www.highrevenuecpm.com\"],a[href^=\"http://www.friendlyduck.com/AF_\"],a[href^=\"http://feedads.g.doubleclick.net/\"],a[href^=\"http://c.jumia.io/\"],#AdvertMid1,#AdvertMid2,#ads_h2,.ads_h1,.ads_h2,.post-ads-detalhe,.post-ads-detalhe-1,.thb_ad_header,a[href^=\"//oardilin.com/\"],a[href^=\"http://adultgames.xxx/\"],a[href^=\"http://www.hibids10.com/\"],a[href^=\"http://www.plus500.com/?id=\"],a[href^=\"https://landing.brazzersplus.com/\"],a[href^=\"https://www.oneclickroot.com/?tap_a=\"] > img,a[href^=\"https://www.get-express-vpn.com/offer/\"],a[href^=\"http://www.gfrevenge.com/landing/\"],a[href^=\"https://offerforge.net/\"],a[href^=\"http://paid.outbrain.com/network/redir?\"],.ad-banner-inlisting,[id*=\"MGWrap\"],a[href^=\"https://cpartner.bdswiss.com/\"],a[href*=\".trck5.com/\"],a[href^=\"https://tracking.gitads.io/\"],a[href^=\"http://www.text-link-ads.com/\"],a[href^=\"https://www.mypornstarcams.com/landing/click/\"],#ad_bsb,#top_ad-360,.ad-banner-2,.ad-banner-5,.ad-banner-6,a[href^=\"http://admrotate.iplayer.org/\"],a[href^=\"http://goldmoney.com/?gmrefcode=\"],a[href^=\"http://look.djfiln.com/\"],a[href^=\"http://traffic.tc-clicks.com/\"],a[href^=\"https://adsrv4k.com/\"],a[href^=\"https://syndication.exoclick.com/splash.php?\"],a[href*=\"//ezofferz.com/\"],a[href^=\"http://go.ad2up.com/\"],a[href^=\"https://www.sugarinstant.com/?partner_id=\"],.ads-between-comments,a[href^=\"http://ads.sprintrade.com/\"],a[href^=\"https://graizoah.com/\"],a[href^=\"https://meet-sex-here.com/?u=\"],div[id^=\"ad-inserter-\"],a[href^=\"http://fusionads.net\"],a[href^=\"https://jmp.awempire.com/\"],a[href^=\"http://www.firstclass-download.com/\"],.c-header__advert-container,[href*=\"wap4dollar.com/\"],[href^=\"https://shiftnetwork.infusionsoft.com/go/\"] > img,[id^=\"adframe_wrap_\"],.mobileAdPos2And3,a[href^=\"https://www.spyoff.com/\"],.ad-970x250-container,a[href^=\"http://www.amazon.co.uk/exec/obidos/external-search?\"],a[href^=\"https://porngames.adult/?SID=\"],div[class^=\"PreAd_\"],a[href^=\"http://campaign.bharatmatrimony.com/cbstrack/\"],a[href^=\"http://promos.bwin.com/\"],a[href^=\"http://www.adultempire.com/unlimited/promo?\"][href*=\"&partner_id=\"],a[href^=\"https://track.healthtrader.com/\"],a[href^=\"http://serve.williamhill.com/promoRedirect?\"],a[href^=\"https://www.nudeidols.com/cams/\"],#ads_desktop_r1,#ads_desktop_r2,#div-gpt-inline-main,#sidebarad0,#txtAdHeader,.Billboard-ad-holder,.Billboard_2-ad-holder,.Billboard_3-ad-holder,.Billboard_4-ad-holder,.Billboard_5-ad-holder,.Content_1-ad-holder,.Footer_1-ad-holder,.Rectangle_1-ad-holder,.Rectangle_2-ad-holder,.Rectangle_3-ad-holder,.ad-970x250-home,.ad-block-wrapper-dev,.ad-desktop-native-1,.ad-desktop-native-2,.adbox-style,.adhesion-header,.ads_desktop_r1,.ads_desktop_r2,.ads_under_data,.adspacer2,.adunit-container_sitebar_1,.adv_banner_ps_1,.adv_banner_ps_2,.adv_banner_ps_3,.adv_banner_ps_6,.adv_banner_ps_8,.article__ad-holder,.center-content-ad,.center-content-ads,.datasphere-ad-front,.display-adhorizontal,.google-ad-header2,.height_90_ad,.hm-ad,.mobile-nav-ad-plus-banner,.rectangle-widget-td-ad,.single-component__ad,.sm-ads__billboard,[href*=\"cadsecs.com/\"],[href*=\"get-download.club/\"],[href^=\"https://click2cvs.com/\"],[href^=\"https://go.4rabettraff.com/\"],[href^=\"https://mylead.global/stl/\"] > img,[href^=\"https://shrugartisticelder.com\"],[src^=\"//adtorio.com/\"],[src^=\"http://api.lanistaads.com/ServeAd?\"],a[href$=\"/vghd.shtml\"],a[href*=\".ad-center.com/\"],a[href*=\".adk2x.com/\"],a[href*=\".frtyl.com/\"],a[href*=\".fwd28.com/\"],a[href*=\".ichlnk.com/\"],a[href*=\".intab.fun/\"],a[href*=\".revimedia.com/\"],a[href*=\"onclkds.\"],a[href^=\"//88d7b6aa44fb8eb.com/\"],a[href^=\"http://1phads.com/\"],a[href^=\"http://3wr110.net/\"],a[href^=\"http://a.adquantix.com/\"],a[href^=\"http://ad-apac.doubleclick.net/\"],a[href^=\"http://adserver.adtech.de/\"],a[href^=\"http://adserver.adtechus.com/\"],a[href^=\"http://adsrv.keycaptcha.com\"],a[href^=\"http://adtrack123.pl/\"],a[href^=\"http://aff.ironsocket.com/\"],a[href^=\"http://aflrm.com/\"],a[href^=\"http://allaptair.club/\"],a[href^=\"http://bc.vc/?r=\"],a[href^=\"http://bcp.crwdcntrl.net/\"],a[href^=\"http://bluehost.com/track/\"],a[href^=\"http://c43a3cd8f99413891.com/\"],a[href^=\"http://casino-x.com/?partner\"],a[href^=\"http://cdn.adstract.com/\"],a[href^=\"http://clicks.binarypromos.com/\"],a[href^=\"http://clickserv.sitescout.com/\"],a[href^=\"http://d2.zedo.com/\"],a[href^=\"http://elitefuckbook.com/\"],a[href^=\"http://enter.anabolic.com/track/\"],a[href^=\"http://ffxitrack.com/\"],a[href^=\"http://go.fpmarkets.com/\"],a[href^=\"http://guideways.info/\"],a[href^=\"http://hpn.houzz.com/\"],a[href^=\"http://intent.bingads.com/\"],a[href^=\"http://landingpagegenius.com/\"],a[href^=\"http://linksnappy.com/?ref=\"],a[href^=\"http://liversely.com/\"],a[href^=\"http://liversely.net/\"],a[href^=\"http://mob1ledev1ces.com/\"],a[href^=\"http://record.sportsbetaffiliates.com.au/\"],a[href^=\"http://refer.webhostingbuzz.com/\"],a[href^=\"http://rs-stripe.wsj.com/stripe/redirect\"],a[href^=\"http://semi-cod.com/clicks/\"],a[href^=\"http://sharesuper.info/\"],a[href^=\"http://static.fleshlight.com/images/banners/\"],a[href^=\"http://t.wowtrk.com/\"],a[href^=\"http://tracking.deltamediallc.com/\"],a[href^=\"http://trk.mdrtrck.com/\"],a[href^=\"http://uploaded.net/ref/\"],a[href^=\"http://us.marketgid.com\"],a[href^=\"http://websitedhoome.com/\"],a[href^=\"http://www.adultdvdempire.com/?partner_id=\"][href*=\"&utm_\"],a[href^=\"http://www.down1oads.com/\"],a[href^=\"http://www.download-provider.org/\"],a[href^=\"http://www.fbooksluts.com/\"],a[href^=\"http://www.fpcTraffic2.com/blind/in.cgi?\"],a[href^=\"http://www.gamebookers.com/cgi-bin/intro.cgi?\"],a[href^=\"http://www.graboid.com/affiliates/\"],a[href^=\"http://www.hitcpm.com/\"],a[href^=\"http://www.linkbucks.com/referral/\"],a[href^=\"http://www.my-dirty-hobby.com/?sub=\"],a[href^=\"http://www.myfreepaysite.com/sfw_int.php?aid\"],a[href^=\"http://www.mysuperpharm.com/\"],a[href^=\"http://www.pinkvisualgames.com/?revid=\"],a[href^=\"http://www.pinkvisualpad.com/?revid=\"],a[href^=\"http://www.ragazzeinvendita.com/?rcid=\"],a[href^=\"http://www.roboform.com/php/land.php\"],a[href^=\"http://www.securegfm.com/\"],a[href^=\"http://www.sfippa.com/\"],a[href^=\"http://www.socialsex.com/\"],a[href^=\"http://www.streamtunerhd.com/signup?\"],a[href^=\"http://www.twinplan.com/AF_\"],a[href^=\"http://www.uniblue.com/cm/\"],a[href^=\"https://aaucwbe.com/\"],a[href^=\"https://ads.ad4game.com/\"],a[href^=\"https://albionsoftwares.com/\"],a[href^=\"https://content.oneindia.com/www/delivery/\"],a[href^=\"https://djtcollectorclub.org/\"][href*=\"?affiliate_id=\"],a[href^=\"https://farm.plista.com/pets\"],a[href^=\"https://go.ad2up.com/\"],a[href^=\"https://go.etoro.com/\"] > img,a[href^=\"https://horny-pussies.com/tds\"],a[href^=\"https://incisivetrk.cvtr.io/click?\"],a[href^=\"https://iqoption.com/lp/mobile-partner/\"][href*=\"?aff=\"],a[href^=\"https://mk-ads.com/\"],a[href^=\"https://mk-cdn.net/\"],a[href^=\"https://mob1ledev1ces.com/\"],a[href^=\"https://ovb.im/\"],a[href^=\"https://partners.fxoro.com/click.php?\"],a[href^=\"https://porndeals.com/?track=\"],a[href^=\"https://reachtrgt.com/\"],a[href^=\"https://secure.bstlnk.com/\"],a[href^=\"https://secure.cbdpure.com/aff/\"],a[href^=\"https://secure.eveonline.com/ft/?aid=\"],a[href^=\"https://static.fleshlight.com/images/banners/\"],a[href^=\"https://track.interactivegf.com/\"],a[href^=\"https://track.trkinator.com/\"],a[href^=\"https://tracking.comfortclick.eu/\"],a[href^=\"https://tracking.trackcasino.co/\"],a[href^=\"https://trackjs.com/?utm_source\"],a[href^=\"https://trappist-1d.com/\"],a[href^=\"https://uncensored.game/\"],a[href^=\"https://vod09197d7.club/\"],a[href^=\"https://windscribe.com/promo/\"],a[href^=\"https://www.arthrozene.com/\"][href*=\"?tid=\"],a[href^=\"https://www.g4mz.com/\"],a[href^=\"https://www.hotgirls4fuck.com/\"],a[href^=\"https://www.oboom.com/ref/\"],a[href^=\"https://www.travelzoo.com/oascampaignclick/\"],a[href^=\"https://zononi.com/\"],a[id^=\"ads_banner_\"],div[class^=\"advertisement-desktop\"],div[class^=\"index_adBeforeContent_\"],div[class^=\"sp-adslot-\"],div[id^=\"cns_ads_\"],a[href^=\"http://get.slickvpn.com/\"],[href^=\"/admdownload.php\"],a[href^=\"http://www.duckcash.eu/\"],input[onclick^=\"window.open('http://www.friendlyduck.com/\"],[href*=\".securesafemembers.com\"],[href*=\"//trackmstr.com\"],div > [class][onclick*=\".updateAnalyticsEvents\"],a[href^=\"http://www.zergnet.com/i/\"],#ad_news_article,#ad_sidebar_news,#ad_site_header,#ads-bg-mobile,#adsense_center,#article-ad-content,#bordeaux-preemptive-ad-0,#leaderboard-atf,.ad-mobile-300x150,.ad-mobile-300x50,.ad.floater-link,.ad366,.adsBannerLink,.adv_banner_ps_13,.adv_banner_ps_4,.adv_banner_ps_7,.bdcQtWidget,.dyn-sidebar-ad,.googleAdsSquare,.l-section--ad,.mv_atf_ad_holder,.myinarticlead,.page-break-ad,.post-ad-type,.single-post-bottom-ads,.sticky_ad_desktop_footer_center,[href*=\".adcampo.com/\"],[href*=\".afftracks.online/\"],[href*=\"maskip.co/\"],[href*=\"prayuserparka.com/\"],[href^=\"http://advertisesimple.info/\"],[href^=\"https://detachedbates.com/\"],[href^=\"https://mysbitl.com\"],[href^=\"https://online-protection-now.com/\"],[href^=\"https://pulsetrack.biz/\"],[href^=\"https://traffserve.com/\"],[onclick^=\"window.open('http://adultfriendfinder.com/search/\"],[onclick^=\"window.open('https://www.brazzersnetwork.com/landing/\"],[onclick^=\"window.open('window.open('//delivery.trafficfabrik.com/\"],[src^=\"/Redirect.a2b?\"],a[data-redirect^=\"http://click.plista.com/pets\"],a[href*=\".approvallamp.club/\"],a[href*=\".clkcln.com/\"],a[href*=\".inclk.com/\"],a[href*=\".orange2258.com/\"],a[href*=\".purple6401.com/\"],a[href*=\".red90121.com/\"],a[href*=\".xromp.com/landing/click/\"],a[href*=\"//promo-bc.com/track?\"],a[href*=\"//ridingintractable.com/\"],a[href*=\"3wr110.xyz/\"],a[href*=\"?adlivk=\"][href*=\"&refer=\"],a[href*=\"deliver.trafficfabrik.com\"],a[href*=\"delivery.trafficfabrik.com\"],a[href*=\"n47adshostnet.com/\"],a[href^=\" http://www.sex.com/\"][href*=\"&utm_\"],a[href^=\".vddfe.club/\"],a[href^=\"//00ae8b5a9c1d597.com/\"],a[href^=\"//40ceexln7929.com/\"],a[href^=\"//4f6b2af479d337cf.com/\"],a[href^=\"//5e1fcb75b6d662d.com/\"],a[href^=\"//adbit.co/?a=Advertise&\"],a[href^=\"//db52cc91beabf7e8.com/\"],a[href^=\"//go.onclasrv.com/\"],a[href^=\"//healthaffiliate.center/\"],a[href^=\"//jsmptjmp.com/\"],a[href^=\"//look.djfiln.com/\"],a[href^=\"//medleyads.com/spot/\"],a[href^=\"//mob1ledev1ces.com/\"],a[href^=\"//nlkdom.com/\"],a[href^=\"//porngames.adult/?SID=\"],a[href^=\"//voyeurhit.com/cs/\"],a[href^=\"//www.pd-news.com/\"],a[href^=\"//z6naousb.com/\"],a[href^=\"//zenhppyad.com/\"],a[href^=\"http://360ads.go2cloud.org/\"],a[href^=\"http://45eijvhgj2.com/\"],a[href^=\"http://6kup12tgxx.com/\"],a[href^=\"http://9amq5z4y1y.com/\"],a[href^=\"http://NowDownloadAll.com\"],a[href^=\"http://a63t9o1azf.com/\"],a[href^=\"http://ad.au.doubleclick.net/\"],a[href^=\"http://ad.yieldmanager.com/\"],a[href^=\"http://adlev.neodatagroup.com/\"],a[href^=\"http://adprovider.adlure.net/\"],a[href^=\"http://adrunnr.com/\"],a[href^=\"http://ads.expekt.com/affiliates/\"],a[href^=\"http://adtrackone.eu/\"],a[href^=\"http://affiliate.glbtracker.com/\"],a[href^=\"http://affiliates.score-affiliates.com/\"],a[href^=\"http://anonymous-net.com/\"],a[href^=\"http://at.atwola.com/\"],a[href^=\"http://azmobilestore.co/\"],a[href^=\"http://bcntrack.com/\"],a[href^=\"http://bestorican.com/\"],a[href^=\"http://betahit.click/\"],a[href^=\"http://c.ketads.com/\"],a[href^=\"http://cdn.adsrvmedia.net/\"],a[href^=\"http://cdn3.adexprts.com/\"],a[href^=\"http://click.plista.com/pets\"],a[href^=\"http://clickandjoinyourgirl.com/\"],a[href^=\"http://clkmon.com/adServe/\"],a[href^=\"http://codec.codecm.com/\"],a[href^=\"http://cpaway.afftrack.com/\"],a[href^=\"http://czotra-32.com/\"],a[href^=\"http://databass.info/\"],a[href^=\"http://dftrck.com/\"],a[href^=\"http://down1oads.com/\"],a[href^=\"http://download-performance.com/\"],a[href^=\"http://dwn.pushtraffic.net/\"],a[href^=\"http://earandmarketing.com/\"],a[href^=\"http://eclkmpsa.com/\"],a[href^=\"http://engine.newsmaxfeednetwork.com/\"],a[href^=\"http://ethfw0370q.com/\"],a[href^=\"http://farm.plista.com/pets\"],a[href^=\"http://finaljuyu.com/\"],a[href^=\"http://findersocket.com/\"],a[href^=\"http://freesoftwarelive.com/\"],a[href^=\"http://fsoft4down.com/\"],a[href^=\"http://g1.v.fwmrm.net/ad/\"],a[href^=\"http://galleries.securewebsiteaccess.com/\"],a[href^=\"http://go.mobisla.com/\"],a[href^=\"http://go.oclaserver.com/\"],a[href^=\"http://go.seomojo.com/tracking202/\"],a[href^=\"http://greensmoke.com/\"],a[href^=\"http://hd-plugins.com/download/\"],a[href^=\"http://igromir.info/\"],a[href^=\"http://imads.integral-marketing.com/\"],a[href^=\"http://install.securewebsiteaccess.com/\"],a[href^=\"http://k2s.cc/pr/\"],a[href^=\"http://latestdownloads.net/download.php?\"],a[href^=\"http://lp.ezdownloadpro.info/\"],a[href^=\"http://lp.ncdownloader.com/\"],a[href^=\"http://mmo123.co/\"],a[href^=\"http://n.admagnet.net/\"],a[href^=\"http://onclickads.net/\"],a[href^=\"http://pan.adraccoon.com?\"],a[href^=\"http://papi.mynativeplatform.com:80/pub2/\"],a[href^=\"http://play4k.co/\"],a[href^=\"http://pokershibes.com/index.php?ref=\"],a[href^=\"http://pwrads.net/\"],a[href^=\"http://refpaano.host/\"],a[href^=\"http://s5prou7ulr.com/\"],a[href^=\"http://s9kkremkr0.com/\"],a[href^=\"http://searchtabnew.com/\"],a[href^=\"http://secure.signup-page.com/\"],a[href^=\"http://see-work.info/\"],a[href^=\"http://servicegetbook.net/\"],a[href^=\"http://spygasm.com/track?\"],a[href^=\"http://srvpub.com/\"],a[href^=\"http://stateresolver.link/\"],a[href^=\"http://track.trkvluum.com/\"],a[href^=\"http://ucam.xxx/?utm_\"],a[href^=\"http://vinfdv6b4j.com/\"],a[href^=\"http://web.adblade.com/\"],a[href^=\"http://webtrackerplus.com/\"],a[href^=\"http://wopertific.info/\"],a[href^=\"http://www.1clickdownloader.com/\"],a[href^=\"http://www.adskeeper.co.uk/\"],a[href^=\"http://www.advcashpro.com/aff/\"],a[href^=\"http://www.affiliates1128.com/processing/\"],a[href^=\"http://www.afgr2.com/\"],a[href^=\"http://www.afgr3.com/\"],a[href^=\"http://www.babylon.com/welcome/index?affID\"],a[href^=\"http://www.bitlord.me/share/\"],a[href^=\"http://www.clkads.com/adServe/\"],a[href^=\"http://www.dealcent.com/register.php?affid=\"],a[href^=\"http://www.dl-provider.com/search/\"],a[href^=\"http://www.downloadplayer1.com/\"],a[href^=\"http://www.downloadthesefiles.com/\"],a[href^=\"http://www.downloadweb.org/\"],a[href^=\"http://www.easydownloadnow.com/\"],a[href^=\"http://www.firstload.com/affiliate/\"],a[href^=\"http://www.firstload.de/affiliate/\"],a[href^=\"http://www.flashx.tv/downloadthis\"],a[href^=\"http://www.freefilesdownloader.com/\"],a[href^=\"http://www.friendlyadvertisements.com/\"],a[href^=\"http://www.friendlyquacks.com/\"],a[href^=\"http://www.idownloadplay.com/\"],a[href^=\"http://www.liversely.net/\"],a[href^=\"http://www.menaon.com/installs/\"],a[href^=\"http://www.mobileandinternetadvertising.com/\"],a[href^=\"http://www.myfreepaysite.com/sfw.php?aid\"],a[href^=\"http://www.paddypower.com/?AFF_ID=\"],a[href^=\"http://www.quick-torrent.com/download.html?aff\"],a[href^=\"http://www.seekbang.com/cs/\"],a[href^=\"http://www.sex.com/?utm_\"],a[href^=\"http://www.sex.com/pics/?utm_\"],a[href^=\"http://www.sex.com/videos/?utm_\"],a[href^=\"http://www.streamate.com/exports/\"],a[href^=\"http://www.terraclicks.com/\"],a[href^=\"http://www.torntv-downloader.com/\"],a[href^=\"http://www.urmediazone.com/signup\"],a[href^=\"http://www.usearchmedia.com/signup?\"],a[href^=\"http://www.wantstraffic.com/\"],a[href^=\"http://www.webtrackerplus.com/\"],a[href^=\"http://www.xmediaserve.com/\"],a[href^=\"http://wxdownloadmanager.com/dl/\"],a[href^=\"http://y1jxiqds7v.com/\"],a[href^=\"http://z1.zedo.com/\"],a[href^=\"https://10dfkuvbdkfv.club/\"],a[href^=\"https://adhealers.com/\"],a[href^=\"https://adnetwrk.com/\"],a[href^=\"https://ads-for-free.com/click.php?\"],a[href^=\"https://ads.cdn.live/\"],a[href^=\"https://ads.trafficpoizon.com/\"],a[href^=\"https://adswick.com/\"],a[href^=\"https://americafirstpolls.com/\"],a[href^=\"https://awentw.com/\"],a[href^=\"https://blackorange.go2cloud.org/\"],a[href^=\"https://bluedelivery.pro/\"],a[href^=\"https://bnsjb1ab1e.com/\"],a[href^=\"https://bullads.net/get/\"],a[href^=\"https://chaturbate.jjgirls.com/\"][href*=\"?tour=\"],a[href^=\"https://click.plista.com/pets\"],a[href^=\"https://creacdn.top-convert.com/\"],a[href^=\"https://dediseedbox.com/clients/aff.php?\"],a[href^=\"https://deliver.tf2www.com/\"],a[href^=\"https://delivery.porn.com/\"],a[href^=\"https://fast-redirecting.com/\"],a[href^=\"https://flirtaescopa.com/\"],a[href^=\"https://freeadult.games/\"],a[href^=\"https://gamescarousel.com/\"],a[href^=\"https://gghf.mobi/\"],a[href^=\"https://giftsale.co.uk/?utm_\"],a[href^=\"https://go.ebrokerserve.com/\"],a[href^=\"https://go.trackitalltheway.com/\"],a[href^=\"https://go.trkclick2.com/\"],a[href^=\"https://gogoman.me/\"],a[href^=\"https://iactrivago.ampxdirect.com/\"],a[href^=\"https://intrev.co/\"],a[href^=\"https://meet-sexhere.com/\"],a[href^=\"https://myusenet.xyz/\"],a[href^=\"https://playuhd.host/\"],a[href^=\"https://refpaano.host/\"],a[href^=\"https://retiremely.com/\"],a[href^=\"https://rev.adsession.com/\"],a[href^=\"https://scurewall.co/\"],a[href^=\"https://sexsimulator.game/tab/?SID=\"],a[href^=\"https://spygasm.com/track?\"],a[href^=\"https://t.mobtya.com/\"],a[href^=\"https://topoffers.com/\"][href*=\"/?pid=\"],a[href^=\"https://track.52zxzh.com/\"],a[href^=\"https://track.bruceads.com/\"],a[href^=\"https://track.clickmoi.xyz/\"],a[href^=\"https://traffic.bannerator.com/\"],a[href^=\"https://trf.bannerator.com/\"],a[href^=\"https://trklvs.com/\"],a[href^=\"https://trusted-click-host.com/\"],a[href^=\"https://uncensored3d.com/\"],a[href^=\"https://vlnk.me/\"],a[href^=\"https://watchmygirlfriend.tv/\"],a[href^=\"https://weedzy.co.uk/\"][href*=\"&utm_\"],a[href^=\"https://www.adxtro.com/\"],a[href^=\"https://www.chngtrack.com/\"],a[href^=\"https://www.firstload.com/affiliate/\"],a[href^=\"https://www.oboom.com/ad/\"],a[href^=\"https://www.what-sexdating.com/\"],a[onclick*=\"//m.economictimes.com/etmack/click.htm\"],a[onmousedown^=\"this.href='/wp-content/embed-ad-content/\"],a[src^=\"https://www.utherverse.com/net/\"],div[class$=\"_b-ad-main\"],div[class*=\"_browserAdOuterContainer_\"],div[class^=\"AdBannerWrapper-\"],div[class^=\"AdItem-\"],div[class^=\"Ad__adContainer\"],div[class^=\"Ad__bigBox\"],div[class^=\"Ad__container\"],div[class^=\"AdhesionAd_\"],div[class^=\"BlockAdvert-\"],div[class^=\"ResponsiveAd-\"],div[class^=\"adpubs-\"],div[class^=\"awpcp-random-ads\"],div[class^=\"block-openx-\"],div[class^=\"index_adAfterContent_\"],div[class^=\"index_displayAd_\"],div[class^=\"largeRectangleAd_\"],div[class^=\"lifeOnwerAd\"],div[class^=\"local-feed-banner-ads\"],div[class^=\"pane-adsense-managed-\"],div[class^=\"pane-google-admanager-\"],div[class^=\"proadszone-\"],div[id^=\"YFBMSN\"],div[id^=\"code_ads_\"],div[id^=\"div-adtech-ad-\"],div[id^=\"div_ad_stack_\"],div[id^=\"div_openx_ad_\"],div[id^=\"dmRosAdWrapper\"],div[id^=\"proadszone-\"],div[id^=\"tms-ad-dfp-\"],a[href*=\"get-express-vpn.xyz\"],a[href^=\"http://https://www.get-express-vpn.com/offer/\"],a[href^=\"https://track.ultravpn.com/\"],a[href^=\"https://www.goldenfrog.com/vyprvpn?offer_id=\"][href*=\"&aff_id=\"],[href^=\"/ucdownload.php\"],a[href^=\"http://duckcash.eu/\"],a[href^=\"http://www.cash-duck.com/\"],a[href^=\"http://www.ducksnetwork.com/\"],a[href^=\"http://www.duckssolutions.com/\"],a[href^=\"http://www.fducks.com/\"],input[onclick^=\"window.open('http://www.FriendlyDuck.com/\"],[href*=\".doubleclick-net.com\"],[href*=\".etracking.pro\"],[href*=\".go2page.net\"],[href*=\".mclick.net\"],[href*=\".trackmstr.com\"],[href*=\".trackout.business\"],[href*=\"//doubleclick-net.com\"],[href*=\"//etracking.pro\"],[href*=\"//go2page.net\"],[href*=\"//mclick.net\"],[href*=\"//trackout.business\"],[onclick*=\"content.ad/\"],div[class$=\"dealnews\"] > .dealnews,a[data-obtrack^=\"http://paid.outbrain.com/network/redir?\"],a[data-oburl^=\"http://paid.outbrain.com/network/redir?\"],a[data-oburl^=\"https://paid.outbrain.com/network/redir?\"],a[data-redirect^=\"this.href='http://paid.outbrain.com/network/redir?\"],a[data-url^=\"http://paid.outbrain.com/network/redir?\"],a[data-url^=\"http://paid.outbrain.com/network/redir?\"] + .author,a[data-widget-outbrain-redirect^=\"http://paid.outbrain.com/network/redir?\"],a[onmousedown^=\"this.href='http://paid.outbrain.com/network/redir?\"][target=\"_blank\"] + .ob_source,a[target=\"_blank\"][onmousedown=\"this.href^='http://paid.outbrain.com/network/redir?\"],a[href^=\"http://taboola-\"][href*=\"/redirect.php?app.type=\"],div[class^=\"backfill-taboola-home-slot-\"],#resultsAdsTop,#resultsAdsBottom,.biz-list-ad,.commercial-unit-mobile-top,.commercial-unit-mobile-bottom,.stream-ad,#tads.c,.story-header-ad,.block-itg-ads,.horiAd,.ad250x300,.in-article-adx,.amp-ad-wrapper,#atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top,.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci,.ads-fr,.ad-frame-container,#instant_ad,.js-ad_iframe_wrap,#ad-wiki-content-lower,.ad_network_content,#js-bottom-ad-300x250,.res_ad,.first_ad,.advertisement-position,._popIn_recommend_article_ad,._popIn_infinite_ad,.ad-adstir,div[data-crl=\"true\"][data-id^=\"CarouselPLA-\"],c-wiz[jsrenderer=\"YnuqN\"] > div > div > .Rn1jbe,.ads-ad,div[aria-label=\"Ads\"],amp-ad,.plugin-ad,.main__top-ad,.mobile-footer__ad,#js-bottom-ad-320x250,.flexContentAd,#mobileAdContainer,.c-advert,.c-ad--rectangle,.c-ad--mobile-bigbanner,.ad-area--pd,.ad-header-creative,.res_ad,.searchCenterBottomAds,.searchRightMiddleAds,.searchCenterTopAds,.searchSuperTopAds,.GeminiNativeAd,.ad-sp,.ad-tl2b,.des-adv,div[id^=\"anuncio\"],.patrocinio,.roba-container,div[id^=\"M\"][id*=\"Composite\"],.publi_lateral,#afsposicion2,#afsposicion1,.robapaginas,.envoltorio_publi,.adcontainer-portlet,.publicidad-content,.pub-300x250,.pub-950x100,.flex__publi,.publicidad-top,.dfp-queue,#publicidad-top,.ad_dfp_estandar,.bg-ad-left,.bg-ad-right,#PubTop1,.mod-ad-top,.publi_sky,#derpub,#pubinf,#publicidad_inferior,div[class^=\"ads__ad_container\"],.contenedor_superior_publi,.cnt-pub,.voc-oferplan,#PubMiddle1,.publicidad2,.contpubliSuper,.pub728x90,.txtPubli,.container-ads,#PubTop2,#PubMiddle2,.voc-sponsored,div[class^=\"cards__card_ad-\"],div[class^=\"publicHoriz\"],a[href*=\".kfiopkln.com/\"],a[href*=\"://yllix.com/publishers/\"],a[href^=\"http://www.amigos.com/go/\"],a[href*=\"://adpv.com/?idpartner=\"],a[href*=\"://mobidea.com/?r=\"],a[href*=\"aclaritics.info/\"],a[href^=\"://popads.net/users/refer/\"],a[href^=\"://seedingup.es/afiliados.html?id=\"],a[href^=\"http://wlx-secure.com/\"]"
     }
   },
   {
@@ -700,60 +700,6 @@
     "action": {
       "type": "css-display-none",
       "selector": ".header-ad-row"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^https?://",
-      "url-filter-is-case-sensitive": true,
-      "unless-top-url": [
-        "^[^:]+:(//)?([^/]+\\.)?studio55\\.fi[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?discord\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?apple\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?accounts\\.google\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?netflix\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?calendar\\.google\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?contacts\\.google\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?drive\\.google\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?open\\.spotify\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?wikipedia\\.org[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?bitbucket\\.org[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?cbs\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?curiositystream\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?disneyplus\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?dropbox\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?fastmail\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?github\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?gitlab\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?hbomax\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?icloud\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?jsfiddle\\.net[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?libhunt\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?mail\\.protonmail\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?myaccount\\.google\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?onedrive\\.live\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?pandora\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?paramountplus\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?peacocktv\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?photos\\.google\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?slack\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?teams\\.microsoft\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?tidal\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?tv\\.youtube\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?web\\.archive\\.org[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?web\\.telegram\\.org[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?wikibooks\\.org[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?wikidata\\.org[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?wikinews\\.org[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?wikiquote\\.org[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?wikiversity\\.org[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?wiktionary\\.org[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?geekzone\\.co\\.nz[^\\.][/:]?"
-      ]
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": ".column-ad"
     }
   },
   {
@@ -7736,7 +7682,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".ads,.placement"
+      "selector": ".ads"
     }
   },
   {
@@ -7826,7 +7772,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".ads,.placement"
+      "selector": ".ads"
     }
   },
   {
@@ -8286,7 +8232,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".ads,#previewBox"
+      "selector": ".ads"
     }
   },
   {
@@ -9056,7 +9002,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".b_ad,.b_adLastChild,a[h$=\",Ads\"],a[href*=\"/aclick?ld=\"],.adsMvC,.pa_carousel_mlo,.b_adBottom,.pa_sb,.ra_car_block"
+      "selector": ".b_ad,.b_adLastChild,a[h$=\",Ads\"],a[href*=\"/aclick?ld=\"],.adsMvC,.pa_carousel_mlo,.b_adBottom,.pa_sb,.ra_car_block,#b_pole"
     }
   },
   {
@@ -17666,7 +17612,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": "[class^=\"Advert_\"],.placement"
+      "selector": "[class^=\"Advert_\"]"
     }
   },
   {
@@ -17926,7 +17872,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".right,#previewBox"
+      "selector": ".right"
     }
   },
   {
@@ -17936,7 +17882,7 @@
     },
     "action": {
       "type": "css-display-none",
-      "selector": ".right,#previewBox"
+      "selector": ".right"
     }
   },
   {
@@ -21621,16 +21567,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?pr0gramm\\.com[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": ".side-wide-skyscraper"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?bizpacreview\\.com[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
@@ -22397,26 +22333,6 @@
     "action": {
       "type": "css-display-none",
       "selector": ".recipeAd"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?buzz\\.ie[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": ".add-block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?theweekendsun\\.co\\.nz[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": ".add-block"
     }
   },
   {
@@ -23581,16 +23497,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?streetcheck\\.co\\.uk[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": ".placement"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?carsales\\.com\\.au[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
@@ -24311,46 +24217,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?cranestodaymagazine\\.com[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": "#wrapper_banners"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?hoistmagazine\\.com[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": "#wrapper_banners"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?ttjonline\\.com[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": "#wrapper_banners"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?tunnelsonline\\.info[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": "#wrapper_banners"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?teslaoracle\\.com[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
@@ -24601,16 +24467,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?westcapenews\\.com[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": "#leaderboardspace"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?publicholidays\\.us[^\\.][/:]?",
       "url-filter-is-case-sensitive": true
     },
@@ -24727,16 +24583,6 @@
     "action": {
       "type": "css-display-none",
       "selector": ".sideXd"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?sassyhongkong\\.com[^\\.][/:]?",
-      "url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "css-display-none",
-      "selector": ".site-leaderboard"
     }
   },
   {
@@ -85370,23 +85216,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?ign\\.com/zdadkit2\\.js",
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?froala\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -85601,23 +85430,6 @@
         "^[^:]+:(//)?([^/]+\\.)?dt07\\.net([^-_.%a-z0-9].*)?$"
       ],
       "top-url-filter-is-case-sensitive": true
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?ign\\.com/s/js/zad\\.js",
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
     },
     "action": {
       "type": "block"
@@ -86128,24 +85940,6 @@
   {
     "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?dfdybylchujl\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?flycheapen\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -87043,24 +86837,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?gnawinstruct\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?prideidiotswarthy\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -87930,24 +87706,6 @@
   {
     "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?nodrmcxjevtuc\\.xyz([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?glssp\\.net([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -89636,24 +89394,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?eeksidro\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?mistfzqaw\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -91114,24 +90854,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?mdpszsqzs\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?beataemusky\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -91905,24 +91627,6 @@
   {
     "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?bexakezi\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?cjezgbjbltos\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -93263,24 +92967,6 @@
   {
     "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?bplnskyetroo\\.xyz([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?jmuaoupnykie\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -98221,40 +97907,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?xxxshake\\.com/assets/f_load\\.js",
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?xxxshake\\.com/static/js/script\\.js",
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?haracteris\\.club([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -98364,24 +98016,6 @@
   {
     "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?d2u6dc21frjf6h\\.cloudfront\\.net([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?exploreholidayexcellent\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -101912,24 +101546,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?amtminjo\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?fertilitycommand\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -103765,24 +103381,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?pacoaniy\\.net([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?expats\\.cz/images/amedia/",
       "resource-type": [
         "image",
@@ -104447,24 +104045,6 @@
   {
     "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?cyrasi\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?easiestsponsor\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -105317,24 +104897,6 @@
   {
     "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?campuscompositionzodiac\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?comaoblivion\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -106675,24 +106237,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?cevowesty\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?dpisjtoqmbtuu\\.xyz([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -107072,24 +106616,6 @@
   {
     "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?nsontrackso\\.online([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?get-me-wow\\.xyz([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -108077,24 +107603,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?indefinitecommitment\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?hisainog\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -109031,24 +108539,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?cherishexpertise\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?tmrjmp\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -109248,24 +108738,6 @@
   {
     "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?ad-back\\.net([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?grahisiwhu\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -116670,24 +116142,6 @@
   {
     "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?aws-ajax\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?baxisafy\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -130241,24 +129695,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?byvuwhubi\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?cafegraha\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -130332,24 +129768,6 @@
   {
     "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?cash4members\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?catynydy\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -134184,24 +133602,6 @@
   {
     "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?jqueryserver\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?jscdn\\.online([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
@@ -143453,24 +142853,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^[^:]+:(//)?([^/]+\\.)?tyjawhesu\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "image",
-        "style-sheet",
-        "script",
-        "font",
-        "media",
-        "raw",
-        "document"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?tysolomona\\.co([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -146397,18 +145779,6 @@
   },
   {
     "trigger": {
-      "url-filter": "^https?://([^/]+\\.)?benoopto\\.com([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "popup"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
       "url-filter": "^https?://([^/]+\\.)?beparaspr\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -146737,18 +146107,6 @@
   {
     "trigger": {
       "url-filter": "^https?://([^/]+\\.)?cymetaphy\\.xyz([^-_.%a-z0-9].*)?$",
-      "url-filter-is-case-sensitive": true,
-      "resource-type": [
-        "popup"
-      ]
-    },
-    "action": {
-      "type": "block"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^https?://([^/]+\\.)?daijopimplo\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
         "popup"
@@ -150182,6 +149540,24 @@
   {
     "trigger": {
       "url-filter": "^[^:]+:(//)?([^/]+\\.)?hifeed\\.site/jquery\\.js",
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?rma\\.homedepot\\.com([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
       "resource-type": [
         "image",
         "style-sheet",
@@ -159069,20 +158445,6 @@
       "url-filter": "^https?://([^/]+\\.)?userload\\.co/adpopup\\.js",
       "resource-type": [
         "script"
-      ]
-    },
-    "action": {
-      "type": "ignore-previous-rules"
-    }
-  },
-  {
-    "trigger": {
-      "url-filter": "^https?://([^/]+\\.)?radiosun\\.fi/wp-content/uploads/.*300x250",
-      "resource-type": [
-        "image"
-      ],
-      "load-type": [
-        "first-party"
       ]
     },
     "action": {
