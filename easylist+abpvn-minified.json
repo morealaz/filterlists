@@ -159694,6 +159694,24 @@
   },
   {
     "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?genmonet\\.com([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
       "url-filter": "^https?://([^/]+\\.)?jbovietnam\\.com([^-_.%a-z0-9].*)?$",
       "url-filter-is-case-sensitive": true,
       "resource-type": [
@@ -159713,6 +159731,24 @@
       ],
       "load-type": [
         "third-party"
+      ]
+    },
+    "action": {
+      "type": "block"
+    }
+  },
+  {
+    "trigger": {
+      "url-filter": "^[^:]+:(//)?([^/]+\\.)?modestsunf\\.com([^-_.%a-z0-9].*)?$",
+      "url-filter-is-case-sensitive": true,
+      "resource-type": [
+        "image",
+        "style-sheet",
+        "script",
+        "font",
+        "media",
+        "raw",
+        "document"
       ]
     },
     "action": {
@@ -169264,7 +169300,8 @@
         "^[^:]+:(//)?([^/]+\\.)?pennbookcenter\\.com[^\\.][/:]?",
         "^[^:]+:(//)?([^/]+\\.)?vnjpclub\\.com[^\\.][/:]?",
         "^[^:]+:(//)?([^/]+\\.)?753x\\.blogspot\\.com[^\\.][/:]?",
-        "^[^:]+:(//)?([^/]+\\.)?ngohoanganhtuan\\.com[^\\.][/:]?"
+        "^[^:]+:(//)?([^/]+\\.)?ngohoanganhtuan\\.com[^\\.][/:]?",
+        "^[^:]+:(//)?([^/]+\\.)?ngohoanganhtuan\\.net[^\\.][/:]?"
       ]
     },
     "action": {
