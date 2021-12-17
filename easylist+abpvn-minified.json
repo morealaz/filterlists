@@ -19289,16 +19289,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?rawstory\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#rawstory_front_2_container"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?patriotfetch\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -20999,16 +20989,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ghacks\\.net[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#download-widget"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?cq-esports\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -22406,16 +22386,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ghienphim\\.org[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".ads,.ad-floater,.preloader-wrapper,.video-ad-layer"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?vieclam123\\.net[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -22481,7 +22451,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": ".ads,.ad-floater,.video-ad-layer,.no-ads"
+		"selector": ".ads,.ad-floater,.preloader-wrapper,.video-ad-layer,.no-ads"
 	}
 },
 {
@@ -22548,19 +22518,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ephimmoi\\.net[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true,
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?pokeminers\\.com[^\\.][/:]?"
-		]
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".ad-container,#popup-giua-man-hinh"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ephoto360\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true,
 		"unless-top-url": [
@@ -22570,6 +22527,19 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".ad-container,.line-ads"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ephimmoi\\.net[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true,
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?pokeminers\\.com[^\\.][/:]?"
+		]
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".ad-container,#popup-giua-man-hinh"
 	}
 },
 {
@@ -22827,12 +22797,42 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?topphim18\\.net[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".modal-backdrop,.float-ck,.float-top,#mobile-preload-modal"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?truyentranhaudio\\.com[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".modal-backdrop,div.mrb10"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?90phut\\.net[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
 		"type": "css-display-none",
 		"selector": ".modal-backdrop,#overlay,#dnn_float_left,#dnn_float_right,.btn-od,a[target=\"_blank\"][rel=\"nofollow noopener\"]"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tructiepbongda\\.tv[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".modal-backdrop,#overlay"
 	}
 },
 {
@@ -23133,16 +23133,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?topphim18\\.net[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".float-ck,.in.fade.modal-backdrop,.float-top,#mobile-preload-modal"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?minefc\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -23279,6 +23269,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".float-ck,a[target=\"_blank\"][rel=\"nofollow noopener\"],.jeg_postblock"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?vphimzz\\.net[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".float-ck,.catfish-ck"
 	}
 },
 {
@@ -23833,16 +23833,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tructiepbongda\\.tv[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#overlay,.show.fade.modal-backdrop"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?phim7z\\.tv[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -23873,22 +23863,22 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ssphim\\.net[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".uniad-zonetype-preload-container,.uniad-zonetype-preload-overlay,.uniad-zonetype-preload-overlay,.uniad-zonetype-preload-container,div[id*=\"uniad-zone\"],div[id*=\"uniad-balloon-wrapper\"]"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?zone\\.tv[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
 		"type": "css-display-none",
 		"selector": ".uniad-zonetype-preload-container,.uniad-zonetype-preload-overlay"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ssphim\\.net[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".uniad-zonetype-preload-container,.uniad-zonetype-preload-overlay,.uniad-zonetype-preload-overlay,.uniad-zonetype-preload-container,div[id*=\"uniad-zone\"],div[id*=\"uniad-balloon-wrapper\"]"
 	}
 },
 {
@@ -24103,17 +24093,17 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?truyentranhaudio\\.com[^\\.][/:]?",
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?truyentranhaudio\\.online[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "div.mrb10,.in.fade.modal-backdrop"
+		"selector": "div.mrb10,.mrb10"
 	}
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?truyentranhaudio\\.online[^\\.][/:]?",
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?vcomic\\.net[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
@@ -24363,12 +24353,12 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tuoi69z\\.com[^\\.][/:]?",
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tuoi69\\.live[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "#bar_float_r,.adspopuprightMB,.quangcaomb,.adsCenterHome,.adsTopHome,.banner-detail,.banner-topR,#coh963846,#co453569,.logo2,.adspopupright,.adspopuprightMB,.adspopuprightMB,.adspopupleft"
+		"selector": "#bar_float_r,.adspopuprightMB,.quangcaomb,.adsCenterHome,.adsTopHome,.banner-detail,.banner-topR"
 	}
 },
 {
@@ -25093,22 +25083,22 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?afamily\\.vn[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".afw-topbanner,div[id^=\"adm-slot-\"]"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?sport5\\.vn[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
 		"type": "css-display-none",
 		"selector": ".afw-topbanner"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?afamily\\.vn[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".afw-topbanner,div[id^=\"adm-slot-\"]"
 	}
 },
 {
@@ -26926,16 +26916,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?vcomic\\.net[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".mrb10,.mrb10"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?vesotantai\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -27909,6 +27889,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".mgid-sidebar.mgid-container,div[id^=\"ads-container\"],div[id^=\"gl-\"],div[class^=\"aairtime\"],div[class^=\"asidebar\"],iframe[data-glx=\"yeap\"]"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tuoi69z\\.com[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "#coh963846,#co453569,.logo2,.adspopupright,.adspopuprightMB,.adspopuprightMB,.adspopupleft"
 	}
 },
 {
@@ -95214,24 +95204,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?slightists\\.xyz([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?iesboughts\\.xyz([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -109091,24 +109063,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?embtrk\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?detruckshtick\\.casa([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -112782,24 +112736,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?earnify\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?adsoptimal\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -113098,24 +113034,6 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?adviralmedia\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?afflat3a1\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -116110,24 +116028,6 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mupsytyzu\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?nads\\.io([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -130505,42 +130405,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mwprotected\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mwquick\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mykiger\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -139470,24 +139334,6 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?videosave\\.link([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?viency-vering\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -149236,7 +149082,7 @@
 			"image"
 		],
 		"if-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?tuoi69z\\.com[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?tuoi69\\.live[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?sieukhungz\\.net[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?tuoinung\\.com[^\\.][/:]?"
 		]
@@ -155187,6 +155033,20 @@
 },
 {
 	"trigger": {
+		"url-filter": "^https?://([^/]+\\.)?gameiwin\\.net/wp-content/uploads/",
+		"resource-type": [
+			"image"
+		],
+		"if-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?daominhha\\.com[^\\.][/:]?"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?giadinhvietnam\\.com/api/adv([^-_.%A-Za-z0-9].*)?$",
 		"resource-type": [
 			"image",
@@ -157037,7 +156897,7 @@
 			"image"
 		],
 		"if-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?ghienphim\\.org[^\\.][/:]?"
+			"^[^:]+:(//)?([^/]+\\.)?ghienphimz\\.org[^\\.][/:]?"
 		]
 	},
 	"action": {
@@ -158488,6 +158348,17 @@
 			"media",
 			"raw",
 			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/]+\\.)?vnsgaming\\.com/images/banner/",
+		"resource-type": [
+			"image"
 		]
 	},
 	"action": {
@@ -160664,7 +160535,7 @@
 },
 {
 	"trigger": {
-		"url-filter": "^https?://([^/]+\\.)?tuoi69z\\.com/balloon",
+		"url-filter": "^https?://([^/]+\\.)?tuoi69\\.live/balloon",
 		"resource-type": [
 			"script"
 		]
@@ -171160,26 +171031,6 @@
 		],
 		"if-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?sum\\.vn[^\\.][/:]?"
-		]
-	},
-	"action": {
-		"type": "ignore-previous-rules"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b\\.me/b7z2i5vh6a9zp1n8s4c6f7e4v8acjg7v9sj2a5mjelz6w3zb5cj3q6t3c7a3c5vj7q1z8dtavh2zn0pq9o7m\\.js",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"if-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?m\\.blogtruyen\\.vn[^\\.][/:]?"
 		]
 	},
 	"action": {

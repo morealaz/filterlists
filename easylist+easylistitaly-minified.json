@@ -19222,16 +19222,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?rawstory\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#rawstory_front_2_container"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?patriotfetch\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -20928,16 +20918,6 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".button"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ghacks\\.net[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#download-widget"
 	}
 },
 {
@@ -117508,24 +117488,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?slightists\\.xyz([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?iesboughts\\.xyz([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -131547,24 +131509,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?embtrk\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?detruckshtick\\.casa([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -135274,24 +135218,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?earnify\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?adsoptimal\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -135590,24 +135516,6 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?adviralmedia\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?afflat3a1\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -138602,24 +138510,6 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mupsytyzu\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?nads\\.io([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -153069,42 +152959,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mwprotected\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mwquick\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mykiger\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -162070,24 +161924,6 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?videosave\\.link([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?viency-vering\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
