@@ -4,9 +4,6 @@
 		"url-filter": "^https?://",
 		"url-filter-is-case-sensitive": true,
 		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?dropbox\\.com[^\\.][/:]?",
-			"^[^:]+:(//)?([^/]+\\.)?icloud\\.com[^\\.][/:]?",
-			"^[^:]+:(//)?([^/]+\\.)?onedrive\\.live\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?geekzone\\.co\\.nz[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?yandex\\.[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?7days2die\\.info[^\\.][/:]?",
@@ -171,9 +168,6 @@
 			"^[^:]+:(//)?([^/]+\\.)?daz3d\\.ru[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?forums\\.rusmedserv\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?trialkeys\\.ru[^\\.][/:]?",
-			"^[^:]+:(//)?([^/]+\\.)?dropbox\\.com[^\\.][/:]?",
-			"^[^:]+:(//)?([^/]+\\.)?icloud\\.com[^\\.][/:]?",
-			"^[^:]+:(//)?([^/]+\\.)?onedrive\\.live\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?geekzone\\.co\\.nz[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?yandex\\.[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?7days2die\\.info[^\\.][/:]?",
@@ -714,7 +708,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "#system_msg,div[data-ad],div[data-ad-view],#ads_left *,.ads_ads_box"
+		"selector": "#system_msg,div[data-ad],div[data-ad-view],#ads_left *,.ads_ads_box,.EcommFeedItemsBlock"
 	}
 },
 {
@@ -4415,7 +4409,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": ".promotedlink,div[data-before-content=\"advertisement\"]"
+		"selector": ".promotedlink,div[data-before-content=\"advertisement\"],shreddit-comments-page-ad"
 	}
 },
 {
@@ -5255,7 +5249,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": ".darla,.ads,#sda-MAST,.darla-container,#sda-LDRB,.darla-lrec-ad,div[class*=\"gemini-ad\"],.gemini-ad,#sda-LDRB2,.Feedback,div[style*=\"/ads/\"],div[id*=\"ComboAd\"],.gemini-ad-feedback,.item-beacon,div[data-beacon] > div[class*=\"streamBoxShadow\"],div[class*=\"ads-\"],#sda-WFPAD,div[class*=\"js-sponsored-\"],.caas-da,.caas-sidekick-item.item-beacon"
+		"selector": ".darla,.ads,#sda-MAST,.darla-container,#sda-LDRB,.darla-lrec-ad,div[class*=\"gemini-ad\"],.gemini-ad,#sda-LDRB2,.Feedback,div[style*=\"/ads/\"],div[id*=\"ComboAd\"],.gemini-ad-feedback,.item-beacon,div[data-beacon] > div[class*=\"streamBoxShadow\"],div[class*=\"ads-\"],#sda-LREC,#sda-WFPAD,div[class*=\"js-sponsored-\"],.caas-da,.caas-sidekick-item.item-beacon"
 	}
 },
 {
@@ -14047,7 +14041,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "a[href*=\".php\"]"
+		"selector": "a[href*=\".php\"],#gal_669"
 	}
 },
 {
@@ -20281,16 +20275,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?motor1\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".featured__apb"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?buzz\\.ie[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -21017,56 +21001,6 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".js-m-goto"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?datamation\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#sticky-bottom,#inline-top"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?esecurityplanet\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#sticky-bottom,#inline-top"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?eweek\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#sticky-bottom,#inline-top"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?serverwatch\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#sticky-bottom,#inline-top"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?webopedia\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "#sticky-bottom,#inline-top"
 	}
 },
 {
@@ -42144,7 +42078,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "[class^=\"embed-responsive\"],#mainContainer > div:not([id]),.col-auto[style^=\"height:\"],.vright,.spinner ~ .d-flex"
+		"selector": "[class^=\"embed-responsive\"],#mainContainer > div:not([id]),.col-auto[style^=\"height:\"],.vright,.spinner ~ .d-flex,div[class^=\"spinner\"] a + a"
 	}
 },
 {
@@ -44059,6 +43993,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?cvnews\\.cv\\.ua[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "body > a[href][target=\"_blank\"],.base-post-divider ~ a[href][target=\"_blank\"] > img,.our-news ~ a[href][target=\"_blank\"] > img,.our-news ~ img[src],[src*=\"/frontend/assets/advert/\"]"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?dead-serial\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -44169,6 +44113,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ifnews\\.org\\.ua[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "body > a[href][target=\"_blank\"],.base-post-divider ~ a[href][target=\"_blank\"] > img,.our-news ~ a[href][target=\"_blank\"] > img,.our-news ~ img[src],[src*=\"/frontend/assets/advert/\"]"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?igrovaya\\.org[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -44245,6 +44199,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": "body > a[href][target=\"_blank\"]"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?lvnews\\.org\\.ua[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "body > a[href][target=\"_blank\"],.base-post-divider ~ a[href][target=\"_blank\"] > img,.our-news ~ a[href][target=\"_blank\"] > img,.our-news ~ img[src],[src*=\"/frontend/assets/advert/\"]"
 	}
 },
 {
@@ -44399,6 +44363,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?rvnews\\.rv\\.ua[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "body > a[href][target=\"_blank\"],.base-post-divider ~ a[href][target=\"_blank\"] > img,.our-news ~ a[href][target=\"_blank\"] > img,.our-news ~ img[src],[src*=\"/frontend/assets/advert/\"]"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?saratovnews\\.ru[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -44459,6 +44433,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tenews\\.org\\.ua[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "body > a[href][target=\"_blank\"],a[href*=\"//besplatka.ua\"],.base-post-divider ~ a[href][target=\"_blank\"] > img,.our-news ~ a[href][target=\"_blank\"] > img,.our-news ~ img[src],[src*=\"/frontend/assets/advert/\"]"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tg\\.telepult\\.pro[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -44505,6 +44489,16 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": "body > a[href][target=\"_blank\"],a[href*=\"banner\"][target=\"_blank\"],a[href*=\"utm_\"],a[href][target=\"_blank\"][style*=\"/media/uploads/\"]"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?uanews\\.org\\.ua[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "body > a[href][target=\"_blank\"],.base-post-divider ~ a[href][target=\"_blank\"] > img,.our-news ~ a[href][target=\"_blank\"] > img,.our-news ~ img[src],[src*=\"/frontend/assets/advert/\"]"
 	}
 },
 {
@@ -53119,16 +53113,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tenews\\.org\\.ua[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": "a[href*=\"//besplatka.ua\"]"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ukrnews24\\.net[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -59134,7 +59118,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "#comments_content_block ~ *"
+		"selector": "#comments_content_block ~ *,#rt_obmen"
 	}
 },
 {
@@ -61345,6 +61329,36 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".article_sidebar > div[class=\"textwidget\"]"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?pindosoff\\.net[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".avr-wrapper"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?pornovkisku\\.com[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".avr-wrapper"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?teplomontag\\.net[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".avr-wrapper"
 	}
 },
 {
@@ -92226,6 +92240,7 @@
 			"^[^:]+:(//)?([^/]+\\.)?picclock\\.ru[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?picforall\\.ru[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?picpool\\.ru[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?pindosoff\\.net[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?pkzsk\\.info[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?pochistim\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?pojrem\\.ru[^\\.][/:]?",
@@ -92234,7 +92249,9 @@
 			"^[^:]+:(//)?([^/]+\\.)?poporaj\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?porno-island\\.site[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?pornohype\\.cc[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?pornosvideo\\.info[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?pornovau\\.top[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?pornovkisku\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?pornreactor\\.cc[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?prisnilos\\.su[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?propohoroni\\.ru[^\\.][/:]?",
@@ -92282,6 +92299,7 @@
 			"^[^:]+:(//)?([^/]+\\.)?supercook\\.ru[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?tapochek\\.net[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?tdnu\\.ru[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?teplomontag\\.net[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?thatpervert\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?theplace\\.ru[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?tipsboard\\.ru[^\\.][/:]?",
@@ -124247,31 +124265,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?bidvertiser\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"load-type": [
-			"third-party"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?bidvertiser\\.com([^-_.%a-z0-9].*)?$"
-		],
-		"top-url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?qktbbiavkqcqmn\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -124805,31 +124798,6 @@
 			"raw",
 			"document"
 		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?revenueflex\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"load-type": [
-			"third-party"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?revenueflex\\.com([^-_.%a-z0-9].*)?$"
-		],
-		"top-url-filter-is-case-sensitive": true
 	},
 	"action": {
 		"type": "block"
@@ -130919,31 +130887,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?adcalm\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"load-type": [
-			"third-party"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?adcalm\\.com([^-_.%a-z0-9].*)?$"
-		],
-		"top-url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?yyibqpcg\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -132491,24 +132434,6 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?hinotoenh\\.online([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?fertilitycommand\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -134895,24 +134820,6 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?cellojapanel\\.one([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?colletsopelu\\.cam([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -138813,31 +138720,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?neobux\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"load-type": [
-			"third-party"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?neobux\\.com([^-_.%a-z0-9].*)?$"
-		],
-		"top-url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?fqrqgaeqcmbjihq\\.xyz([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -139804,23 +139686,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?girlsofdesire\\.org/coat/",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?bc\\.vc/js/link-converter\\.js",
 		"resource-type": [
 			"image",
@@ -140376,31 +140241,6 @@
 			"raw",
 			"document"
 		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?adcash\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"load-type": [
-			"third-party"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?adcash\\.com([^-_.%a-z0-9].*)?$"
-		],
-		"top-url-filter-is-case-sensitive": true
 	},
 	"action": {
 		"type": "block"
@@ -141467,31 +141307,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?adthurst\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"load-type": [
-			"third-party"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?adthurst\\.com([^-_.%a-z0-9].*)?$"
-		],
-		"top-url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?aibiqihhuplxv\\.top([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -142073,24 +141888,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?midnightimpressionperception\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?nckwgmbfdwrj\\.xyz([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -142469,24 +142266,6 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?dzubavstal\\.com",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?coupleairplane\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -143050,31 +142829,6 @@
 			"raw",
 			"document"
 		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?adconity\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"load-type": [
-			"third-party"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?adconity\\.com([^-_.%a-z0-9].*)?$"
-		],
-		"top-url-filter-is-case-sensitive": true
 	},
 	"action": {
 		"type": "block"
@@ -144612,24 +144366,6 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?afordi\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ali-crm\\.ru([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -146814,56 +146550,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?adultadworld\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"load-type": [
-			"third-party"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?adultadworld\\.com([^-_.%a-z0-9].*)?$"
-		],
-		"top-url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?propellerads\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		],
-		"load-type": [
-			"third-party"
-		],
-		"unless-top-url": [
-			"^[^:]+:(//)?([^/]+\\.)?propellerads\\.com([^-_.%a-z0-9].*)?$"
-		],
-		"top-url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ypiads\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -148396,6 +148082,24 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?afterthoughtdevil\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?agadum\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -148415,6 +148119,24 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ahsqdvkgfetg\\.top([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ahyafxehqb\\.top([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -150071,6 +149793,24 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?cheumy\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?chipsleapt\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -151870,6 +151610,24 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?evealm\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ewxewjponmh\\.xyz([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -152500,6 +152258,24 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?fruine\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?ftbfbnnqcswcdeo\\.top([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -152896,6 +152672,24 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?glakychepy\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?globaladmedia\\.net([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -153238,6 +153032,24 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?hfsqlbqvmu\\.top([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?hhllryxtfgypz\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -153563,6 +153375,24 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?hyhhlsdewkn\\.top([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?hykiarmqudealy\\.top([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -154553,6 +154383,24 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?jwyiyqptg\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?kaoftrknb\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -155722,6 +155570,24 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mmngqvbfuzenlk\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mobsxlxoljirw\\.top([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -156065,6 +155931,24 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?nodowd\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?nonegrysu\\.pro([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -157414,6 +157298,24 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?priceplaneadulthood\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?psugeglapha\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -157684,6 +157586,24 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?qfvedpldkde\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?qktmauwugmkujq\\.top([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -157829,6 +157749,24 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?randiul\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?randomignitiondentist\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -160078,6 +160016,24 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?stinkwailingbalk\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?stopsidafa\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -160258,6 +160214,24 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?swaylieutenant\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?sweetskojiki\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -160367,6 +160341,24 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?tenderunderstatement\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?terats\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -162004,6 +161996,24 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?wthykuvsntho\\.top([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?wtwbvglzzt\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -163266,18 +163276,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^https?://([^/]+\\.)?bemachopor\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"popup"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^https?://([^/]+\\.)?beparaspr\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -163375,6 +163373,18 @@
 {
 	"trigger": {
 		"url-filter": "^https?://([^/]+\\.)?chewdeadlocksummary\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"popup"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/]+\\.)?chipsleapt\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"popup"
@@ -164506,6 +164516,18 @@
 {
 	"trigger": {
 		"url-filter": "^https?://([^/]+\\.)?nkwintenc\\.biz([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"popup"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/]+\\.)?nonegrysu\\.pro([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"popup"
@@ -167282,6 +167304,40 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?techsparx\\.com/___dlassets/i_shareasale_com/",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?techsparx\\.com/imgz/udemy/",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?dywolfer\\.de([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -167371,6 +167427,7 @@
 			"^[^:]+:(//)?([^/]+\\.)?playtube\\.ws[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?streamtape\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?strtape\\.cloud[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?strtpe\\.link[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?supervideo\\.tv[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?upstream\\.to[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?vidcloud9\\.com[^\\.][/:]?",
@@ -167730,6 +167787,23 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?exoav\\.com/nb/",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?girlsofdesire\\.org/red/",
 		"resource-type": [
 			"image",
 			"style-sheet",
@@ -179272,6 +179346,7 @@
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?amazingthailand\\.ru[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?autospot\\.ru[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?bankauto\\.ru[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?eldorado\\.ru[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?fin-markt\\.ru[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?jetravel\\.ru[^\\.][/:]?",
@@ -199449,6 +199524,31 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?aasrs\\.info([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"load-type": [
+			"third-party"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?aasrs\\.info([^-_.%a-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?adghndou0sdh\\.ru([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -199615,6 +199715,31 @@
 		],
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?bamboss\\.ru([^-_.%a-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?bs0zhksn3n\\.ru([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"load-type": [
+			"third-party"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?bs0zhksn3n\\.ru([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
 	},
@@ -200092,6 +200217,31 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mixcdnpr\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"load-type": [
+			"third-party"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?mixcdnpr\\.com([^-_.%a-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mucizewus\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -200117,6 +200267,31 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mxgetdata\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"load-type": [
+			"third-party"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?mxgetdata\\.com([^-_.%a-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?mxshuh\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -200133,6 +200308,31 @@
 		],
 		"unless-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?mxshuh\\.com([^-_.%a-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?o0nzlh5ew4\\.ru([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"load-type": [
+			"third-party"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?o0nzlh5ew4\\.ru([^-_.%a-z0-9].*)?$"
 		],
 		"top-url-filter-is-case-sensitive": true
 	},
@@ -200542,6 +200742,31 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?zd01etxhnree\\.top([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		],
+		"load-type": [
+			"third-party"
+		],
+		"unless-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?zd01etxhnree\\.top([^-_.%a-z0-9].*)?$"
+		],
+		"top-url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^http://.*/j/w\\.php\\?id=",
 		"resource-type": [
 			"script"
@@ -200643,6 +200868,28 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?.*/adata/",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw"
+		],
+		"if-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?pindosoff\\.net[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?pornosvideo\\.info[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?pornovkisku\\.com[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?teplomontag\\.net[^\\.][/:]?"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^https?://.*/add\\.php$",
 		"resource-type": [
 			"raw"
@@ -200674,6 +200921,52 @@
 		"if-top-url": [
 			"^[^:]+:(//)?([^/]+\\.)?gorvesti\\.ru[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?xn--b1ats\\.xn--80asehdb[^\\.][/:]?"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?.*/frontend/assets/advert/",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw"
+		],
+		"if-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?cvnews\\.cv\\.ua[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?ifnews\\.org\\.ua[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?lvnews\\.org\\.ua[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?rvnews\\.rv\\.ua[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?tenews\\.org\\.ua[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?uanews\\.org\\.ua[^\\.][/:]?"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?.*/procode/",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw"
+		],
+		"if-top-url": [
+			"^[^:]+:(//)?([^/]+\\.)?pindosoff\\.net[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?pornosvideo\\.info[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?pornovkisku\\.com[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?teplomontag\\.net[^\\.][/:]?"
 		]
 	},
 	"action": {
@@ -200844,6 +201137,17 @@
 			"media",
 			"raw",
 			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/]+\\.)?fastpic\\.org/z",
+		"resource-type": [
+			"image"
 		]
 	},
 	"action": {
@@ -201270,6 +201574,23 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?vesti\\.kz/ajax/get_banners/",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw",
+			"document"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?vk\\.com/dist/web/aliexpress_feed_recommendations_carousel\\.",
 		"resource-type": [
 			"image",
 			"style-sheet",
