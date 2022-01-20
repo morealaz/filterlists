@@ -98,6 +98,11 @@
 			"^[^:]+:(//)?([^/]+\\.)?docs\\.google\\.com[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?websosanh\\.vn[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?hypebeast\\.com[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?luotphim\\.fun[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?luotphim\\.cc[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?luotphim\\.vip[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?luotphimzz\\.com[^\\.][/:]?",
+			"^[^:]+:(//)?([^/]+\\.)?webphim\\.cc[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?geekzone\\.co\\.nz[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?ask4movie\\.io[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?anonyviet\\.com[^\\.][/:]?",
@@ -121,7 +126,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": ".ad-label,.ad-button,.ad-cover,.ad-container,.ad_container,.side-ad,.header-ad-row,#ad-top,#headerAd,.ad-active,.ad01,.adActive,.adText,.ads-container,.ads-top,.adsList,.ads_right,.adtag,.category-ad:not(html):not(body),[href^=\"http://globsads.com/\"],a[href*=\"adzerk.net\"],.video-ads,div[id^=\"sponsor-\"],.header-ad,.ad-fixed,.adsbygoogle,.ad-banner,#ad-banner,#banner_ad,.adsBox,.adheader,#adbox,.adsbyvli,.ads_top,#adsContainer,.ad-placement,.ads-large,.ng-isolate-scope,iframe[src=\"about:blank\"],.ads-wrap,.ad-blocked"
+		"selector": ".ad-label,.ad-button,.ad-cover,.ad-container,.ad_container,.side-ad,.header-ad-row,#ad-top,#headerAd,.ad-active,.ad01,.adActive,.adText,.ads-container,.ads-top,.adsList,.ads_right,.adtag,.category-ad:not(html):not(body),[href^=\"http://globsads.com/\"],a[href*=\"adzerk.net\"],.video-ads,div[id^=\"sponsor-\"],.header-ad,.ad-fixed,.adsbygoogle,.ad-banner,#ad-banner,#banner_ad,.adsBox,.adheader,#adbox,.adsbyvli,.ads_top,#adsContainer,.ad-placement,.ads-large,.ng-isolate-scope,iframe[src=\"about:blank\"],.ads-wrap,.ad-blocked,#fakeplayer"
 	}
 },
 {
@@ -4827,6 +4832,16 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?roadaheadonline\\.co\\.za[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".ads"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?roms-download\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
 	"action": {
@@ -13962,7 +13977,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": ".spot,.fp-brand,.recl"
+		"selector": ".spot,.recl"
 	}
 },
 {
@@ -18358,7 +18373,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "#mpu,.home-gamesplanet-promo"
+		"selector": "#mpu"
 	}
 },
 {
@@ -18578,7 +18593,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": ".code-block-1,img[width=\"300\"],.code-block-2,img[width=\"728\"],.code-block-3"
+		"selector": ".code-block-1,img[width=\"300\"],.code-block-2,img[width=\"728\"],#text-12,.code-block-3"
 	}
 },
 {
@@ -19713,16 +19728,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?phonearena\\.com[^\\.][/:]?",
-		"url-filter-is-case-sensitive": true
-	},
-	"action": {
-		"type": "css-display-none",
-		"selector": ".pa-sticky-container"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?justthenews\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -20473,6 +20478,16 @@
 },
 {
 	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?foreverconscious\\.com[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": ".widget_media_image"
+	}
+},
+{
+	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?pctechmag\\.com[^\\.][/:]?",
 		"url-filter-is-case-sensitive": true
 	},
@@ -20859,6 +20874,36 @@
 	"action": {
 		"type": "css-display-none",
 		"selector": ".banner-leaderboardArticle-area,.banner-middleboard-area,.banner-midContent-area,.banner-leaderboard-area,.banner-sidebar-area"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?cathnews\\.co\\.nz[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "#text-12"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?net-load\\.com[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "#text-12"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?([^/]+\\.)?wakingtimes\\.com[^\\.][/:]?",
+		"url-filter-is-case-sensitive": true
+	},
+	"action": {
+		"type": "css-display-none",
+		"selector": "#text-12,#media_image-2,[href^=\"https://www.wendymyersdetox.com/\"]"
 	}
 },
 {
@@ -24530,7 +24575,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "div[id^=\"adsphim-\"],#preroll-link,#fakeplayer,.adsphim-popup-center,.btn-load-ads,.adsphim"
+		"selector": "div[id^=\"adsphim-\"],#preroll-link,.adsphim-popup-center,.btn-load-ads,.adsphim"
 	}
 },
 {
@@ -24540,7 +24585,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "div[id^=\"adsphim-\"],#preroll-link,#fakeplayer,.adsphim-popup-center,.btn-load-ads,.adsphim"
+		"selector": "div[id^=\"adsphim-\"],#preroll-link,.adsphim-popup-center,.btn-load-ads,.adsphim"
 	}
 },
 {
@@ -24550,7 +24595,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "div[id^=\"adsphim-\"],#preroll-link,#fakeplayer,.adsphim-popup-center,.btn-load-ads,.adsphim"
+		"selector": "div[id^=\"adsphim-\"],#preroll-link,.adsphim-popup-center,.btn-load-ads,.adsphim"
 	}
 },
 {
@@ -24560,7 +24605,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "div[id^=\"adsphim-\"],#preroll-link,#fakeplayer,.adsphim-popup-center,.btn-load-ads,.adsphim"
+		"selector": "div[id^=\"adsphim-\"],#preroll-link,.adsphim-popup-center,.btn-load-ads,.adsphim"
 	}
 },
 {
@@ -24570,7 +24615,7 @@
 	},
 	"action": {
 		"type": "css-display-none",
-		"selector": "div[id^=\"adsphim-\"],#preroll-link,#fakeplayer,.adsphim-popup-center,.btn-load-ads,.adsphim"
+		"selector": "div[id^=\"adsphim-\"],#preroll-link,.adsphim-popup-center,.btn-load-ads,.adsphim"
 	}
 },
 {
@@ -87716,24 +87761,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?solideaved\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?whsdmiaxdujo\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -99387,24 +99414,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?scrapebust\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?cdtbox\\.rocks([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -101447,24 +101456,6 @@
 {
 	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?uncoilszaniest\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?wretchedsuperiority\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"image",
@@ -108227,6 +108218,22 @@
 			"^[^:]+:(//)?([^/]+\\.)?adpoint\\.de[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?adpoint\\.id[^\\.][/:]?",
 			"^[^:]+:(//)?([^/]+\\.)?adpoint\\.video[^\\.][/:]?"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^[^:]+:(//)?.*/soralink/",
+		"resource-type": [
+			"image",
+			"style-sheet",
+			"script",
+			"font",
+			"media",
+			"raw"
 		]
 	},
 	"action": {
@@ -115162,18 +115169,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^https?://([^/]+\\.)?roustarlyan\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"popup"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^https?://([^/]+\\.)?royalcactus\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -115720,18 +115715,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^https?://([^/]+\\.)?whoeverfrecklessfrecklesssupper\\.com([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"popup"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^https?://([^/]+\\.)?wholehori\\.com([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
@@ -115938,30 +115921,6 @@
 {
 	"trigger": {
 		"url-filter": "^https?://([^/]+\\.)?axp9\\.org\\.([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"popup"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^https?://([^/]+\\.)?cpng\\.ch\\.([^-_.%a-z0-9].*)?$",
-		"url-filter-is-case-sensitive": true,
-		"resource-type": [
-			"popup"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
-		"url-filter": "^https?://([^/]+\\.)?cpng\\.ch([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"popup"
@@ -126065,23 +126024,6 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?downmienphi\\.net/themes/downmienphi/images/banner-",
-		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
-		]
-	},
-	"action": {
-		"type": "block"
-	}
-},
-{
-	"trigger": {
 		"url-filter": "^[^:]+:(//)?([^/]+\\.)?drive\\.inet\\.vn/uploads/hobv@inet\\.vn/events/black%20friday/70-percent/file-1573630434749_web-ads\\(1920x250\\)\\.png",
 		"resource-type": [
 			"image",
@@ -132555,9 +132497,6 @@
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"script"
-		],
-		"load-type": [
-			"third-party"
 		]
 	},
 	"action": {
@@ -132567,6 +132506,42 @@
 {
 	"trigger": {
 		"url-filter": "^https?://([^/]+\\.)?auspiceguidance\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"script"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/]+\\.)?ip\\.shoversnobs\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"script"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/]+\\.)?yf\\.seitsinlike\\.com([^-_.%a-z0-9].*)?$",
+		"url-filter-is-case-sensitive": true,
+		"resource-type": [
+			"script"
+		]
+	},
+	"action": {
+		"type": "block"
+	}
+},
+{
+	"trigger": {
+		"url-filter": "^https?://([^/]+\\.)?yulunanews\\.name([^-_.%a-z0-9].*)?$",
 		"url-filter-is-case-sensitive": true,
 		"resource-type": [
 			"script"
@@ -145378,15 +145353,9 @@
 },
 {
 	"trigger": {
-		"url-filter": "^[^:]+:(//)?([^/]+\\.)?luotphimzz\\.com/wp-content/uploads/.*/.*\\.mp4",
+		"url-filter": "^https?://([^/]+\\.)?luotphim.*/wp-content/uploads/",
 		"resource-type": [
-			"image",
-			"style-sheet",
-			"script",
-			"font",
-			"media",
-			"raw",
-			"document"
+			"media"
 		]
 	},
 	"action": {
